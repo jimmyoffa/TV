@@ -257,6 +257,8 @@ https://vavoo.to/vavoo-iptv/play/151207238423ec1d54e5b8
 https://vavoo.to/vavoo-iptv/play/3946128844a366ea9809f0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.stereo5.it/2022/wp-content/uploads/2023/02/LOGO-NUOVO-2023-2.png" group-title="Altro",STEREO 5 TV
 https://vavoo.to/vavoo-iptv/play/88205050e85664590a6b
+#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/439/74/png-clipart-superman-superhero-drawing-super-man-font-superhero-heart.png" group-title="Altro",SUPER J
+https://vavoo.to/vavoo-iptv/play/1284194905df7c12749d48
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFBXh88zZx4IvyQKyYd5Hu2yeytO42zNQ4zA&s" group-title="Altro",SUPER TV ARISTANIS
 https://vavoo.to/vavoo-iptv/play/11653719d8ef305a8c92
 #EXTINF:-1 tvg-id="" tvg-logo="https://bresciasat.it/assets/front/img/logo3.png" group-title="Altro",SUPER TV BRESCIA
@@ -531,12 +533,6 @@ https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 https://dlhd.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
-https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
-https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
-https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://dlhd.click/stream/stream-870.php
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1
@@ -550,13 +546,9 @@ https://dlhd.click/stream/stream-460.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae
 #EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF
-https://vavoo.to/vavoo-iptv/play/729945219d6146597896a
-#EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF
 https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb
 #EXTINF:-1 tvg-id="sky.sport.max.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX
 https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb
-#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTO GP
-https://vavoo.to/vavoo-iptv/play/30363168866e9eeb997936
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP
 https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP (D)
@@ -657,8 +649,6 @@ https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
-#EXTINF:-1 tvg-id="boingplus.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS
-https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
 https://vavoo.to/vavoo-iptv/play/1744435623b422a758373c
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
@@ -673,6 +663,8 @@ https://vavoo.to/vavoo-iptv/play/217871728282294e996afe
 https://vavoo.to/vavoo-iptv/play/3037871903561253a95659
 #EXTINF:-1 tvg-id="frisbee.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/frisbee-it.png" group-title="Bambini",FRISBEE
 https://vavoo.to/vavoo-iptv/play/1995860185ce22f3fae905
+#EXTINF:-1 tvg-id="k2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2
+https://vavoo.to/vavoo-iptv/play/22557243183ffd471ea8ec
 #EXTINF:-1 tvg-id="k2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2
 https://vavoo.to/vavoo-iptv/play/11090349bae706bd9ec4
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
@@ -783,6 +775,8 @@ https://vavoo.to/vavoo-iptv/play/2221901869db7a5b77a267
 https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 15
 https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 16
+https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 17
 https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 18
@@ -921,56 +915,176 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="englandleaguecupaccringtonstanleyvsoldhamathletic" tvg-name="Soccer | England - League Cup : Accrington Stanley vs Oldham Athletic (20:45)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Accrington Stanley_vs_Oldham Athletic.png" group-title="Eventi Live",Soccer | England - League Cup : Accrington Stanley vs Oldham Athletic (20:45)
-https://dlhd.click/stream/stream-910.php
+#EXTINF:-1 tvg-id="africannationschampionshipburkinafasovscentralafricanrepublic" tvg-name="Soccer | African Nations Championship : Burkina Faso vs Central African Republic (16:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Burkina Faso_vs_Central African Republic.png" group-title="Eventi Live",Soccer | African Nations Championship : Burkina Faso vs Central African Republic (16:00)
+https://dlhd.click/stream/stream-425.php
 
-#EXTINF:-1 tvg-id="leaguescupcolumbuscrewvsleón" tvg-name="Soccer | Leagues Cup : Columbus Crew vs León (01:30)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Columbus Crew_vs_León.png" group-title="Eventi Live",Soccer | Leagues Cup : Columbus Crew vs León (01:30)
-https://dlhd.click/stream/stream-39.php
+#EXTINF:-1 tvg-id="africannationschampionshipmauritaniavstanzania" tvg-name="Soccer | African Nations Championship : Mauritania vs Tanzania (19:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Mauritania_vs_Tanzania.png" group-title="Eventi Live",Soccer | African Nations Championship : Mauritania vs Tanzania (19:00)
+https://dlhd.click/stream/stream-425.php
 
-#EXTINF:-1 tvg-id="leaguescupcolumbuscrewvsleón" tvg-name="Soccer | Leagues Cup : Columbus Crew vs León (01:30)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Columbus Crew_vs_León.png" group-title="Eventi Live",Soccer | Leagues Cup : Columbus Crew vs León (01:30)
+#EXTINF:-1 tvg-id="clubfriendlyrealbetisvscomo" tvg-name="Soccer | Club Friendly : Real Betis vs Como (20:30)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Real Betis_vs_Como.png" group-title="Eventi Live",Soccer | Club Friendly : Real Betis vs Como (20:30)
+https://dlhd.click/stream/stream-451.php
+
+#EXTINF:-1 tvg-id="clubfriendlyastonvillavsromazona" tvg-name="Soccer | Club Friendly : Aston Villa vs Roma Zona (20:30)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Aston Villa_vs_Roma Zona.png" group-title="Eventi Live",Soccer | Club Friendly : Aston Villa vs Roma Zona (20:30)
+https://dlhd.click/stream/stream-877.php
+
+#EXTINF:-1 tvg-id="leaguescupatlantaunitedvsatlas" tvg-name="Soccer | Leagues Cup : Atlanta United vs Atlas (01:30)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Atlanta United_vs_Atlas.png" group-title="Eventi Live",Soccer | Leagues Cup : Atlanta United vs Atlas (01:30)
 https://dlhd.click/stream/stream-66.php
 
-#EXTINF:-1 tvg-id="littleleaguebaseballsoutheastregionalfloridavstba" tvg-name="Baseball | Little League Baseball Southeast Regional: Florida vs. TBA (21:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Florida_vs_TBA.png" group-title="Eventi Live",Baseball | Little League Baseball Southeast Regional: Florida vs. TBA (21:00)
+#EXTINF:-1 tvg-id="uslleagueonenaplesvstormenta" tvg-name="Soccer | USL League One : Naples vs Tormenta (02:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Naples_vs_Tormenta.png" group-title="Eventi Live",Soccer | USL League One : Naples vs Tormenta (02:00)
+https://dlhd.click/stream/stream-308.php
+
+#EXTINF:-1 tvg-id="uslchampionshipmontereybayvsfctulsa" tvg-name="Soccer | USL Championship : Monterey Bay vs FC Tulsa (04:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Monterey Bay_vs_FC Tulsa.png" group-title="Eventi Live",Soccer | USL Championship : Monterey Bay vs FC Tulsa (04:00)
+https://dlhd.click/stream/stream-66.php
+
+#EXTINF:-1 tvg-id="thehundredwomenmanchesteroriginalswvssouthernbravew" tvg-name="Cricket | The Hundred Women : Manchester Originals W vs Southern Brave W (16:00)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Southern_Brave_2021.svg/revision/latest/scale-to-width-down/200?cb=20210716184309" group-title="Eventi Live",Cricket | The Hundred Women : Manchester Originals W vs Southern Brave W (16:00)
+https://dlhd.click/stream/stream-65.php
+
+#EXTINF:-1 tvg-id="thehundredmanchesteroriginalsvssouthernbrave" tvg-name="Cricket | The Hundred : Manchester Originals vs Southern Brave (19:30)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Manchester Originals_vs_Southern Brave.png" group-title="Eventi Live",Cricket | The Hundred : Manchester Originals vs Southern Brave (19:30)
+https://dlhd.click/stream/stream-65.php
+
+#EXTINF:-1 tvg-id="atpnationalbankopenatpwtacanadianopenmasters1000torontowtamontrealopen" tvg-name="Tennis | ATP National Bank Open | ATP & WTA Canadian Open | Masters 1000 Toronto | WTA Montreal Open (17:00)" tvg-logo="https://assets.stickpng.com/thumbs/62669d1e2c88722059d58717.png" group-title="Eventi Live",Tennis | ATP National Bank Open | ATP & WTA Canadian Open | Masters 1000 Toronto | WTA Montreal Open (17:00)
+https://dlhd.click/stream/stream-46.php
+
+#EXTINF:-1 tvg-id="swedishelitserienleaguespeedwaydackarnamalillavsvastervik" tvg-name="Motorsport | Swedish Elitserien League Speedway Dackarna Malilla vs. Vastervik (19:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Swedish Elitserien League Speedway Dackarna Malilla_vs_Vastervik.png" group-title="Eventi Live",Motorsport | Swedish Elitserien League Speedway Dackarna Malilla vs. Vastervik (19:00)
+https://dlhd.click/stream/stream-550.php
+
+#EXTINF:-1 tvg-id="wwenxt" tvg-name="WWE | WWE NXT (02:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8e95bdda-1d41-499d-88ca-565d2c45fa73/dgjo6ec-cf8fb01c-0486-4104-96b9-799540400fdc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhlOTViZGRhLTFkNDEtNDk5ZC04OGNhLTU2NWQyYzQ1ZmE3M1wvZGdqbzZlYy1jZjhmYjAxYy0wNDg2LTQxMDQtOTZiOS03OTk1NDA0MDBmZGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VQyxTvr9rYUeoiNsZbExweGpNv9OwKNjuxV0ugp0x_g" group-title="Eventi Live",WWE | WWE NXT (02:00)
+https://dlhd.click/stream/stream-300.php
+
+#EXTINF:-1 tvg-id="wwenxt" tvg-name="WWE | WWE NXT (02:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8e95bdda-1d41-499d-88ca-565d2c45fa73/dgjo6ec-cf8fb01c-0486-4104-96b9-799540400fdc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhlOTViZGRhLTFkNDEtNDk5ZC04OGNhLTU2NWQyYzQ1ZmE3M1wvZGdqbzZlYy1jZjhmYjAxYy0wNDg2LTQxMDQtOTZiOS03OTk1NDA0MDBmZGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VQyxTvr9rYUeoiNsZbExweGpNv9OwKNjuxV0ugp0x_g" group-title="Eventi Live",WWE | WWE NXT (02:00)
+https://dlhd.click/stream/stream-280.php
+
+#EXTINF:-1 tvg-id="allelitewrestlingdynamite" tvg-name="WWE | All Elite Wrestling: Dynamite (02:00)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/aew-all-elite-wrestling-logo-png_seeklogo-525465.png" group-title="Eventi Live",WWE | All Elite Wrestling: Dynamite (02:00)
+https://dlhd.click/stream/stream-336.php
+
+#EXTINF:-1 tvg-id="littleleaguebaseballmountainregionalnevadavsutah" tvg-name="Baseball | Little League Baseball Mountain Regional: Nevada vs Utah (03:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Nevada_vs_Utah.png" group-title="Eventi Live",Baseball | Little League Baseball Mountain Regional: Nevada vs Utah (03:00)
 https://dlhd.click/stream/stream-44.php
 
-#EXTINF:-1 tvg-id="minorleaguebaseballtacomarainiersvsrenoaces" tvg-name="Baseball | Minor League Baseball Tacoma Rainiers vs Reno Aces (21:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Minor League Baseball Tacoma Rainiers_vs_Reno Aces.png" group-title="Eventi Live",Baseball | Minor League Baseball Tacoma Rainiers vs Reno Aces (21:00)
-https://dlhd.click/stream/stream-920.php
-
-#EXTINF:-1 tvg-id="littleleaguebaseballnorthwestregionalwashingtonvsoregon" tvg-name="Baseball | Little League Baseball Northwest Regional: Washington vs Oregon (23:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Washington_vs_Oregon.png" group-title="Eventi Live",Baseball | Little League Baseball Northwest Regional: Washington vs Oregon (23:00)
-https://dlhd.click/stream/stream-44.php
-
-#EXTINF:-1 tvg-id="littleleaguebaseballsouthwestregionallouisianavstba" tvg-name="Baseball | Little League Baseball Southwest Regional: Louisiana vs TBA (01:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Louisiana_vs_TBA.png" group-title="Eventi Live",Baseball | Little League Baseball Southwest Regional: Louisiana vs TBA (01:00)
-https://dlhd.click/stream/stream-44.php
-
-#EXTINF:-1 tvg-id="2025littleleaguesoftballworldseriesconnecticutvstba" tvg-name="Baseball | 2025 Little League Softball World Series : Connecticut vs TBA (01:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Connecticut_vs_TBA.png" group-title="Eventi Live",Baseball | 2025 Little League Softball World Series : Connecticut vs TBA (01:00)
-https://dlhd.click/stream/stream-45.php
-
-#EXTINF:-1 tvg-id="mlbphiladelphiaphilliesvsbaltimoreorioles" tvg-name="Baseball | MLB : Philadelphia Phillies vs Baltimore Orioles (00:45)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Philadelphia Phillies_vs_Baltimore Orioles.png" group-title="Eventi Live",Baseball | MLB : Philadelphia Phillies vs Baltimore Orioles (00:45)
+#EXTINF:-1 tvg-id="mlbchicagocubsvscincinnatireds" tvg-name="Baseball | MLB : Chicago Cubs vs Cincinnati Reds (02:05)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Chicago Cubs_vs_Cincinnati Reds.png" group-title="Eventi Live",Baseball | MLB : Chicago Cubs vs Cincinnati Reds (02:05)
 https://dlhd.click/stream/stream-31.php
 
-#EXTINF:-1 tvg-id="mlbphiladelphiaphilliesvsbaltimoreorioles" tvg-name="Baseball | MLB : Philadelphia Phillies vs Baltimore Orioles (00:45)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Philadelphia Phillies_vs_Baltimore Orioles.png" group-title="Eventi Live",Baseball | MLB : Philadelphia Phillies vs Baltimore Orioles (00:45)
+#EXTINF:-1 tvg-id="mlbchicagocubsvscincinnatireds" tvg-name="Baseball | MLB : Chicago Cubs vs Cincinnati Reds (02:05)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Chicago Cubs_vs_Cincinnati Reds.png" group-title="Eventi Live",Baseball | MLB : Chicago Cubs vs Cincinnati Reds (02:05)
+https://dlhd.click/stream/stream-336.php
+
+#EXTINF:-1 tvg-id="mlbchicagocubsvscincinnatireds" tvg-name="Baseball | MLB : Chicago Cubs vs Cincinnati Reds (02:05)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Chicago Cubs_vs_Cincinnati Reds.png" group-title="Eventi Live",Baseball | MLB : Chicago Cubs vs Cincinnati Reds (02:05)
+https://dlhd.click/stream/stream-341.php
+
+#EXTINF:-1 tvg-id="mlbtexasrangersvsnewyorkyankees" tvg-name="Baseball | MLB : Texas Rangers vs New York Yankees (02:05)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Texas Rangers_vs_New York Yankees.png" group-title="Eventi Live",Baseball | MLB : Texas Rangers vs New York Yankees (02:05)
+https://dlhd.click/stream/stream-763.php
+
+#EXTINF:-1 tvg-id="mlbseattlemarinersvschicagowhitesox" tvg-name="Baseball | MLB : Seattle Mariners vs Chicago White Sox (03:40)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Seattle Mariners_vs_Chicago White Sox.png" group-title="Eventi Live",Baseball | MLB : Seattle Mariners vs Chicago White Sox (03:40)
+https://dlhd.click/stream/stream-920.php
+
+#EXTINF:-1 tvg-id="mlblosangelesdodgersvsstlouiscardinals" tvg-name="Baseball | MLB : Los Angeles Dodgers vs St. Louis Cardinals (04:10)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Los Angeles Dodgers_vs_St. Louis Cardinals.png" group-title="Eventi Live",Baseball | MLB : Los Angeles Dodgers vs St. Louis Cardinals (04:10)
+https://dlhd.click/stream/stream-764.php
+
+#EXTINF:-1 tvg-id="2025littleleaguesoftballworldseriesgame13teamstba" tvg-name="Baseball | 2025 Little League Softball World Series Game 13: Teams TBA (16:00)" tvg-logo="https://images.squarespace-cdn.com/content/v1/63f3cc2b88b0c5540a41b73e/c8e2ab07-ea04-4dc4-815e-f0a3988427e9/ncs-world-series-dallas-tx-2023-FINAL-highres.png" group-title="Eventi Live",Baseball | 2025 Little League Softball World Series Game 13: Teams TBA (16:00)
+https://dlhd.click/stream/stream-45.php
+
+#EXTINF:-1 tvg-id="littleleaguebaseballmidwestregionalnorthdakotavssouthdakota" tvg-name="Baseball | Little League Baseball Midwest Regional: North Dakota vs South Dakota (17:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/North Dakota_vs_South Dakota.png" group-title="Eventi Live",Baseball | Little League Baseball Midwest Regional: North Dakota vs South Dakota (17:00)
+https://dlhd.click/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="littleleaguebaseballjuniorleagueworldseriesgermanyvschinesetaipei" tvg-name="Baseball | Little League Baseball Junior League World Series: Germany vs. Chinese Taipei (17:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Germany_vs_Chinese Taipei.png" group-title="Eventi Live",Baseball | Little League Baseball Junior League World Series: Germany vs. Chinese Taipei (17:00)
+https://dlhd.click/stream/stream-316.php
+
+#EXTINF:-1 tvg-id="2025littleleaguesoftballworldserieswashingtonvstba" tvg-name="Baseball | 2025 Little League Softball World Series : Washington vs. TBA (19:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Washington_vs_TBA.png" group-title="Eventi Live",Baseball | 2025 Little League Softball World Series : Washington vs. TBA (19:00)
+https://dlhd.click/stream/stream-45.php
+
+#EXTINF:-1 tvg-id="littleleaguebaseballnewenglandregionalnewhampshirevsvermont" tvg-name="Baseball | Little League Baseball New England Regional: New Hampshire vs. Vermont (19:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/New Hampshire_vs_Vermont.png" group-title="Eventi Live",Baseball | Little League Baseball New England Regional: New Hampshire vs. Vermont (19:00)
+https://dlhd.click/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="littleleaguebaseballnorthwestregionalalaskavstba" tvg-name="Baseball | Little League Baseball Northwest Regional: Alaska vs. TBA (21:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Alaska_vs_TBA.png" group-title="Eventi Live",Baseball | Little League Baseball Northwest Regional: Alaska vs. TBA (21:00)
+https://dlhd.click/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="athletesunlimitedsoftballleagueallstarcupteamcorrickvsteamocasio" tvg-name="Baseball | Athletes Unlimited Softball League All-Star Cup: Team Corrick vs Team Ocasio (22:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Team Corrick_vs_Team Ocasio.png" group-title="Eventi Live",Baseball | Athletes Unlimited Softball League All-Star Cup: Team Corrick vs Team Ocasio (22:00)
+https://dlhd.click/stream/stream-45.php
+
+#EXTINF:-1 tvg-id="littleleaguebaseballmetroregionalnewjerseyvsconnecticut" tvg-name="Baseball | Little League Baseball Metro Regional: New Jersey vs. Connecticut (23:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/New Jersey_vs_Connecticut.png" group-title="Eventi Live",Baseball | Little League Baseball Metro Regional: New Jersey vs. Connecticut (23:00)
+https://dlhd.click/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="littleleaguebaseballgreatlakesregionalohiovstba" tvg-name="Baseball | Little League Baseball Great Lakes Regional: Ohio vs. TBA (01:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Ohio_vs_TBA.png" group-title="Eventi Live",Baseball | Little League Baseball Great Lakes Regional: Ohio vs. TBA (01:00)
+https://dlhd.click/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="minorleaguebaseballfortwaynetincapsvssouthbendcubs" tvg-name="Baseball | Minor League Baseball : Fort Wayne TinCaps vs South Bend Cubs (01:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Fort Wayne TinCaps_vs_South Bend Cubs.png" group-title="Eventi Live",Baseball | Minor League Baseball : Fort Wayne TinCaps vs South Bend Cubs (01:00)
+https://dlhd.click/stream/stream-770.php
+
+#EXTINF:-1 tvg-id="athletesunlimitedsoftballleagueallstarcupteamkilfoylvsteamlorenz" tvg-name="Baseball | Athletes Unlimited Softball League All-Star Cup: Team Kilfoyl vs Team Lorenz (01:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Team Kilfoyl_vs_Team Lorenz.png" group-title="Eventi Live",Baseball | Athletes Unlimited Softball League All-Star Cup: Team Kilfoyl vs Team Lorenz (01:00)
+https://dlhd.click/stream/stream-45.php
+
+#EXTINF:-1 tvg-id="littleleaguebaseballwestregionalsoutherncaliforniavsnortherncalifornia" tvg-name="Baseball | Little League Baseball West Regional: Southern California vs Northern California (03:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Southern California_vs_Northern California.png" group-title="Eventi Live",Baseball | Little League Baseball West Regional: Southern California vs Northern California (03:00)
+https://dlhd.click/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="mlbphiladelphiaphilliesvsbaltimoreorioles" tvg-name="Baseball | MLB : Philadelphia Phillies vs Baltimore Orioles (18:35)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Philadelphia Phillies_vs_Baltimore Orioles.png" group-title="Eventi Live",Baseball | MLB : Philadelphia Phillies vs Baltimore Orioles (18:35)
+https://dlhd.click/stream/stream-31.php
+
+#EXTINF:-1 tvg-id="mlbphiladelphiaphilliesvsbaltimoreorioles" tvg-name="Baseball | MLB : Philadelphia Phillies vs Baltimore Orioles (18:35)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Philadelphia Phillies_vs_Baltimore Orioles.png" group-title="Eventi Live",Baseball | MLB : Philadelphia Phillies vs Baltimore Orioles (18:35)
 https://dlhd.click/stream/stream-829.php
 
-#EXTINF:-1 tvg-id="mlbphiladelphiaphilliesvsbaltimoreorioles" tvg-name="Baseball | MLB : Philadelphia Phillies vs Baltimore Orioles (00:45)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Philadelphia Phillies_vs_Baltimore Orioles.png" group-title="Eventi Live",Baseball | MLB : Philadelphia Phillies vs Baltimore Orioles (00:45)
+#EXTINF:-1 tvg-id="mlbphiladelphiaphilliesvsbaltimoreorioles" tvg-name="Baseball | MLB : Philadelphia Phillies vs Baltimore Orioles (18:35)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Philadelphia Phillies_vs_Baltimore Orioles.png" group-title="Eventi Live",Baseball | MLB : Philadelphia Phillies vs Baltimore Orioles (18:35)
 https://dlhd.click/stream/stream-777.php
+
+#EXTINF:-1 tvg-id="mlbnewyorkmetsvsclevelandguardians" tvg-name="Baseball | MLB : New York Mets vs Cleveland Guardians (19:10)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/New York Mets_vs_Cleveland Guardians.png" group-title="Eventi Live",Baseball | MLB : New York Mets vs Cleveland Guardians (19:10)
+https://dlhd.click/stream/stream-759.php
+
+#EXTINF:-1 tvg-id="mlbchicagocubsvscincinnatireds" tvg-name="Baseball | MLB : Chicago Cubs vs Cincinnati Reds (20:20)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Chicago Cubs_vs_Cincinnati Reds.png" group-title="Eventi Live",Baseball | MLB : Chicago Cubs vs Cincinnati Reds (20:20)
+https://dlhd.click/stream/stream-770.php
+
+#EXTINF:-1 tvg-id="mlbtexasrangersvsnewyorkyankees" tvg-name="Baseball | MLB : Texas Rangers vs New York Yankees (20:35)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Texas Rangers_vs_New York Yankees.png" group-title="Eventi Live",Baseball | MLB : Texas Rangers vs New York Yankees (20:35)
+https://dlhd.click/stream/stream-763.php
+
+#EXTINF:-1 tvg-id="mlblosangelesdodgersvsstlouiscardinals" tvg-name="Baseball | MLB : Los Angeles Dodgers vs St. Louis Cardinals (22:10)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Los Angeles Dodgers_vs_St. Louis Cardinals.png" group-title="Eventi Live",Baseball | MLB : Los Angeles Dodgers vs St. Louis Cardinals (22:10)
+https://dlhd.click/stream/stream-31.php
 
 #EXTINF:-1 tvg-id="mlbwashingtonnationalsvsoaklandathletics" tvg-name="Baseball | MLB : Washington Nationals vs Oakland Athletics (00:45)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Washington Nationals_vs_Oakland Athletics.png" group-title="Eventi Live",Baseball | MLB : Washington Nationals vs Oakland Athletics (00:45)
 https://dlhd.click/stream/stream-755.php
 
-#EXTINF:-1 tvg-id="mlbnewyorkmetsvsclevelandguardians" tvg-name="Baseball | MLB : New York Mets vs Cleveland Guardians (01:10)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/New York Mets_vs_Cleveland Guardians.png" group-title="Eventi Live",Baseball | MLB : New York Mets vs Cleveland Guardians (01:10)
-https://dlhd.click/stream/stream-759.php
+#EXTINF:-1 tvg-id="mlbwashingtonnationalsvsoaklandathletics" tvg-name="Baseball | MLB : Washington Nationals vs Oakland Athletics (00:45)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Washington Nationals_vs_Oakland Athletics.png" group-title="Eventi Live",Baseball | MLB : Washington Nationals vs Oakland Athletics (00:45)
+https://dlhd.click/stream/stream-829.php
 
 #EXTINF:-1 tvg-id="mlbbostonredsoxvskansascityroyals" tvg-name="Baseball | MLB : Boston Red Sox vs Kansas City Royals (01:10)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Boston Red Sox_vs_Kansas City Royals.png" group-title="Eventi Live",Baseball | MLB : Boston Red Sox vs Kansas City Royals (01:10)
 https://dlhd.click/stream/stream-762.php
 
-#EXTINF:-1 tvg-id="wnbanewyorklibertywvsdallaswingsw" tvg-name="Basketball | WNBA : New York Liberty W vs Dallas Wings W (01:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/New York Liberty W_vs_Dallas Wings W.png" group-title="Eventi Live",Basketball | WNBA : New York Liberty W vs Dallas Wings W (01:00)
-https://dlhd.click/stream/stream-54.php
+#EXTINF:-1 tvg-id="mlbatlantabravesvsmilwaukeebrewers" tvg-name="Baseball | MLB : Atlanta Braves vs Milwaukee Brewers (01:15)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Atlanta Braves_vs_Milwaukee Brewers.png" group-title="Eventi Live",Baseball | MLB : Atlanta Braves vs Milwaukee Brewers (01:15)
+https://dlhd.click/stream/stream-39.php
 
-#EXTINF:-1 tvg-id="wnbanewyorklibertywvsdallaswingsw" tvg-name="Basketball | WNBA : New York Liberty W vs Dallas Wings W (01:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/New York Liberty W_vs_Dallas Wings W.png" group-title="Eventi Live",Basketball | WNBA : New York Liberty W vs Dallas Wings W (01:00)
-https://dlhd.click/stream/stream-768.php
+#EXTINF:-1 tvg-id="mlbseattlemarinersvschicagowhitesox" tvg-name="Baseball | MLB : Seattle Mariners vs Chicago White Sox (03:40)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Seattle Mariners_vs_Chicago White Sox.png" group-title="Eventi Live",Baseball | MLB : Seattle Mariners vs Chicago White Sox (03:40)
+https://dlhd.click/stream/stream-920.php
 
-#EXTINF:-1 tvg-id="wnbanewyorklibertywvsdallaswingsw" tvg-name="Basketball | WNBA : New York Liberty W vs Dallas Wings W (01:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/New York Liberty W_vs_Dallas Wings W.png" group-title="Eventi Live",Basketball | WNBA : New York Liberty W vs Dallas Wings W (01:00)
+#EXTINF:-1 tvg-id="wnbalosangelessparkswvsindianafeverw" tvg-name="Basketball | WNBA : Los Angeles Sparks W vs Indiana Fever W (04:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Los Angeles Sparks W_vs_Indiana Fever W.png" group-title="Eventi Live",Basketball | WNBA : Los Angeles Sparks W vs Indiana Fever W (04:00)
+https://dlhd.click/stream/stream-982.php
+
+#EXTINF:-1 tvg-id="wnbalosangelessparkswvsindianafeverw" tvg-name="Basketball | WNBA : Los Angeles Sparks W vs Indiana Fever W (04:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Los Angeles Sparks W_vs_Indiana Fever W.png" group-title="Eventi Live",Basketball | WNBA : Los Angeles Sparks W vs Indiana Fever W (04:00)
+https://dlhd.click/stream/stream-308.php
+
+#EXTINF:-1 tvg-id="wnbaphoenixmercurywvsconnecticutsunw" tvg-name="Basketball | WNBA : Phoenix Mercury W vs Connecticut Sun W (04:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Phoenix Mercury W_vs_Connecticut Sun W.png" group-title="Eventi Live",Basketball | WNBA : Phoenix Mercury W vs Connecticut Sun W (04:00)
+https://dlhd.click/stream/stream-754.php
+
+#EXTINF:-1 tvg-id="europeworldcupqualificationswitzerlandvsukraine" tvg-name="Basketball | Europe: World Cup - Qualification : Switzerland vs Ukraine (18:50)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/World Cup - Qualification : Switzerland_vs_Ukraine.png" group-title="Eventi Live",Basketball | Europe: World Cup - Qualification : Switzerland vs Ukraine (18:50)
+https://dlhd.click/stream/stream-6.php
+
+#EXTINF:-1 tvg-id="wnbagoldenstatevalkyrieswvslasvegasacesw" tvg-name="Basketball | WNBA : Golden State Valkyries W vs Las Vegas Aces W (04:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Golden State Valkyries W_vs_Las Vegas Aces W.png" group-title="Eventi Live",Basketball | WNBA : Golden State Valkyries W vs Las Vegas Aces W (04:00)
 https://dlhd.click/stream/stream-404.php
+
+#EXTINF:-1 tvg-id="tourofpolandstage3mainwalbrzych1616km" tvg-name="Cycling | Tour of Poland | Stage 3 Main | Walbrzych (161.6km) (12:00)" tvg-logo="https://www.proximus.be/dam/cdn/sites/iportal/images/illustrations/logos/sports-competitions/sports-competitions-2209/Cycling/tour-pologne-logo-cycling-2209.png" group-title="Eventi Live",Cycling | Tour of Poland | Stage 3 Main | Walbrzych (161.6km) (12:00)
+https://dlhd.click/stream/stream-31.php
+
+#EXTINF:-1 tvg-id="tourofpolandstage3mainwalbrzych1616km" tvg-name="Cycling | Tour of Poland | Stage 3 Main | Walbrzych (161.6km) (12:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Tour of Poland | Stage 3 Main | Walbrzych (161.6km) (12:00)
+https://dlhd.click/stream/stream-878.php
+
+#EXTINF:-1 tvg-id="tourdelainstage1menfeillenslagnieu1632km" tvg-name="Cycling | Tour de l'Ain | Stage 1 Men | Feillens – Lagnieu (163.2km) (16:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Tour de l'Ain | Stage 1 Men | Feillens – Lagnieu (163.2km) (16:30)
+https://dlhd.click/stream/stream-31.php
+
+#EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:00)" tvg-logo="https://epg.iptvx.one/picons/sky-sports-racing.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:00)
+https://dlhd.click/stream/stream-554.php
+
+#EXTINF:-1 tvg-id="horseracingsaratogalive" tvg-name="Horse Racing | Horse Racing Saratoga Live (19:00)" tvg-logo="https://paulickreport.com/.image/t_share/MjAzODYzMTcyMzA0NjEwODc2/unnamed-15.png" group-title="Eventi Live",Horse Racing | Horse Racing Saratoga Live (19:00)
+https://dlhd.click/stream/stream-758.php
+
+#EXTINF:-1 tvg-id="uswomensamateurgolffirstround" tvg-name="Golf | U.S. Women's Amateur Golf, First Round (00:00)" tvg-logo="https://mediacenter.usga.org/download/2023+U.S.+SR+WOMEN'S+AMATEUR+FULL+COLOR+LOGO.png" group-title="Eventi Live",Golf | U.S. Women's Amateur Golf, First Round (00:00)
+https://dlhd.click/stream/stream-318.php
+
+#EXTINF:-1 tvg-id="icehockey3iceweek4buffalovschicago" tvg-name="Ice Hockey | Ice Hockey : 3ICE Week 4 - Buffalo vs Chicago (01:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/3ICE Week 4 - Buffalo_vs_Chicago.png" group-title="Eventi Live",Ice Hockey | Ice Hockey : 3ICE Week 4 - Buffalo vs Chicago (01:00)
+https://dlhd.click/stream/stream-765.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
@@ -1256,6 +1370,8 @@ https://vavoo.to/vavoo-iptv/play/4136543904bbdd3d003de
 https://vavoo.to/vavoo-iptv/play/1594377372b5e94f9b8dd1
 #EXTINF:-1 group-title="Albania",AHWAZ
 https://vavoo.to/vavoo-iptv/play/27463510954ee69761eaad
+#EXTINF:-1 group-title="Albania",ALAM (360P) [NOT 24/7]
+https://vavoo.to/vavoo-iptv/play/2249421712ff3207751b17
 #EXTINF:-1 group-title="Albania",ALB ISLAM
 https://vavoo.to/vavoo-iptv/play/1779579735c775153a76ba
 #EXTINF:-1 group-title="Albania",ALB SWISS HD
@@ -1486,6 +1602,8 @@ https://vavoo.to/vavoo-iptv/play/3351792556ca2ba25c4ab9
 https://vavoo.to/vavoo-iptv/play/32408214928c1b936c8462
 #EXTINF:-1 group-title="Albania",DISCOVERY CHANNEL
 https://vavoo.to/vavoo-iptv/play/25754022821d1d65537a2c
+#EXTINF:-1 group-title="Albania",DISCOVERY CHANNEL
+https://vavoo.to/vavoo-iptv/play/1131363710368e49393848
 #EXTINF:-1 group-title="Albania",DISNEY JR
 https://vavoo.to/vavoo-iptv/play/306517164632e755964f0a
 #EXTINF:-1 group-title="Albania",DIVA
@@ -1630,8 +1748,6 @@ https://vavoo.to/vavoo-iptv/play/4112554070eaef0ab15706
 https://vavoo.to/vavoo-iptv/play/173673283564d3e5871f2b
 #EXTINF:-1 group-title="Albania",FILM STINET
 https://vavoo.to/vavoo-iptv/play/19848525339e23b9ad95d6
-#EXTINF:-1 group-title="Albania",FILM THRILLER
-https://vavoo.to/vavoo-iptv/play/77916399053157baa22af
 #EXTINF:-1 group-title="Albania",FILM THRILLER
 https://vavoo.to/vavoo-iptv/play/696506922fae720ce9549
 #EXTINF:-1 group-title="Albania",FILM THRILLER
@@ -2430,12 +2546,6 @@ https://vavoo.to/vavoo-iptv/play/29817982333b79dc6d6a45
 https://vavoo.to/vavoo-iptv/play/97052533850a4fdb57797
 #EXTINF:-1 group-title="Albania",TRAVEL CHANNEL
 https://vavoo.to/vavoo-iptv/play/41087607014de9cb6b9029
-#EXTINF:-1 group-title="Albania",TOP NEWS
-https://vavoo.to/vavoo-iptv/play/29817982333b79dc6d6a45
-#EXTINF:-1 group-title="Albania",TOP NEWS
-https://vavoo.to/vavoo-iptv/play/97052533850a4fdb57797
-#EXTINF:-1 group-title="Albania",TRAVEL CHANNEL
-https://vavoo.to/vavoo-iptv/play/41087607014de9cb6b9029
 #EXTINF:-1 group-title="Albania",TRAVEL CHANNEL
 https://vavoo.to/vavoo-iptv/play/2373913422319156365ca1
 #EXTINF:-1 group-title="Albania",TRING 3
@@ -2724,6 +2834,8 @@ https://vavoo.to/vavoo-iptv/play/39912653483ca6e9d18f0f
 https://vavoo.to/vavoo-iptv/play/3723807880b3fb6188ee94
 #EXTINF:-1 group-title="Arabia",2M MONDE (360P)
 https://vavoo.to/vavoo-iptv/play/1898402275f86edc0e0191
+#EXTINF:-1 group-title="Arabia",2M TNT
+https://vavoo.to/vavoo-iptv/play/38118373684cd0b78ba7b6
 #EXTINF:-1 group-title="Arabia",5 SATELITAL
 https://vavoo.to/vavoo-iptv/play/609422302a87e828bdd4d
 #EXTINF:-1 group-title="Arabia",5ARG: V CORRIENTES
@@ -3032,6 +3144,12 @@ https://vavoo.to/vavoo-iptv/play/777411390333fbcee2ac9
 https://vavoo.to/vavoo-iptv/play/32233537458dd904b1bd5
 #EXTINF:-1 group-title="Arabia",ALGERIA A3 HD
 https://vavoo.to/vavoo-iptv/play/11668891466c58012c800a
+#EXTINF:-1 group-title="Arabia",ALGERIA BEUR
+https://vavoo.to/vavoo-iptv/play/5340728672e030308d7d6
+#EXTINF:-1 group-title="Arabia",ALGERIAA
+https://vavoo.to/vavoo-iptv/play/27539499323292430ad7d
+#EXTINF:-1 group-title="Arabia",ALGERIE 1
+https://vavoo.to/vavoo-iptv/play/31836988525d5e264102a
 #EXTINF:-1 group-title="Arabia",ALGERIE 3
 https://vavoo.to/vavoo-iptv/play/1748607805c77631a237b6
 #EXTINF:-1 group-title="Arabia",ALGERIE 4
@@ -3152,6 +3270,8 @@ https://vavoo.to/vavoo-iptv/play/2510497413a054dd209a9e
 https://vavoo.to/vavoo-iptv/play/142810364d22d3f04763c
 #EXTINF:-1 group-title="Arabia",ANTENA 91
 https://vavoo.to/vavoo-iptv/play/29119177698d66c30bcb46
+#EXTINF:-1 group-title="Arabia",AR ELMOURITANIA.2
+https://vavoo.to/vavoo-iptv/play/28197983123d9b1ac95e28
 #EXTINF:-1 group-title="Arabia",ARABE
 https://vavoo.to/vavoo-iptv/play/3647850219e31238f06b94
 #EXTINF:-1 group-title="Arabia",ARABICA TV
@@ -3626,12 +3746,6 @@ https://vavoo.to/vavoo-iptv/play/1258183245f8fa0a0bf6ac
 https://vavoo.to/vavoo-iptv/play/3813994680ba0657df9998
 #EXTINF:-1 group-title="Arabia",BEIN SPORTS AFC 1 HEVC
 https://vavoo.to/vavoo-iptv/play/6730713921941b994f1d6
-#EXTINF:-1 group-title="Arabia",BEIN SPORTS AFC 1 SD
-https://vavoo.to/vavoo-iptv/play/2319778528e267ada4b077
-#EXTINF:-1 group-title="Arabia",BEIN SPORTS AFC 1 ULTRA 4K
-https://vavoo.to/vavoo-iptv/play/3380357132270baa0f4185
-#EXTINF:-1 group-title="Arabia",BEIN SPORTS AFC 2
-https://vavoo.to/vavoo-iptv/play/80558291879a78008080e
 #EXTINF:-1 group-title="Arabia",BEIN SPORTS AFC 1 SD
 https://vavoo.to/vavoo-iptv/play/2319778528e267ada4b077
 #EXTINF:-1 group-title="Arabia",BEIN SPORTS AFC 1 ULTRA 4K
@@ -4832,6 +4946,12 @@ https://vavoo.to/vavoo-iptv/play/35452634553d1c89780079
 https://vavoo.to/vavoo-iptv/play/1444059361b3ca834101af
 #EXTINF:-1 group-title="Arabia",NOOR DUBAI
 https://vavoo.to/vavoo-iptv/play/1205744247a881d1845a2f
+#EXTINF:-1 group-title="Arabia",NOOR DUBAI (576P)
+https://vavoo.to/vavoo-iptv/play/37689565509204aae3e3cb
+#EXTINF:-1 group-title="Arabia",NOOR TV AFG
+https://vavoo.to/vavoo-iptv/play/1550280294199339350fef
+#EXTINF:-1 group-title="Arabia",NOORSAT
+https://vavoo.to/vavoo-iptv/play/3985190849abe54ccef474
 #EXTINF:-1 group-title="Arabia",NOUR AL KODDAS (406P) [NOT 24/7]
 https://vavoo.to/vavoo-iptv/play/2658562778972070c9f4ae
 #EXTINF:-1 group-title="Arabia",NOUR AL SHARQ (576P)
@@ -5432,12 +5552,6 @@ https://vavoo.to/vavoo-iptv/play/685741540f12666b08c2c
 https://vavoo.to/vavoo-iptv/play/244315305b57f609b84b6
 #EXTINF:-1 group-title="Arabia",UTV (FHD)
 https://vavoo.to/vavoo-iptv/play/7116451886515b8f2f080
-#EXTINF:-1 group-title="Arabia",UNIVERSAL TV
-https://vavoo.to/vavoo-iptv/play/685741540f12666b08c2c
-#EXTINF:-1 group-title="Arabia",URBANA ARG: EVE
-https://vavoo.to/vavoo-iptv/play/244315305b57f609b84b6
-#EXTINF:-1 group-title="Arabia",UTV (FHD)
-https://vavoo.to/vavoo-iptv/play/7116451886515b8f2f080
 #EXTINF:-1 group-title="Arabia",VER TV
 https://vavoo.to/vavoo-iptv/play/719414436b872f1cb92cc
 #EXTINF:-1 group-title="Arabia",VERARG: V (VARG: V)
@@ -5750,8 +5864,6 @@ https://vavoo.to/vavoo-iptv/play/34982461288b5d3f7b20aa
 https://vavoo.to/vavoo-iptv/play/39910661768f5c24261820
 #EXTINF:-1 group-title="Balkans",ELITA8 LIVE 4
 https://vavoo.to/vavoo-iptv/play/16065521440a58a46878d1
-#EXTINF:-1 group-title="Balkans",ELTA
-https://vavoo.to/vavoo-iptv/play/2602450476e5693a0a09b9
 #EXTINF:-1 group-title="Balkans",ELTA 2
 https://vavoo.to/vavoo-iptv/play/7512462507fcdc83d257a
 #EXTINF:-1 group-title="Balkans",EPIC DRAMA
@@ -6012,6 +6124,8 @@ https://vavoo.to/vavoo-iptv/play/23222020627239dcc4c3b3
 https://vavoo.to/vavoo-iptv/play/41625829379eb56f503aaa
 #EXTINF:-1 group-title="Balkans",PIKABOO
 https://vavoo.to/vavoo-iptv/play/2566968310fbf9fbbee7c0
+#EXTINF:-1 group-title="Balkans",PINK
+https://vavoo.to/vavoo-iptv/play/1794719322cf0f8d64fe9b
 #EXTINF:-1 group-title="Balkans",PINK 1
 https://vavoo.to/vavoo-iptv/play/2085201572600363e95295
 #EXTINF:-1 group-title="Balkans",PINK 1
@@ -6034,6 +6148,12 @@ https://vavoo.to/vavoo-iptv/play/2333021344470c58491150
 https://vavoo.to/vavoo-iptv/play/13547664515c4d52a0b3ce
 #EXTINF:-1 group-title="Balkans",PINK BRAVO
 https://vavoo.to/vavoo-iptv/play/18584216914c57c99ce1e0
+#EXTINF:-1 group-title="Balkans",PINK CLASSIC
+https://vavoo.to/vavoo-iptv/play/366694651455ae069dfcf
+#EXTINF:-1 group-title="Balkans",PINK CLASSIC
+https://vavoo.to/vavoo-iptv/play/2552855542087699d858dc
+#EXTINF:-1 group-title="Balkans",PINK COMEDY
+https://vavoo.to/vavoo-iptv/play/305167554206e64f04a5fc
 #EXTINF:-1 group-title="Balkans",PINK COMEDY
 https://vavoo.to/vavoo-iptv/play/4042990906b4453a8e5e58
 #EXTINF:-1 group-title="Balkans",PINK CRIME & MYSTERY
@@ -6543,6 +6663,8 @@ https://vavoo.to/vavoo-iptv/play/393889983906a240ed1ccb
 #EXTINF:-1 group-title="Bulgaria",DISCOVERY CHANNEL
 https://vavoo.to/vavoo-iptv/play/1337595654b0c23402071c
 #EXTINF:-1 group-title="Bulgaria",DISCOVERY SCIENCE
+https://vavoo.to/vavoo-iptv/play/1347565371150df53b446c
+#EXTINF:-1 group-title="Bulgaria",DISCOVERY SCIENCE
 https://vavoo.to/vavoo-iptv/play/609687320299af51354b1
 #EXTINF:-1 group-title="Bulgaria",DISCOVERY WORLD
 https://vavoo.to/vavoo-iptv/play/126611428439b5d519b372
@@ -6558,8 +6680,6 @@ https://vavoo.to/vavoo-iptv/play/5938846951208b4819a15
 https://vavoo.to/vavoo-iptv/play/61642368311627de2f7ed
 #EXTINF:-1 group-title="Bulgaria",E KIDS
 https://vavoo.to/vavoo-iptv/play/1106460317d04f91dfa661
-#EXTINF:-1 group-title="Bulgaria",EKIDS
-https://vavoo.to/vavoo-iptv/play/35983897346b73286ea11a
 #EXTINF:-1 group-title="Bulgaria",EPIC DRAMA
 https://vavoo.to/vavoo-iptv/play/3753516110204f3738611f
 #EXTINF:-1 group-title="Bulgaria",EUROFOLK TV
@@ -6630,12 +6750,6 @@ https://vavoo.to/vavoo-iptv/play/31512383707ced6c27275b
 https://vavoo.to/vavoo-iptv/play/3865054049761bd6dbde76
 #EXTINF:-1 group-title="Bulgaria",ICONCERTS
 https://vavoo.to/vavoo-iptv/play/35648832099b3be03001a1
-#EXTINF:-1 group-title="Bulgaria",ID EXTRA
-https://vavoo.to/vavoo-iptv/play/1285652493457356ee17d4
-#EXTINF:-1 group-title="Bulgaria",INVESTIGATION DISCOVERY
-https://vavoo.to/vavoo-iptv/play/21081072f7300666ed50
-#EXTINF:-1 group-title="Bulgaria",JIM JAM
-https://vavoo.to/vavoo-iptv/play/1710746124e0f4737bb0c5
 #EXTINF:-1 group-title="Bulgaria",ID EXTRA
 https://vavoo.to/vavoo-iptv/play/1285652493457356ee17d4
 #EXTINF:-1 group-title="Bulgaria",INVESTIGATION DISCOVERY
@@ -6786,10 +6900,14 @@ https://vavoo.to/vavoo-iptv/play/28435288138845ddc2912e
 https://vavoo.to/vavoo-iptv/play/39950061189fb4244faaca
 #EXTINF:-1 group-title="Bulgaria",VIASAT NATURE
 https://vavoo.to/vavoo-iptv/play/2542225813985d92181daf
+#EXTINF:-1 group-title="Bulgaria",VTK
+https://vavoo.to/vavoo-iptv/play/3916212970814eb1cf9fb8
 #EXTINF:-1 group-title="Bulgaria",VTV
 https://vavoo.to/vavoo-iptv/play/241553435a1bf6e0cf453
 #EXTINF:-1 group-title="Bulgaria",WILD TV
 https://vavoo.to/vavoo-iptv/play/68177096234a857c3f977
+#EXTINF:-1 group-title="Bulgaria",WNESS TV
+https://vavoo.to/vavoo-iptv/play/3772974425c72ec952fb1e
 #EXTINF:-1 group-title="Bulgaria",WORLD FASHION CHANNEL
 https://vavoo.to/vavoo-iptv/play/13863485395e27fde90b93
 #EXTINF:-1 group-title="Bulgaria",WORLD FIGHT CHANNEL
@@ -6835,6 +6953,8 @@ https://vavoo.to/vavoo-iptv/play/42775896635c51d40456fc
 #EXTINF:-1 group-title="France",A LA CARTE 5 HD
 https://vavoo.to/vavoo-iptv/play/2496996410fc66fc9a3544
 #EXTINF:-1 group-title="France",A LA CARTE 6 HD
+https://vavoo.to/vavoo-iptv/play/18870316760179144920ab
+#EXTINF:-1 group-title="France",A LA CARTE 6 HD
 https://vavoo.to/vavoo-iptv/play/4421150331442e9e78939
 #EXTINF:-1 group-title="France",A LA CARTE 7 HD
 https://vavoo.to/vavoo-iptv/play/3167998434b69fa020193d
@@ -6850,6 +6970,8 @@ https://vavoo.to/vavoo-iptv/play/2841232336f8ad397754f5
 https://vavoo.to/vavoo-iptv/play/3279565173fcafc23af7af
 #EXTINF:-1 group-title="France",A+
 https://vavoo.to/vavoo-iptv/play/17658736402a7360a48901
+#EXTINF:-1 group-title="France",A12 TV
+https://vavoo.to/vavoo-iptv/play/2701753448d4e4f9826315
 #EXTINF:-1 group-title="France",AB 1
 https://vavoo.to/vavoo-iptv/play/2557284405a39af6ab957b
 #EXTINF:-1 group-title="France",AB 1 HD
@@ -6872,6 +6994,8 @@ https://vavoo.to/vavoo-iptv/play/340010148454b4b576c9f3
 https://vavoo.to/vavoo-iptv/play/1316428074762ad2aa63dd
 #EXTINF:-1 group-title="France",ACTION FHD
 https://vavoo.to/vavoo-iptv/play/3638789513f8ccd703cc28
+#EXTINF:-1 group-title="France",AF: NOLLYWOOD
+https://vavoo.to/vavoo-iptv/play/435250608d3ee7b699982
 #EXTINF:-1 group-title="France",AFRICA 24
 https://vavoo.to/vavoo-iptv/play/2290952272f961b542eda7
 #EXTINF:-1 group-title="France",ALSACE 20
@@ -6884,18 +7008,20 @@ https://vavoo.to/vavoo-iptv/play/1328738514094cdd8b75ef
 https://vavoo.to/vavoo-iptv/play/35369626225a05e7e12c75
 #EXTINF:-1 group-title="France",AMAZON PRIME 1 HD+
 https://vavoo.to/vavoo-iptv/play/192175381483ed67bc8d27
+#EXTINF:-1 group-title="France",AMAZON PRIME 2 [LIVE DURING EVENTS ONLY]
+https://vavoo.to/vavoo-iptv/play/1545259425cb24d5bb8630
 #EXTINF:-1 group-title="France",AMAZON PRIME 2 HD
 https://vavoo.to/vavoo-iptv/play/1549714397654c54631a08
 #EXTINF:-1 group-title="France",AMAZON PRIME 2 HD+
 https://vavoo.to/vavoo-iptv/play/1258724883356bb28f96a0
+#EXTINF:-1 group-title="France",AMAZON PRIME 3
+https://vavoo.to/vavoo-iptv/play/1589190774880e7f14cc68
 #EXTINF:-1 group-title="France",AMAZON PRIME 3 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/139232088076812ff95181
 #EXTINF:-1 group-title="France",AMAZON PRIME 3 HD
 https://vavoo.to/vavoo-iptv/play/243195987591bffdc37fcf
 #EXTINF:-1 group-title="France",AMAZON PRIME 3 HD+
 https://vavoo.to/vavoo-iptv/play/1551731280c530dcaccd63
-#EXTINF:-1 group-title="France",AMAZON PRIME 4
-https://vavoo.to/vavoo-iptv/play/39695145985d944aa264ce
 #EXTINF:-1 group-title="France",AMAZON PRIME 4 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/205171795996e163c44a77
 #EXTINF:-1 group-title="France",AMAZON PRIME 4 HD
@@ -6914,8 +7040,6 @@ https://vavoo.to/vavoo-iptv/play/1736796901974167c58544
 https://vavoo.to/vavoo-iptv/play/36252418955c743cdbc9a2
 #EXTINF:-1 group-title="France",AMAZON PRIME 6 HD+
 https://vavoo.to/vavoo-iptv/play/3844871996d251721d919
-#EXTINF:-1 group-title="France",AMAZON PRIME 7
-https://vavoo.to/vavoo-iptv/play/2872673974a3a99e198901
 #EXTINF:-1 group-title="France",AMAZON PRIME 7 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/1768063540271941c63c7a
 #EXTINF:-1 group-title="France",AMAZON PRIME 7 HD
@@ -7106,12 +7230,12 @@ https://vavoo.to/vavoo-iptv/play/1945266328e8e437e6162d
 https://vavoo.to/vavoo-iptv/play/216870633718bea9e17c0b
 #EXTINF:-1 group-title="France",BFM HD
 https://vavoo.to/vavoo-iptv/play/282620250617bf79c7c58b
+#EXTINF:-1 group-title="France",BFM PARIS
+https://vavoo.to/vavoo-iptv/play/2180428480d00717ea16c0
 #EXTINF:-1 group-title="France",BFM PARIS FHD
 https://vavoo.to/vavoo-iptv/play/15537259663eeaf443b8c8
 #EXTINF:-1 group-title="France",BFM TV
 https://vavoo.to/vavoo-iptv/play/28781389555e4689451088
-#EXTINF:-1 group-title="France",BFM TV HD
-https://vavoo.to/vavoo-iptv/play/1080830216b8e08bdf456f
 #EXTINF:-1 group-title="France",BIP TV
 https://vavoo.to/vavoo-iptv/play/2475360608ab28c6777d10
 #EXTINF:-1 group-title="France",BIP TV
@@ -7280,6 +7404,8 @@ https://vavoo.to/vavoo-iptv/play/116160273261086bd8c99a
 https://vavoo.to/vavoo-iptv/play/3625345371a7f0ef9f1db5
 #EXTINF:-1 group-title="France",CANAL+ ELLES
 https://vavoo.to/vavoo-iptv/play/143458825547e0ee044094
+#EXTINF:-1 group-title="France",CANAL+ F1 FHD
+https://vavoo.to/vavoo-iptv/play/401626311591b144b76e6a
 #EXTINF:-1 group-title="France",CANAL+ FAMILY
 https://vavoo.to/vavoo-iptv/play/27100018482cf9099bc7d2
 #EXTINF:-1 group-title="France",CANAL+ FHD
@@ -7300,6 +7426,8 @@ https://vavoo.to/vavoo-iptv/play/38048689943fa5994dbbf9
 https://vavoo.to/vavoo-iptv/play/1508654689ee9eaa64cbd6
 #EXTINF:-1 group-title="France",CANAL+ KIDS HD
 https://vavoo.to/vavoo-iptv/play/579962899b774e7e9111f
+#EXTINF:-1 group-title="France",CANAL+ LIGUE1
+https://vavoo.to/vavoo-iptv/play/299571132739bea71e68dd
 #EXTINF:-1 group-title="France",CANAL+ MOTOGP
 https://vavoo.to/vavoo-iptv/play/413289403729f0da8ce5be
 #EXTINF:-1 group-title="France",CANAL+ PL
@@ -7348,6 +7476,8 @@ https://vavoo.to/vavoo-iptv/play/278630331931d4f590a721
 https://vavoo.to/vavoo-iptv/play/2127297858581f62f0bf4c
 #EXTINF:-1 group-title="France",CARTOONITO
 https://vavoo.to/vavoo-iptv/play/4129073805efdd455d93a2
+#EXTINF:-1 group-title="France",CGTN
+https://vavoo.to/vavoo-iptv/play/5112772450536f6b4cec0
 #EXTINF:-1 group-title="France",CHASSE & PECHE
 https://vavoo.to/vavoo-iptv/play/30277092126bc746a51a20
 #EXTINF:-1 group-title="France",CHASSE & PECHE
@@ -7474,8 +7604,8 @@ https://vavoo.to/vavoo-iptv/play/23093830022ad7b1e5ece4
 https://vavoo.to/vavoo-iptv/play/1366669684cd972192a3c0
 #EXTINF:-1 group-title="France",COMEDY CENTRAL
 https://vavoo.to/vavoo-iptv/play/2053910442ad820032ca57
-#EXTINF:-1 group-title="France",CRIBS MAISONS DE STAR
-https://vavoo.to/vavoo-iptv/play/39209772298f2649d42ed3
+#EXTINF:-1 group-title="France",CRIME DISTRICT
+https://vavoo.to/vavoo-iptv/play/236492318925aad2d21a30
 #EXTINF:-1 group-title="France",CRIME DISTRICT
 https://vavoo.to/vavoo-iptv/play/233249952949b217798c9e
 #EXTINF:-1 group-title="France",CRIME DISTRICT
@@ -7563,8 +7693,6 @@ https://vavoo.to/vavoo-iptv/play/4123762836e57cc77a37ae
 #EXTINF:-1 group-title="France",DISCOVERY SCIENCE
 https://vavoo.to/vavoo-iptv/play/13916241181642741e7fb7
 #EXTINF:-1 group-title="France",DISCOVERY SCIENCE
-https://vavoo.to/vavoo-iptv/play/1092400111134d4a3534ef
-#EXTINF:-1 group-title="France",DISCOVERY SCIENCE
 https://vavoo.to/vavoo-iptv/play/27011456832d97fd3f96b1
 #EXTINF:-1 group-title="France",DISCOVERY WORLD
 https://vavoo.to/vavoo-iptv/play/453891919ba15fd0188ba
@@ -7626,8 +7754,6 @@ https://vavoo.to/vavoo-iptv/play/3860273832eda2d30b583d
 https://vavoo.to/vavoo-iptv/play/111705669174acd69bd4ea
 #EXTINF:-1 group-title="France",EQUIDIA PRO
 https://vavoo.to/vavoo-iptv/play/3637667969f1388d5c2d5b
-#EXTINF:-1 group-title="France",ERE TV
-https://vavoo.to/vavoo-iptv/play/1805253114d6c8954f8f01
 #EXTINF:-1 group-title="France",EURO CHANNEL
 https://vavoo.to/vavoo-iptv/play/2887155497840539cae97
 #EXTINF:-1 group-title="France",EURONEWS
@@ -7731,8 +7857,6 @@ https://vavoo.to/vavoo-iptv/play/46629016e7679725def2
 #EXTINF:-1 group-title="France",FREQUENCE NOVELAS
 https://vavoo.to/vavoo-iptv/play/3928989342f00a8fea8b34
 #EXTINF:-1 group-title="France",GAME ONE
-https://vavoo.to/vavoo-iptv/play/95927214794c633f7cf15
-#EXTINF:-1 group-title="France",GAME ONE
 https://vavoo.to/vavoo-iptv/play/22141630554906bb2fc4a4
 #EXTINF:-1 group-title="France",GAME ONE
 https://vavoo.to/vavoo-iptv/play/1479966396202ff806f8d8
@@ -7802,6 +7926,8 @@ https://vavoo.to/vavoo-iptv/play/5042475271b46c9b27ca1
 https://vavoo.to/vavoo-iptv/play/1635196197e35d694bc067
 #EXTINF:-1 group-title="France",J-ONE
 https://vavoo.to/vavoo-iptv/play/874035777bcae83ee8339
+#EXTINF:-1 group-title="France",JUSTE POUR RIRE
+https://vavoo.to/vavoo-iptv/play/41325045a1b5c686fc59
 #EXTINF:-1 group-title="France",KOMBAT SPORT HD
 https://vavoo.to/vavoo-iptv/play/392037614067c0aaa7e261
 #EXTINF:-1 group-title="France",KTO
@@ -8194,6 +8320,8 @@ https://vavoo.to/vavoo-iptv/play/4178756073a17f0c491d58
 https://vavoo.to/vavoo-iptv/play/3979463967a22e683a20e6
 #EXTINF:-1 group-title="France",RAKUTEN TV FILMS ACTION
 https://vavoo.to/vavoo-iptv/play/252645768879ab8512f291
+#EXTINF:-1 group-title="France",RAKUTEN TV FILMS DRAMES
+https://vavoo.to/vavoo-iptv/play/855333159e466c317b673
 #EXTINF:-1 group-title="France",RAKUTEN TV FILMS FRANÇAIS
 https://vavoo.to/vavoo-iptv/play/2216583438f9128cd60a25
 #EXTINF:-1 group-title="France",RAKUTEN TV FILMS THRILLER
@@ -8216,6 +8344,8 @@ https://vavoo.to/vavoo-iptv/play/235106601922765d099ee0
 https://vavoo.to/vavoo-iptv/play/37905311685b668ac8d224
 #EXTINF:-1 group-title="France",RFM TV HD
 https://vavoo.to/vavoo-iptv/play/4100689874e4f474bc38f3
+#EXTINF:-1 group-title="France",RFM TV MUSIC
+https://vavoo.to/vavoo-iptv/play/4197312592de677f26e1da
 #EXTINF:-1 group-title="France",RFM TV SD
 https://vavoo.to/vavoo-iptv/play/2642050442743edf3d3496
 #EXTINF:-1 group-title="France",RMC DECOUVERTE
@@ -8244,6 +8374,8 @@ https://vavoo.to/vavoo-iptv/play/3658283022637e76be3562
 https://vavoo.to/vavoo-iptv/play/2195294466e7b94a1092d4
 #EXTINF:-1 group-title="France",RMC SPORT 11 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/235289851552be0bdeb8f5
+#EXTINF:-1 group-title="France",RMC SPORT 12
+https://vavoo.to/vavoo-iptv/play/269776779092e198e8fc15
 #EXTINF:-1 group-title="France",RMC SPORT 12 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/2669041824805cbe4659bb
 #EXTINF:-1 group-title="France",RMC SPORT 13
@@ -8348,6 +8480,8 @@ https://vavoo.to/vavoo-iptv/play/24148072590d63bcae2cb3
 https://vavoo.to/vavoo-iptv/play/748262697206d933e210e
 #EXTINF:-1 group-title="France",RMC SPORT LIVE 8 HD
 https://vavoo.to/vavoo-iptv/play/14564133030b5db1ad73dd
+#EXTINF:-1 group-title="France",RMC SPORT LIVE 8 HD (BACKUP)
+https://vavoo.to/vavoo-iptv/play/3927680764c9e05a6809f5
 #EXTINF:-1 group-title="France",RMC SPORT LIVE 9 HD
 https://vavoo.to/vavoo-iptv/play/2590317289d27fd8bcf3ea
 #EXTINF:-1 group-title="France",RMC SPORT LIVE 9 HD (BACKUP)
@@ -8438,6 +8572,24 @@ https://vavoo.to/vavoo-iptv/play/1143042553bb95572793be
 https://vavoo.to/vavoo-iptv/play/2382507077306dedae7ff3
 #EXTINF:-1 group-title="France",TELETOON+
 https://vavoo.to/vavoo-iptv/play/231278062503478eaef59f
+#EXTINF:-1 group-title="France",TELETOON+1
+https://vavoo.to/vavoo-iptv/play/3613032951812247ec0170
+#EXTINF:-1 group-title="France",TELETOON+1 HD
+https://vavoo.to/vavoo-iptv/play/338122156734dd2a430fae
+#EXTINF:-1 group-title="France",TEVA
+https://vavoo.to/vavoo-iptv/play/2221887416d7fbe08fe097
+#EXTINF:-1 group-title="France",TEVA
+https://vavoo.to/vavoo-iptv/play/12955238153e9698c124e9
+#EXTINF:-1 group-title="France",TEVA
+https://vavoo.to/vavoo-iptv/play/8053328606dfec4957070
+#EXTINF:-1 group-title="France",TF 1
+https://vavoo.to/vavoo-iptv/play/148432778523b6e69b3d0d
+#EXTINF:-1 group-title="France",TF 1 SERIES FILMS
+https://vavoo.to/vavoo-iptv/play/151784523103b3f8b3f187
+#EXTINF:-1 group-title="France",TF1
+https://vavoo.to/vavoo-iptv/play/2913521200ae11151a1fc4
+#EXTINF:-1 group-title="France",TF1 FHD
+https://vavoo.to/vavoo-iptv/play/1334669376bf508b8ed995
 #EXTINF:-1 group-title="France",TF1 SERIES & FILM
 https://vavoo.to/vavoo-iptv/play/1760063888f6e9e21d8039
 #EXTINF:-1 group-title="France",TF1 SERIES & FILM HD
@@ -8532,6 +8684,8 @@ https://vavoo.to/vavoo-iptv/play/744802293949edf1de1ba
 https://vavoo.to/vavoo-iptv/play/2601990719c1c86fa4201f
 #EXTINF:-1 group-title="France",TVM 3 FHD
 https://vavoo.to/vavoo-iptv/play/183645299317f53feb93f0
+#EXTINF:-1 group-title="France",TVR (BRETAGNE)
+https://vavoo.to/vavoo-iptv/play/28787254875857e36d9a6e
 #EXTINF:-1 group-title="France",USHUAIA
 https://vavoo.to/vavoo-iptv/play/4274246496cae3eb6b9282
 #EXTINF:-1 group-title="France",USHUAIA FHD
@@ -8544,6 +8698,8 @@ https://vavoo.to/vavoo-iptv/play/1007869450b6a717e5f847
 https://vavoo.to/vavoo-iptv/play/30343651343100cf58d048
 #EXTINF:-1 group-title="France",VIAMIRABELLE TV
 https://vavoo.to/vavoo-iptv/play/919813798781bbe15e25e
+#EXTINF:-1 group-title="France",VIAOCCITANIE
+https://vavoo.to/vavoo-iptv/play/808825907cd460fbded92
 #EXTINF:-1 group-title="France",VOSGES TV
 https://vavoo.to/vavoo-iptv/play/1942805126785ea6af8849
 #EXTINF:-1 group-title="France",VOYAGE
@@ -8592,6 +8748,8 @@ https://vavoo.to/vavoo-iptv/play/3228877884bc18a7941f56
 https://vavoo.to/vavoo-iptv/play/190260001138dbaeb545af
 #EXTINF:-1 group-title="Germany",6EREN
 https://vavoo.to/vavoo-iptv/play/2746922057d8e2a1cf5360
+#EXTINF:-1 group-title="Germany",A&E HD
+https://vavoo.to/vavoo-iptv/play/293885293633122a31ae84
 #EXTINF:-1 group-title="Germany",ALLGAU
 https://vavoo.to/vavoo-iptv/play/21870278770b132123ee34
 #EXTINF:-1 group-title="Germany",ALLGAU TV
@@ -8606,6 +8764,8 @@ https://vavoo.to/vavoo-iptv/play/13820483367608f3f7c3e8
 https://vavoo.to/vavoo-iptv/play/20380355986c808131ff9e
 #EXTINF:-1 group-title="Germany",ANIMAL PLANET HD
 https://vavoo.to/vavoo-iptv/play/24403473701d74df8c6728
+#EXTINF:-1 group-title="Germany",ANIXE SERIE
+https://vavoo.to/vavoo-iptv/play/2114435683697556ce3fd
 #EXTINF:-1 group-title="Germany",ANIXE SERIES
 https://vavoo.to/vavoo-iptv/play/273979084302e85df50dca
 #EXTINF:-1 group-title="Germany",ANIXE+
@@ -8657,6 +8817,8 @@ https://vavoo.to/vavoo-iptv/play/7811073089682cd7b3643
 #EXTINF:-1 group-title="Germany",BERGBLICK
 https://vavoo.to/vavoo-iptv/play/257551210194b98d356447
 #EXTINF:-1 group-title="Germany",BIBEL TV
+https://vavoo.to/vavoo-iptv/play/1944255009cde10ca2f740
+#EXTINF:-1 group-title="Germany",BIBEL TV
 https://vavoo.to/vavoo-iptv/play/19500188698591db2a834a
 #EXTINF:-1 group-title="Germany",BIBEL TV MUSIK
 https://vavoo.to/vavoo-iptv/play/19933885602f67abfd0c28
@@ -8704,10 +8866,6 @@ https://vavoo.to/vavoo-iptv/play/1289064117bcb64d0399eb
 https://vavoo.to/vavoo-iptv/play/199684316627f9a3c661c5
 #EXTINF:-1 group-title="Germany",BLUETV DOKUMENTARFILM ʜᴅ
 https://vavoo.to/vavoo-iptv/play/265457868686bae73c5be4
-#EXTINF:-1 group-title="Germany",BLUETV DRAMA 1 ʜᴅ
-https://vavoo.to/vavoo-iptv/play/3911953199a086b8c6bcf2
-#EXTINF:-1 group-title="Germany",BLUETV FAMILIE 1 ʜᴅ
-https://vavoo.to/vavoo-iptv/play/1335837286ea234257fb85
 #EXTINF:-1 group-title="Germany",BLUETV FAMILIE 2 ʜᴅ
 https://vavoo.to/vavoo-iptv/play/359852554389c3b62437d4
 #EXTINF:-1 group-title="Germany",BLUETV FANTASY ʜᴅ
@@ -8718,22 +8876,22 @@ https://vavoo.to/vavoo-iptv/play/21518326221ebc0c1c1f9d
 https://vavoo.to/vavoo-iptv/play/13571752139dbb0c175f51
 #EXTINF:-1 group-title="Germany",BLUETV KOMODIE 1 ʜᴅ
 https://vavoo.to/vavoo-iptv/play/4253115827cdffd0ec9955
-#EXTINF:-1 group-title="Germany",BLUETV KRIEGSFILM ʜᴅ
-https://vavoo.to/vavoo-iptv/play/116223296934241aaf11dc
 #EXTINF:-1 group-title="Germany",BLUETV KRIMI 1 ʜᴅ
 https://vavoo.to/vavoo-iptv/play/31228905127e916582e0e4
-#EXTINF:-1 group-title="Germany",BLUETV LIEBESFILM 1 ʜᴅ
-https://vavoo.to/vavoo-iptv/play/1040893885c892f2f5c522
-#EXTINF:-1 group-title="Germany",BLUETV MYSTERY 1 ʜᴅ
-https://vavoo.to/vavoo-iptv/play/3486007658f1e5ecad179
+#EXTINF:-1 group-title="Germany",BLUETV MARVEL ʜᴅ
+https://vavoo.to/vavoo-iptv/play/2594145557bfa535038c3b
 #EXTINF:-1 group-title="Germany",BLUETV SCIENCE-FICTION ʜᴅ
 https://vavoo.to/vavoo-iptv/play/238647737739b74e9768d
-#EXTINF:-1 group-title="Germany",BLUETV THRILLER 1 ʜᴅ
-https://vavoo.to/vavoo-iptv/play/13061536361110c450877c
+#EXTINF:-1 group-title="Germany",BOLLYWOOD
+https://vavoo.to/vavoo-iptv/play/3973450275ccb8a06e1911
 #EXTINF:-1 group-title="Germany",BON GUSTO
 https://vavoo.to/vavoo-iptv/play/385860695721c17a4bba50
 #EXTINF:-1 group-title="Germany",BON GUSTO
 https://vavoo.to/vavoo-iptv/play/38919199858d86f0c9c1f6
+#EXTINF:-1 group-title="Germany",BOOMERANG
+https://vavoo.to/vavoo-iptv/play/2484013549bad0701707e
+#EXTINF:-1 group-title="Germany",BOOMERANG
+https://vavoo.to/vavoo-iptv/play/1176845609c9ff82bab20b
 #EXTINF:-1 group-title="Germany",BOOMERANG
 https://vavoo.to/vavoo-iptv/play/11430405657d34994142a8
 #EXTINF:-1 group-title="Germany",BOOMERANG (BACKUP)
@@ -8762,8 +8920,6 @@ https://vavoo.to/vavoo-iptv/play/70673329263ebb4e986a6
 https://vavoo.to/vavoo-iptv/play/750701864729605ec5f36
 #EXTINF:-1 group-title="Germany",CINE MAX JURASSIC PARK
 https://vavoo.to/vavoo-iptv/play/26841168454b3bfdd7ca26
-#EXTINF:-1 group-title="Germany",CITY TV
-https://vavoo.to/vavoo-iptv/play/247446075793cebf0be6
 #EXTINF:-1 group-title="Germany",CLASSICA HD
 https://vavoo.to/vavoo-iptv/play/147346125573492494e9e9
 #EXTINF:-1 group-title="Germany",COMEDY CENTRAL
@@ -8794,6 +8950,8 @@ https://vavoo.to/vavoo-iptv/play/263339334cc4fd6ebe9ff
 https://vavoo.to/vavoo-iptv/play/357954930153b4bd7a232c
 #EXTINF:-1 group-title="Germany",DAZN 1 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/2748335805b3e1e95b64c0
+#EXTINF:-1 group-title="Germany",DAZN 1 FHD
+https://vavoo.to/vavoo-iptv/play/13464368479556ecce2a7d
 #EXTINF:-1 group-title="Germany",DAZN 1 HD
 https://vavoo.to/vavoo-iptv/play/2267295660ea349d1224ad
 #EXTINF:-1 group-title="Germany",DAZN 10 (MATCH TIME) HD
@@ -8898,8 +9056,6 @@ https://vavoo.to/vavoo-iptv/play/263471499993a94c3cfe8
 https://vavoo.to/vavoo-iptv/play/33432523724976692e0c5e
 #EXTINF:-1 group-title="Germany",DER AKTION R TV HD (BACKUP)
 https://vavoo.to/vavoo-iptv/play/15523057836d53a91dceeb
-#EXTINF:-1 group-title="Germany",DEUTSCHE SINEMA
-https://vavoo.to/vavoo-iptv/play/364770966b47b15c9f4a4
 #EXTINF:-1 group-title="Germany",DEUTSCHE SPORT
 https://vavoo.to/vavoo-iptv/play/3690248614aeaba09f780b
 #EXTINF:-1 group-title="Germany",DEUTSCHES MUSIK
@@ -8926,8 +9082,6 @@ https://vavoo.to/vavoo-iptv/play/114000889839f3c378f3c5
 https://vavoo.to/vavoo-iptv/play/23949399417cabf5e4a7f2
 #EXTINF:-1 group-title="Germany",DISNEY CINEMAGIC
 https://vavoo.to/vavoo-iptv/play/21170811702894c8613daf
-#EXTINF:-1 group-title="Germany",DISNEY CINEMAGIC
-https://vavoo.to/vavoo-iptv/play/2378322359ce6beb149e2d
 #EXTINF:-1 group-title="Germany",DISNEY JUNIOR
 https://vavoo.to/vavoo-iptv/play/14339680663b724fcafe95
 #EXTINF:-1 group-title="Germany",DISNEY JUNIOR
@@ -8970,12 +9124,20 @@ https://vavoo.to/vavoo-iptv/play/1270998289568828c961a7
 https://vavoo.to/vavoo-iptv/play/184526225925a39505f18c
 #EXTINF:-1 group-title="Germany",DW TV
 https://vavoo.to/vavoo-iptv/play/1234064310ebb2dada9023
+#EXTINF:-1 group-title="Germany",DYN SPORT 1
+https://vavoo.to/vavoo-iptv/play/4939706396689225497ed
 #EXTINF:-1 group-title="Germany",DYN SPORT 10
 https://vavoo.to/vavoo-iptv/play/42463225237f7f47aea6f7
+#EXTINF:-1 group-title="Germany",DYN SPORT 3
+https://vavoo.to/vavoo-iptv/play/1739667375b70564ce305e
 #EXTINF:-1 group-title="Germany",DYN SPORT 4
 https://vavoo.to/vavoo-iptv/play/35831100797b94777c5371
 #EXTINF:-1 group-title="Germany",DYN SPORT 5
 https://vavoo.to/vavoo-iptv/play/39081579678c20f5025270
+#EXTINF:-1 group-title="Germany",DYN SPORT 6
+https://vavoo.to/vavoo-iptv/play/29413685430926e4f60080
+#EXTINF:-1 group-title="Germany",DYN SPORT 7
+https://vavoo.to/vavoo-iptv/play/24527220317420861d5507
 #EXTINF:-1 group-title="Germany",DYN SPORT 8
 https://vavoo.to/vavoo-iptv/play/274794174aa92a1662e08
 #EXTINF:-1 group-title="Germany",DYN SPORT 9
@@ -9038,8 +9200,6 @@ https://vavoo.to/vavoo-iptv/play/26744159750b3c9c4197ef
 https://vavoo.to/vavoo-iptv/play/1428325151c4a2bd098056
 #EXTINF:-1 group-title="Germany",FC BAYERN HD
 https://vavoo.to/vavoo-iptv/play/31629675780944e9fb9e6f
-#EXTINF:-1 group-title="Germany",FC BAYERN TV
-https://vavoo.to/vavoo-iptv/play/3534948376d3515fed6c87
 #EXTINF:-1 group-title="Germany",FC BAYERN TV HD
 https://vavoo.to/vavoo-iptv/play/217650915168b654708577
 #EXTINF:-1 group-title="Germany",FEUERWEHRMANN SAM TV
@@ -9072,6 +9232,8 @@ https://vavoo.to/vavoo-iptv/play/2085313223c156da73c345
 https://vavoo.to/vavoo-iptv/play/2916930910289202d17bb4
 #EXTINF:-1 group-title="Germany",GEO TV
 https://vavoo.to/vavoo-iptv/play/39779192841d002dd8631b
+#EXTINF:-1 group-title="Germany",GERMANY BESONDERE 1
+https://vavoo.to/vavoo-iptv/play/281511331327507555099b
 #EXTINF:-1 group-title="Germany",GERMANY BESONDERE 2
 https://vavoo.to/vavoo-iptv/play/3765125809b78f5a3d6d4b
 #EXTINF:-1 group-title="Germany",GERMANY KONIG FILME 3
@@ -9184,8 +9346,12 @@ https://vavoo.to/vavoo-iptv/play/314988731969548acbb955
 https://vavoo.to/vavoo-iptv/play/4229893511f54fcdd55e8d
 #EXTINF:-1 group-title="Germany",KINOPORTAL 3
 https://vavoo.to/vavoo-iptv/play/32463350314b2b8473ade8
+#EXTINF:-1 group-title="Germany",KINOPORTAL 4
+https://vavoo.to/vavoo-iptv/play/1935669287a6cf54a9db74
 #EXTINF:-1 group-title="Germany",KINOPORTAL 5
 https://vavoo.to/vavoo-iptv/play/13128052718f1b837846ae
+#EXTINF:-1 group-title="Germany",KINOPORTAL 6
+https://vavoo.to/vavoo-iptv/play/1614590150de36e2f952f
 #EXTINF:-1 group-title="Germany",KINOWELT TV
 https://vavoo.to/vavoo-iptv/play/4975857175aa8c3513948
 #EXTINF:-1 group-title="Germany",KINOWELT TV
@@ -9344,8 +9510,6 @@ https://vavoo.to/vavoo-iptv/play/3021144168d81a681fd877
 https://vavoo.to/vavoo-iptv/play/1640371259cff030dc357a
 #EXTINF:-1 group-title="Germany",MUSIK
 https://vavoo.to/vavoo-iptv/play/3030555861082b425cf549
-#EXTINF:-1 group-title="Germany",MYTVPLUS
-https://vavoo.to/vavoo-iptv/play/1958965408e52ea9911307
 #EXTINF:-1 group-title="Germany",N-TV
 https://vavoo.to/vavoo-iptv/play/35524895249f9dd51459ac
 #EXTINF:-1 group-title="Germany",N-TV
@@ -9424,10 +9588,14 @@ https://vavoo.to/vavoo-iptv/play/2077464868cb06bc6cce9c
 https://vavoo.to/vavoo-iptv/play/37113674340e202ce3537
 #EXTINF:-1 group-title="Germany",NITRO HEVC
 https://vavoo.to/vavoo-iptv/play/30851987644ad37427b4da
+#EXTINF:-1 group-title="Germany",NOA 4
+https://vavoo.to/vavoo-iptv/play/10854315184e55a0c36d15
 #EXTINF:-1 group-title="Germany",NOA 4 HAMBURG
 https://vavoo.to/vavoo-iptv/play/2741142705694da2736533
 #EXTINF:-1 group-title="Germany",NOA 4 HAMBURG
 https://vavoo.to/vavoo-iptv/play/228976702307606984187d
+#EXTINF:-1 group-title="Germany",NOA 4 NORDERSTEDT
+https://vavoo.to/vavoo-iptv/play/29976201795010432fe668
 #EXTINF:-1 group-title="Germany",NRWISION
 https://vavoo.to/vavoo-iptv/play/15891356777591819f58ac
 #EXTINF:-1 group-title="Germany",NRWISION
@@ -9494,6 +9662,8 @@ https://vavoo.to/vavoo-iptv/play/28315231787947d502bc5f
 https://vavoo.to/vavoo-iptv/play/33165075943c5cb8f10e94
 #EXTINF:-1 group-title="Germany",PARLAMENTSFERNSEHEN 1
 https://vavoo.to/vavoo-iptv/play/429939894debc40cc921f
+#EXTINF:-1 group-title="Germany",PARLAMENTSFERNSEHEN 2
+https://vavoo.to/vavoo-iptv/play/157706813466b8d94d1e19
 #EXTINF:-1 group-title="Germany",PEARL TV
 https://vavoo.to/vavoo-iptv/play/31256451180b9093479831
 #EXTINF:-1 group-title="Germany",PEER TV SÜDTIROL
@@ -9568,12 +9738,12 @@ https://vavoo.to/vavoo-iptv/play/192343514111ad3d59f586
 https://vavoo.to/vavoo-iptv/play/12875177589ce7d61e7aa6
 #EXTINF:-1 group-title="Germany",RAKUTEN COMEDY MOVIES
 https://vavoo.to/vavoo-iptv/play/1133586429804a9733ad62
-#EXTINF:-1 group-title="Germany",RAKUTEN COMEDY MOVIES 2
-https://vavoo.to/vavoo-iptv/play/3499073467ddd56c695b90
 #EXTINF:-1 group-title="Germany",RAKUTEN SPOTLIGHT
 https://vavoo.to/vavoo-iptv/play/60685229118e664291ddf
 #EXTINF:-1 group-title="Germany",RAKUTEN TOP FREE
 https://vavoo.to/vavoo-iptv/play/10440786029820d012ab4c
+#EXTINF:-1 group-title="Germany",RAKUTEN TV SHOWS 2
+https://vavoo.to/vavoo-iptv/play/3416458367f72f505ffd2f
 #EXTINF:-1 group-title="Germany",RAN 1
 https://vavoo.to/vavoo-iptv/play/5602022566e76e6c8317d
 #EXTINF:-1 group-title="Germany",RBB
@@ -9640,24 +9810,6 @@ https://vavoo.to/vavoo-iptv/play/1648424420b600137c4154
 https://vavoo.to/vavoo-iptv/play/339544109e7291a93ae41
 #EXTINF:-1 group-title="Germany",RTL HD
 https://vavoo.to/vavoo-iptv/play/272895919526df05345ef7
-#EXTINF:-1 group-title="Germany",RTL
-https://vavoo.to/vavoo-iptv/play/3755683281b1e5fd9dbe20
-#EXTINF:-1 group-title="Germany",RTL 2 HD+
-https://vavoo.to/vavoo-iptv/play/17583675311eae047c89de
-#EXTINF:-1 group-title="Germany",RTL CRIME
-https://vavoo.to/vavoo-iptv/play/332355097640c831fcf779
-#EXTINF:-1 group-title="Germany",RTL CRIME
-https://vavoo.to/vavoo-iptv/play/23982361313d4222352c24
-#EXTINF:-1 group-title="Germany",RTL CRIME
-https://vavoo.to/vavoo-iptv/play/23649635838115908ea77f
-#EXTINF:-1 group-title="Germany",RTL CRIME HD
-https://vavoo.to/vavoo-iptv/play/1648424420b600137c4154
-#EXTINF:-1 group-title="Germany",RTL CRIME HD+
-https://vavoo.to/vavoo-iptv/play/339544109e7291a93ae41
-#EXTINF:-1 group-title="Germany",RTL HD
-https://vavoo.to/vavoo-iptv/play/272895919526df05345ef7
-#EXTINF:-1 group-title="Germany",RTL HD+
-https://vavoo.to/vavoo-iptv/play/27281196731bd935dafe5f
 #EXTINF:-1 group-title="Germany",RTL LIVING
 https://vavoo.to/vavoo-iptv/play/1961896622c359e8a0304
 #EXTINF:-1 group-title="Germany",RTL LIVING
@@ -9702,8 +9854,6 @@ https://vavoo.to/vavoo-iptv/play/1872602400f3dc851cb9be
 https://vavoo.to/vavoo-iptv/play/1853551406e4d58cd366f9
 #EXTINF:-1 group-title="Germany",RTL+ SPORT EVENT 1
 https://vavoo.to/vavoo-iptv/play/1162290744806086b642e4
-#EXTINF:-1 group-title="Germany",RTL+ SPORT EVENT 2
-https://vavoo.to/vavoo-iptv/play/702188030d3d5a2294bd5
 #EXTINF:-1 group-title="Germany",RTL+ SPORT EVENT 3
 https://vavoo.to/vavoo-iptv/play/34777505440157928131d
 #EXTINF:-1 group-title="Germany",RTL+ SPORT EVENT 4
@@ -9750,6 +9900,8 @@ https://vavoo.to/vavoo-iptv/play/1994192997eb110589c5b4
 https://vavoo.to/vavoo-iptv/play/35675625435ede3415797a
 #EXTINF:-1 group-title="Germany",S. SPORT 4 FHD
 https://vavoo.to/vavoo-iptv/play/108657081235c66ca86e43
+#EXTINF:-1 group-title="Germany",S. SPORT 4 HD
+https://vavoo.to/vavoo-iptv/play/373094149437c08712df35
 #EXTINF:-1 group-title="Germany",S. SPORT 5 FHD
 https://vavoo.to/vavoo-iptv/play/147173107124bda7a1da07
 #EXTINF:-1 group-title="Germany",S. SPORT 5 HD
@@ -9840,8 +9992,6 @@ https://vavoo.to/vavoo-iptv/play/2604311313d61e6d416ba
 https://vavoo.to/vavoo-iptv/play/3452552117655000799277
 #EXTINF:-1 group-title="Germany",SERVUS TV
 https://vavoo.to/vavoo-iptv/play/3486356649a49a9abb6342
-#EXTINF:-1 group-title="Germany",SERVUS TV HD
-https://vavoo.to/vavoo-iptv/play/2072482019ba4d7d096371
 #EXTINF:-1 group-title="Germany",SERVUS TV HD+
 https://vavoo.to/vavoo-iptv/play/23194733879b9e2148eb2c
 #EXTINF:-1 group-title="Germany",SILVERLINE
@@ -9873,8 +10023,6 @@ https://vavoo.to/vavoo-iptv/play/29534198320ba5870cf793
 #EXTINF:-1 group-title="Germany",SKY 24
 https://vavoo.to/vavoo-iptv/play/149550166636630e709d1c
 #EXTINF:-1 group-title="Germany",SKY ACTION
-https://vavoo.to/vavoo-iptv/play/19762468280bf7954488ac
-#EXTINF:-1 group-title="Germany",SKY ACTION
 https://vavoo.to/vavoo-iptv/play/1733411065b2efb3b8227
 #EXTINF:-1 group-title="Germany",SKY ACTION HD
 https://vavoo.to/vavoo-iptv/play/24734341302aecfe20a40f
@@ -9894,8 +10042,6 @@ https://vavoo.to/vavoo-iptv/play/350456154001728f296c1e
 https://vavoo.to/vavoo-iptv/play/2798401146ec7e7d28c11f
 #EXTINF:-1 group-title="Germany",SKY BEST OF
 https://vavoo.to/vavoo-iptv/play/1102498392168d5b317769
-#EXTINF:-1 group-title="Germany",SKY BEST OF HD
-https://vavoo.to/vavoo-iptv/play/2022058191705953efe5bd
 #EXTINF:-1 group-title="Germany",SKY BOX ABENTEUER HD
 https://vavoo.to/vavoo-iptv/play/2766619048f5c2a2bdaefe
 #EXTINF:-1 group-title="Germany",SKY BOX ACTION HD
@@ -9982,8 +10128,6 @@ https://vavoo.to/vavoo-iptv/play/1554081161e4ccedff5fd9
 https://vavoo.to/vavoo-iptv/play/33667918272ecc08e7e860
 #EXTINF:-1 group-title="Germany",SKY BUNDESLIGA 10 (MATCH TIME)
 https://vavoo.to/vavoo-iptv/play/454539383638ff85ca423
-#EXTINF:-1 group-title="Germany",SKY BUNDESLIGA 10 HD
-https://vavoo.to/vavoo-iptv/play/4105254911d2934d2656c4
 #EXTINF:-1 group-title="Germany",SKY BUNDESLIGA 2
 https://vavoo.to/vavoo-iptv/play/90506390466d70ab1db26
 #EXTINF:-1 group-title="Germany",SKY BUNDESLIGA 2 [LIVE DURING EVENTS ONLY]
@@ -10030,6 +10174,8 @@ https://vavoo.to/vavoo-iptv/play/1109531889c3ca2958040e
 https://vavoo.to/vavoo-iptv/play/1274071941a586f3d997eb
 #EXTINF:-1 group-title="Germany",SKY BUNDESLIGA 9 HD+
 https://vavoo.to/vavoo-iptv/play/4227655150936ae5d4c33d
+#EXTINF:-1 group-title="Germany",SKY BUNDESLIGA1
+https://vavoo.to/vavoo-iptv/play/3948160239d040a5149193
 #EXTINF:-1 group-title="Germany",SKY CINEMA 1
 https://vavoo.to/vavoo-iptv/play/12794606493d8d8cd3b4fd
 #EXTINF:-1 group-title="Germany",SKY CINEMA 1+
@@ -10050,8 +10196,8 @@ https://vavoo.to/vavoo-iptv/play/227712345007279b49b40c
 https://vavoo.to/vavoo-iptv/play/1506084946f625257b4975
 #EXTINF:-1 group-title="Germany",SKY CINEMA BEST OF
 https://vavoo.to/vavoo-iptv/play/7675679855208c3fbe478
-#EXTINF:-1 group-title="Germany",SKY CINEMA BEST OF HD+
-https://vavoo.to/vavoo-iptv/play/1779919359802f2c8cd069
+#EXTINF:-1 group-title="Germany",SKY CINEMA BEST OF HD
+https://vavoo.to/vavoo-iptv/play/4183661289bea5151c6e22
 #EXTINF:-1 group-title="Germany",SKY CINEMA CLASSICS
 https://vavoo.to/vavoo-iptv/play/6244253771d6ad515707
 #EXTINF:-1 group-title="Germany",SKY CINEMA CLASSICS
@@ -10062,6 +10208,8 @@ https://vavoo.to/vavoo-iptv/play/1859918457bef7381e0c2
 https://vavoo.to/vavoo-iptv/play/361705436f8af716c9648
 #EXTINF:-1 group-title="Germany",SKY CINEMA COMEDY
 https://vavoo.to/vavoo-iptv/play/26671525315195c5a5dd65
+#EXTINF:-1 group-title="Germany",SKY CINEMA CRIME
+https://vavoo.to/vavoo-iptv/play/40564741164a7036747d07
 #EXTINF:-1 group-title="Germany",SKY CINEMA DOCUMENTARIES
 https://vavoo.to/vavoo-iptv/play/7584313479fe18bee2495
 #EXTINF:-1 group-title="Germany",SKY CINEMA EMOTION
@@ -10142,8 +10290,6 @@ https://vavoo.to/vavoo-iptv/play/2386625263fa476cac0a76
 https://vavoo.to/vavoo-iptv/play/2557344364495caaf50be8
 #EXTINF:-1 group-title="Germany",SKY FAMILY HD+
 https://vavoo.to/vavoo-iptv/play/4154732080b5bdb8a206f8
-#EXTINF:-1 group-title="Germany",SKY JUNIOR
-https://vavoo.to/vavoo-iptv/play/4463465606b88f8281cb2
 #EXTINF:-1 group-title="Germany",SKY KRIMI
 https://vavoo.to/vavoo-iptv/play/2355208571f5965789513b
 #EXTINF:-1 group-title="Germany",SKY KRIMI
@@ -10156,6 +10302,8 @@ https://vavoo.to/vavoo-iptv/play/2969860284a7881a1c80b4
 https://vavoo.to/vavoo-iptv/play/813996919a3cda6b604aa
 #EXTINF:-1 group-title="Germany",SKY KRIMI HD+ (BACKUP)
 https://vavoo.to/vavoo-iptv/play/397907929282090e329b23
+#EXTINF:-1 group-title="Germany",SKY MOVIES SELECT 6
+https://vavoo.to/vavoo-iptv/play/21473847139eaa28a8e573
 #EXTINF:-1 group-title="Germany",SKY NATURE
 https://vavoo.to/vavoo-iptv/play/2979356473ea0aadb2ef4f
 #EXTINF:-1 group-title="Germany",SKY NATURE
@@ -10210,8 +10358,6 @@ https://vavoo.to/vavoo-iptv/play/1917658583e1246ffc0151
 https://vavoo.to/vavoo-iptv/play/1225702913e820a987787b
 #EXTINF:-1 group-title="Germany",SKY SELECT 11 4K (MULTIAUDIO)
 https://vavoo.to/vavoo-iptv/play/3986138697dc12f44b1e3a
-#EXTINF:-1 group-title="Germany",SKY SELECT 12 4K (MULTIAUDIO)
-https://vavoo.to/vavoo-iptv/play/25255702186af6f4b9582d
 #EXTINF:-1 group-title="Germany",SKY SELECT 13 4K (MULTIAUDIO)
 https://vavoo.to/vavoo-iptv/play/156477236f3261ff656e8
 #EXTINF:-1 group-title="Germany",SKY SELECT 14 4K (MULTIAUDIO)
@@ -10240,6 +10386,30 @@ https://vavoo.to/vavoo-iptv/play/73470336949f1be58c107
 https://vavoo.to/vavoo-iptv/play/170975472964472d12b956
 #EXTINF:-1 group-title="Germany",SKY SELECT 4
 https://vavoo.to/vavoo-iptv/play/278872166894a8a4c071c9
+#EXTINF:-1 group-title="Germany",SKY SELECT 4 HD
+https://vavoo.to/vavoo-iptv/play/14219875434bb4071c6397
+#EXTINF:-1 group-title="Germany",SKY SELECT 5
+https://vavoo.to/vavoo-iptv/play/380274361b4aa0b361421
+#EXTINF:-1 group-title="Germany",SKY SELECT 5
+https://vavoo.to/vavoo-iptv/play/1485365465952824d3a4d9
+#EXTINF:-1 group-title="Germany",SKY SELECT 5
+https://vavoo.to/vavoo-iptv/play/260628011607d037f60016
+#EXTINF:-1 group-title="Germany",SKY SELECT 5 HD
+https://vavoo.to/vavoo-iptv/play/2557201993985e09299f27
+#EXTINF:-1 group-title="Germany",SKY SELECT 6
+https://vavoo.to/vavoo-iptv/play/13596744739f1fcfe3242a
+#EXTINF:-1 group-title="Germany",SKY SELECT 6
+https://vavoo.to/vavoo-iptv/play/5227545698f2b1ceb5351
+#EXTINF:-1 group-title="Germany",SKY SELECT 6
+https://vavoo.to/vavoo-iptv/play/3707295588ebee3f65e8db
+#EXTINF:-1 group-title="Germany",SKY SELECT 6 HD
+https://vavoo.to/vavoo-iptv/play/384092586c0529d7735c5
+#EXTINF:-1 group-title="Germany",SKY SELECT 7
+https://vavoo.to/vavoo-iptv/play/1818940889f30dbbb56045
+#EXTINF:-1 group-title="Germany",SKY SELECT 7
+https://vavoo.to/vavoo-iptv/play/57518994541322ea261ec
+#EXTINF:-1 group-title="Germany",SKY SELECT 7
+https://vavoo.to/vavoo-iptv/play/37849003085c805ba5e07a
 #EXTINF:-1 group-title="Germany",SKY SELECT 7 HD
 https://vavoo.to/vavoo-iptv/play/3662596404fac8a78e5ee6
 #EXTINF:-1 group-title="Germany",SKY SELECT 8
@@ -10274,6 +10444,8 @@ https://vavoo.to/vavoo-iptv/play/3609567267866a1c91e9d9
 https://vavoo.to/vavoo-iptv/play/33437046345f4b18503949
 #EXTINF:-1 group-title="Germany",SKY SELECT PREMIERE 4
 https://vavoo.to/vavoo-iptv/play/19700280741104b7b14766
+#EXTINF:-1 group-title="Germany",SKY SELECT PREMIERE 8
+https://vavoo.to/vavoo-iptv/play/29630676919edf64c3693f
 #EXTINF:-1 group-title="Germany",SKY SELECT PREMIERE 9
 https://vavoo.to/vavoo-iptv/play/2382166683aa3a6ebf18c6
 #EXTINF:-1 group-title="Germany",SKY SELECT PROGRAMM BERSICHT
@@ -10326,6 +10498,8 @@ https://vavoo.to/vavoo-iptv/play/23935553783dd55ce2c3ee
 https://vavoo.to/vavoo-iptv/play/2353380835657a79821d9a
 #EXTINF:-1 group-title="Germany",SKY SPORT 6 (MATCH TIME)
 https://vavoo.to/vavoo-iptv/play/1680612560cb9822726c44
+#EXTINF:-1 group-title="Germany",SKY SPORT 6 HD
+https://vavoo.to/vavoo-iptv/play/463237157314e6d840607
 #EXTINF:-1 group-title="Germany",SKY SPORT 7
 https://vavoo.to/vavoo-iptv/play/2972030035baf7f7dca0a2
 #EXTINF:-1 group-title="Germany",SKY SPORT 7 (MATCH TIME)
@@ -10466,20 +10640,12 @@ https://vavoo.to/vavoo-iptv/play/2405098471ee66ddce646a
 https://vavoo.to/vavoo-iptv/play/4117685823a3edf91dd024
 #EXTINF:-1 group-title="Germany",STERN FILME 1
 https://vavoo.to/vavoo-iptv/play/3288066978d8a474a11a70
-#EXTINF:-1 group-title="Germany",STERN FILME 10
-https://vavoo.to/vavoo-iptv/play/3592253767e65008a1f620
-#EXTINF:-1 group-title="Germany",STERN FILME 2
-https://vavoo.to/vavoo-iptv/play/222059352247cc37bb6031
 #EXTINF:-1 group-title="Germany",STERN FILME 3
 https://vavoo.to/vavoo-iptv/play/3107698882a13cc55c0d9b
 #EXTINF:-1 group-title="Germany",STERN FILME 4
 https://vavoo.to/vavoo-iptv/play/1863446587475cd73595e
 #EXTINF:-1 group-title="Germany",STERN FILME 5
 https://vavoo.to/vavoo-iptv/play/9140504025fb41381d136
-#EXTINF:-1 group-title="Germany",STERN FILME 6
-https://vavoo.to/vavoo-iptv/play/19101920502be635bf6a0f
-#EXTINF:-1 group-title="Germany",STERN FILME 7
-https://vavoo.to/vavoo-iptv/play/1287331330d5e2b15f5157
 #EXTINF:-1 group-title="Germany",STERN FILME 8
 https://vavoo.to/vavoo-iptv/play/34715427397436fd5f172b
 #EXTINF:-1 group-title="Germany",STINGRAY CLASSICA
@@ -10612,8 +10778,6 @@ https://vavoo.to/vavoo-iptv/play/106859642370e24bd89b41
 https://vavoo.to/vavoo-iptv/play/9378185667186a6a69096
 #EXTINF:-1 group-title="Germany",TV 2 SPORT
 https://vavoo.to/vavoo-iptv/play/1278410942dcdf0e759ea9
-#EXTINF:-1 group-title="Germany",TV 2 ZULU
-https://vavoo.to/vavoo-iptv/play/1318804769d37322e5b7f8
 #EXTINF:-1 group-title="Germany",TV INGOLSTADT
 https://vavoo.to/vavoo-iptv/play/3676375271a8923c3f58de
 #EXTINF:-1 group-title="Germany",TV INGOLSTADT
@@ -10624,14 +10788,10 @@ https://vavoo.to/vavoo-iptv/play/656561824e19af8506560
 https://vavoo.to/vavoo-iptv/play/1617812332a22e062b19c8
 #EXTINF:-1 group-title="Germany",TV OBERFRANKEN
 https://vavoo.to/vavoo-iptv/play/435447391d04e23618790
-#EXTINF:-1 group-title="Germany",TV3 HD
-https://vavoo.to/vavoo-iptv/play/4096804646a62b3d1f7ff1
 #EXTINF:-1 group-title="Germany",TV3 MAX
 https://vavoo.to/vavoo-iptv/play/3712417544dd2df44df7ae
 #EXTINF:-1 group-title="Germany",TV3 PULS
 https://vavoo.to/vavoo-iptv/play/2566182864ea369e25615c
-#EXTINF:-1 group-title="Germany",TV3 SPORT
-https://vavoo.to/vavoo-iptv/play/3307783229b070addd157d
 #EXTINF:-1 group-title="Germany",TV3+ HD
 https://vavoo.to/vavoo-iptv/play/389774673655d47b50b7c7
 #EXTINF:-1 group-title="Germany",TVA OSTBAYERN
@@ -10648,10 +10808,6 @@ https://vavoo.to/vavoo-iptv/play/3611544303636e825d3344
 https://vavoo.to/vavoo-iptv/play/2279462690ef746e396a2f
 #EXTINF:-1 group-title="Germany",V FILM HITS
 https://vavoo.to/vavoo-iptv/play/39592075475dad9fb46d17
-#EXTINF:-1 group-title="Germany",V FILM PREMIERE
-https://vavoo.to/vavoo-iptv/play/489755247705cd637708e
-#EXTINF:-1 group-title="Germany",V SERIES
-https://vavoo.to/vavoo-iptv/play/16126897713cec8d43189c
 #EXTINF:-1 group-title="Germany",V SPORT GOLF
 https://vavoo.to/vavoo-iptv/play/3439312957ce321c82c4d
 #EXTINF:-1 group-title="Germany",VH1 CLASSIC
@@ -10668,8 +10824,6 @@ https://vavoo.to/vavoo-iptv/play/13676054018c66a7a219e6
 https://vavoo.to/vavoo-iptv/play/2866655811ccf0f95c7598
 #EXTINF:-1 group-title="Germany",VOX
 https://vavoo.to/vavoo-iptv/play/3622161112dc23bec22482
-#EXTINF:-1 group-title="Germany",VOX HD
-https://vavoo.to/vavoo-iptv/play/2099765212db48856908cd
 #EXTINF:-1 group-title="Germany",VOX HD+
 https://vavoo.to/vavoo-iptv/play/1008785305d4c07777f6aa
 #EXTINF:-1 group-title="Germany",VOX UP
@@ -10706,6 +10860,8 @@ https://vavoo.to/vavoo-iptv/play/2506867048283ac0f991d9
 https://vavoo.to/vavoo-iptv/play/75270184522949e039905
 #EXTINF:-1 group-title="Germany",WDR
 https://vavoo.to/vavoo-iptv/play/1373972750d789bb029818
+#EXTINF:-1 group-title="Germany",WDR HD
+https://vavoo.to/vavoo-iptv/play/217161496725fbaec7fcbd
 #EXTINF:-1 group-title="Germany",WDR HD+
 https://vavoo.to/vavoo-iptv/play/2422241584b8f6806b72c5
 #EXTINF:-1 group-title="Germany",WELT
@@ -10788,7 +10944,6 @@ https://vavoo.to/vavoo-iptv/play/116299718d713a2de061f
 https://vavoo.to/vavoo-iptv/play/3911047486fb5f634d6343
 https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
-https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc
 https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d
 https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca
 https://vavoo.to/vavoo-iptv/play/3639213638a7c6a2cc326e
@@ -10873,7 +11028,6 @@ https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
 https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 https://vavoo.to/vavoo-iptv/play/24880174054972ad3227fa
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
-https://vavoo.to/vavoo-iptv/play/29737730766a27b9a63e21
 https://vavoo.to/vavoo-iptv/play/576490047036ac0227958
 https://vavoo.to/vavoo-iptv/play/663536394520458805ef6
 https://vavoo.to/vavoo-iptv/play/1613543898fd67f91cf2e0
@@ -11038,6 +11192,7 @@ https://vavoo.to/vavoo-iptv/play/2268489342059d1f4882c8
 https://vavoo.to/vavoo-iptv/play/2221901869db7a5b77a267
 https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9
 https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5
+https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582
 https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d
 https://vavoo.to/vavoo-iptv/play/347075802871b4b6547803
 https://vavoo.to/vavoo-iptv/play/8772007144e30fd3ca161
@@ -11067,10 +11222,8 @@ https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 https://vavoo.to/vavoo-iptv/play/42467740561588897497f2
 https://vavoo.to/vavoo-iptv/play/309353533094c3ad269514
 https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae
-https://vavoo.to/vavoo-iptv/play/729945219d6146597896a
 https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb
 https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb
-https://vavoo.to/vavoo-iptv/play/30363168866e9eeb997936
 https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce
 https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
 https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
@@ -11084,7 +11237,6 @@ https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
 https://vavoo.to/vavoo-iptv/play/33760313550167605877f1
 https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe
 https://vavoo.to/vavoo-iptv/play/2130523218823893ad0255
-https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
 https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
@@ -11093,15 +11245,8 @@ https://vavoo.to/vavoo-iptv/play/21984103395cacdfaf1d34
 https://vavoo.to/vavoo-iptv/play/151207238423ec1d54e5b8
 https://vavoo.to/vavoo-iptv/play/3946128844a366ea9809f0
 https://vavoo.to/vavoo-iptv/play/88205050e85664590a6b
+https://vavoo.to/vavoo-iptv/play/1284194905df7c12749d48
 https://vavoo.to/vavoo-iptv/play/3213195143c3be65cec024
-https://vavoo.to/vavoo-iptv/play/300937751365646200d097
-https://vavoo.to/vavoo-iptv/play/11653719d8ef305a8c92
-https://vavoo.to/vavoo-iptv/play/2061826034c5ac3b5d7306
-https://vavoo.to/vavoo-iptv/play/3550030443fb56cbe586ef
-https://vavoo.to/vavoo-iptv/play/2900362153b8a056cb86c0
-https://vavoo.to/vavoo-iptv/play/8491244640295fc9ea282
-https://vavoo.to/vavoo-iptv/play/16683935829997b8a7bc92
-https://vavoo.to/vavoo-iptv/play/2487986216af30aedb116a
 https://vavoo.to/vavoo-iptv/play/300937751365646200d097
 https://vavoo.to/vavoo-iptv/play/11653719d8ef305a8c92
 https://vavoo.to/vavoo-iptv/play/2061826034c5ac3b5d7306
@@ -11494,6 +11639,8 @@ https://vavoo.to/vavoo-iptv/play/3800386636e8d97372c408
 https://vavoo.to/vavoo-iptv/play/41573962734ad89e4e67b5
 #EXTINF:-1 group-title="Netherlands",RADIO 350
 https://vavoo.to/vavoo-iptv/play/2566467401e114c0c4a767
+#EXTINF:-1 group-title="Netherlands",RAKUTEN ACTION
+https://vavoo.to/vavoo-iptv/play/895549735ba15b8335b19
 #EXTINF:-1 group-title="Netherlands",RAKUTEN COMEDY
 https://vavoo.to/vavoo-iptv/play/3421755691a47118599e51
 #EXTINF:-1 group-title="Netherlands",RAKUTEN DRAMA
@@ -11604,6 +11751,8 @@ https://vavoo.to/vavoo-iptv/play/4229163295b99da8d039ec
 https://vavoo.to/vavoo-iptv/play/83945467472607af4c5e
 #EXTINF:-1 group-title="Netherlands",SPIKE
 https://vavoo.to/vavoo-iptv/play/265754413706e8304f59fa
+#EXTINF:-1 group-title="Netherlands",SPIKE
+https://vavoo.to/vavoo-iptv/play/265754413706e8304f59fa
 #EXTINF:-1 group-title="Netherlands",STAR CHANNEL
 https://vavoo.to/vavoo-iptv/play/2367829148de372725fb07
 #EXTINF:-1 group-title="Netherlands",STINGRAY DJAZZ
@@ -11626,6 +11775,22 @@ https://vavoo.to/vavoo-iptv/play/4660820218ae7dfcda423
 https://vavoo.to/vavoo-iptv/play/356507834301d1ab7375d1
 #EXTINF:-1 group-title="Netherlands",TV GELDERLAND
 https://vavoo.to/vavoo-iptv/play/1986630047bf198c9dc12a
+#EXTINF:-1 group-title="Netherlands",TV NOORD
+https://vavoo.to/vavoo-iptv/play/2371823015ab259ca56c0f
+#EXTINF:-1 group-title="Netherlands",TV OOST
+https://vavoo.to/vavoo-iptv/play/2359432712ae460ce5c893
+#EXTINF:-1 group-title="Netherlands",TV ORANJE
+https://vavoo.to/vavoo-iptv/play/2864186713ca39c180d1c7
+#EXTINF:-1 group-title="Netherlands",TV ORANJE
+https://vavoo.to/vavoo-iptv/play/21748499270ece6ecd9d72
+#EXTINF:-1 group-title="Netherlands",TV RIJNMOND
+https://vavoo.to/vavoo-iptv/play/3269277667a2a53ca62166
+#EXTINF:-1 group-title="Netherlands",USTAD
+https://vavoo.to/vavoo-iptv/play/4211423588555a7c578255
+#EXTINF:-1 group-title="Netherlands",VERONICA DISNEY XD
+https://vavoo.to/vavoo-iptv/play/36073491859457e6ade09c
+#EXTINF:-1 group-title="Netherlands",VIAPLAY EVENT 1
+https://vavoo.to/vavoo-iptv/play/2922568715bc53ae8f5062
 #EXTINF:-1 group-title="Netherlands",VIAPLAY EVENT 10
 https://vavoo.to/vavoo-iptv/play/2038080316232f9dea8d02
 #EXTINF:-1 group-title="Netherlands",VIAPLAY EVENT 2
@@ -11774,6 +11939,8 @@ https://vavoo.to/vavoo-iptv/play/28123946811cc7ffa60824
 https://vavoo.to/vavoo-iptv/play/34126711763fd282334f35
 #EXTINF:-1 group-title="Poland",CANAL FILM HD
 https://vavoo.to/vavoo-iptv/play/192645230664acfa58faa7
+#EXTINF:-1 group-title="Poland",CANAL HD
+https://vavoo.to/vavoo-iptv/play/8671852307094ad4ebd22
 #EXTINF:-1 group-title="Poland",CANAL NOW
 https://vavoo.to/vavoo-iptv/play/391805483dd8e472fc149
 #EXTINF:-1 group-title="Poland",CANAL SERIALE HD
@@ -11786,8 +11953,6 @@ https://vavoo.to/vavoo-iptv/play/1312693742a90242d11bd8
 https://vavoo.to/vavoo-iptv/play/28755174678071a266e452
 #EXTINF:-1 group-title="Poland",CANAL SPORT 3 HD
 https://vavoo.to/vavoo-iptv/play/2190744944c44386bd9970
-#EXTINF:-1 group-title="Poland",CANAL SPORT 4 HD
-https://vavoo.to/vavoo-iptv/play/228701501707a1dcab71f0
 #EXTINF:-1 group-title="Poland",CANAL SPORT HD
 https://vavoo.to/vavoo-iptv/play/32731295506966c906670
 #EXTINF:-1 group-title="Poland",CANAL+ 1
@@ -11820,8 +11985,6 @@ https://vavoo.to/vavoo-iptv/play/42755822772b0785da795e
 https://vavoo.to/vavoo-iptv/play/3293241225da191d1bbed6
 #EXTINF:-1 group-title="Poland",CANAL+ SPORT 3
 https://vavoo.to/vavoo-iptv/play/32836231570e5d35807626
-#EXTINF:-1 group-title="Poland",CANAL+ SPORT 4
-https://vavoo.to/vavoo-iptv/play/198665922526f9ffb85846
 #EXTINF:-1 group-title="Poland",CANAL+ SPORT 4
 https://vavoo.to/vavoo-iptv/play/1905836261d2b61c2c0344
 #EXTINF:-1 group-title="Poland",CANAL+ SPORT 5
@@ -12190,8 +12353,6 @@ https://vavoo.to/vavoo-iptv/play/4033823883148cc3ea262a
 https://vavoo.to/vavoo-iptv/play/219927567805fd63350d3b
 #EXTINF:-1 group-title="Poland",POLSAT NEWS 2
 https://vavoo.to/vavoo-iptv/play/2254760810a60b477d4a2
-#EXTINF:-1 group-title="Poland",POLSAT NEWS 2
-https://vavoo.to/vavoo-iptv/play/1129454481219bfb3c344b
 #EXTINF:-1 group-title="Poland",POLSAT NEWS HD
 https://vavoo.to/vavoo-iptv/play/33609529492b0cc342df9a
 #EXTINF:-1 group-title="Poland",POLSAT PLAY
@@ -12524,6 +12685,8 @@ https://vavoo.to/vavoo-iptv/play/538838100d0590731cf6d
 https://vavoo.to/vavoo-iptv/play/3143462075dfa9e885f3b2
 #EXTINF:-1 group-title="Portugal",AXN MOVIES
 https://vavoo.to/vavoo-iptv/play/47475930279ac9dcfd9c1
+#EXTINF:-1 group-title="Portugal",AXN MOVIES HD
+https://vavoo.to/vavoo-iptv/play/2370723370bb823495ff98
 #EXTINF:-1 group-title="Portugal",AXN WHITE
 https://vavoo.to/vavoo-iptv/play/47702122617bfc7ea0a24
 #EXTINF:-1 group-title="Portugal",AXN WHITE HD
@@ -12856,8 +13019,6 @@ https://vavoo.to/vavoo-iptv/play/349548203924edaa45dbfa
 https://vavoo.to/vavoo-iptv/play/27365893830064965c878f
 #EXTINF:-1 group-title="Portugal",SIC HD
 https://vavoo.to/vavoo-iptv/play/3099098765ec02550cde6f
-#EXTINF:-1 group-title="Portugal",SIC INTERNACIONAL
-https://vavoo.to/vavoo-iptv/play/1987468951e730fb730cc3
 #EXTINF:-1 group-title="Portugal",SIC K
 https://vavoo.to/vavoo-iptv/play/21334938345a29bf0a33ab
 #EXTINF:-1 group-title="Portugal",SIC K
@@ -13136,8 +13297,6 @@ https://vavoo.to/vavoo-iptv/play/2299973176ee5710fe76a
 https://vavoo.to/vavoo-iptv/play/1219133865f2e54935b978
 #EXTINF:-1 group-title="Romania",CINEMARATON
 https://vavoo.to/vavoo-iptv/play/3275610158b68dd7012819
-#EXTINF:-1 group-title="Romania",CINEMARATON HD
-https://vavoo.to/vavoo-iptv/play/257305557593c860f6f3f5
 #EXTINF:-1 group-title="Romania",CINEMAX
 https://vavoo.to/vavoo-iptv/play/3794748066d6f43851bd2a
 #EXTINF:-1 group-title="Romania",CINEMAX 2
@@ -13398,6 +13557,8 @@ https://vavoo.to/vavoo-iptv/play/181751695cb11041373c1
 https://vavoo.to/vavoo-iptv/play/3510040414c4c03070c742
 #EXTINF:-1 group-title="Romania",OBSERVATOR NEWS
 https://vavoo.to/vavoo-iptv/play/130908298375096136231
+#EXTINF:-1 group-title="Romania",OBSERVATOR NEWS
+https://vavoo.to/vavoo-iptv/play/130908298375096136231
 #EXTINF:-1 group-title="Romania",ORANGE SPORT 1
 https://vavoo.to/vavoo-iptv/play/37315014659dbba6be44c2
 #EXTINF:-1 group-title="Romania",ORANGE SPORT 2
@@ -13530,8 +13691,6 @@ https://vavoo.to/vavoo-iptv/play/11403569519a4b65dbd3c9
 https://vavoo.to/vavoo-iptv/play/27211650603aa803141a7d
 #EXTINF:-1 group-title="Russia",.SCI‑FI
 https://vavoo.to/vavoo-iptv/play/8858445202e2ac20b5656
-#EXTINF:-1 group-title="Russia",1 MUS
-https://vavoo.to/vavoo-iptv/play/22419276756f7195d19bd7
 #EXTINF:-1 group-title="Russia",1+1
 https://vavoo.to/vavoo-iptv/play/2295233790afed2b342a0
 #EXTINF:-1 group-title="Russia",24 TECHNO
@@ -13736,8 +13895,6 @@ https://vavoo.to/vavoo-iptv/play/76790896b7ebe529115e
 https://vavoo.to/vavoo-iptv/play/20925127416dcfde316841
 #EXTINF:-1 group-title="Russia",HOME
 https://vavoo.to/vavoo-iptv/play/630071135668aeabde12b
-#EXTINF:-1 group-title="Russia",HOME TB
-https://vavoo.to/vavoo-iptv/play/234532519699617ac7eaaf
 #EXTINF:-1 group-title="Russia",HTB
 https://vavoo.to/vavoo-iptv/play/8111102086a0179c1cfa4
 #EXTINF:-1 group-title="Russia",ID
@@ -13868,8 +14025,6 @@ https://vavoo.to/vavoo-iptv/play/32305455911bfe1136830d
 https://vavoo.to/vavoo-iptv/play/3870096228f86ded461a22
 #EXTINF:-1 group-title="Russia",MTV LIVE INTERNATIONAL HD
 https://vavoo.to/vavoo-iptv/play/1783586546377487f47eca
-#EXTINF:-1 group-title="Russia",MTV YO!
-https://vavoo.to/vavoo-iptv/play/1564351647b5f4c9a01611
 #EXTINF:-1 group-title="Russia",MULT TV
 https://vavoo.to/vavoo-iptv/play/41625506195249ec79820e
 #EXTINF:-1 group-title="Russia",MULTI MANIA
@@ -14004,8 +14159,6 @@ https://vavoo.to/vavoo-iptv/play/2500910818e469ce3e2826
 https://vavoo.to/vavoo-iptv/play/3515755195dd9422757627
 #EXTINF:-1 group-title="Russia",SOVERSHENNO SEKRETNO
 https://vavoo.to/vavoo-iptv/play/3369873388cba72339f8a7
-#EXTINF:-1 group-title="Russia",STAR
-https://vavoo.to/vavoo-iptv/play/329701427194c3dee57788
 #EXTINF:-1 group-title="Russia",STAR TB
 https://vavoo.to/vavoo-iptv/play/1226383418d1be78e22210
 #EXTINF:-1 group-title="Russia",STRANA FM
@@ -14016,24 +14169,6 @@ https://vavoo.to/vavoo-iptv/play/29143416480b647729e1ce
 https://vavoo.to/vavoo-iptv/play/4178923922520904bbcabc
 #EXTINF:-1 group-title="Russia",TBC
 https://vavoo.to/vavoo-iptv/play/2026484172ae158a72ec78
-#EXTINF:-1 group-title="Russia",TELEPUTESHESTVYA
-https://vavoo.to/vavoo-iptv/play/1466461372d9e8b8cecbe0
-#EXTINF:-1 group-title="Russia",THT 4
-https://vavoo.to/vavoo-iptv/play/316704812c1d16f66f94c
-#EXTINF:-1 group-title="Russia",THT MUSIC
-https://vavoo.to/vavoo-iptv/play/2045635278962af29ba91e
-#EXTINF:-1 group-title="Russia",TIJI
-https://vavoo.to/vavoo-iptv/play/30473084f881b946c63c
-#EXTINF:-1 group-title="Russia",TIJI TV
-https://vavoo.to/vavoo-iptv/play/22244712993fb0763b2982
-#EXTINF:-1 group-title="Russia",TLC
-https://vavoo.to/vavoo-iptv/play/11201292129fe60444947e
-#EXTINF:-1 group-title="Russia",TLC HD
-https://vavoo.to/vavoo-iptv/play/1982303099720c4b6fe15a
-#EXTINF:-1 group-title="Russia",TNT
-https://vavoo.to/vavoo-iptv/play/372108342920ebb0aa2a3f
-#EXTINF:-1 group-title="Russia",TNT 4
-https://vavoo.to/vavoo-iptv/play/3566174635cc900a46850b
 #EXTINF:-1 group-title="Russia",TELEPUTESHESTVYA
 https://vavoo.to/vavoo-iptv/play/1466461372d9e8b8cecbe0
 #EXTINF:-1 group-title="Russia",THT 4
@@ -14398,8 +14533,6 @@ https://vavoo.to/vavoo-iptv/play/66042311743a68bcaf49d
 https://vavoo.to/vavoo-iptv/play/2820519021aaac5c496919
 #EXTINF:-1 group-title="Russia",РОССИЯ 1 +6
 https://vavoo.to/vavoo-iptv/play/35377579659b5d3d399e8d
-#EXTINF:-1 group-title="Russia",РОССИЯ 1 +8
-https://vavoo.to/vavoo-iptv/play/1844271468581e6d621a30
 #EXTINF:-1 group-title="Russia",РОССИЯ 1 HD
 https://vavoo.to/vavoo-iptv/play/3752798550cb647b3c0e2e
 #EXTINF:-1 group-title="Russia",РОССИЯ 24
@@ -14472,6 +14605,8 @@ https://vavoo.to/vavoo-iptv/play/98041898efe3bc889a81
 https://vavoo.to/vavoo-iptv/play/39477320814354da7a3f7f
 #EXTINF:-1 group-title="Russia",ТНВ‑ПЛАНЕТА
 https://vavoo.to/vavoo-iptv/play/289420819de3eb3b023e7
+#EXTINF:-1 group-title="Russia",ТНТ
+https://vavoo.to/vavoo-iptv/play/371099324285e376d4d45c
 #EXTINF:-1 group-title="Russia",ТНТ MUSIC
 https://vavoo.to/vavoo-iptv/play/3783797318d9b7d3edde28
 #EXTINF:-1 group-title="Russia",ТНТ4
@@ -14502,8 +14637,6 @@ https://vavoo.to/vavoo-iptv/play/2801370243ad35659b647f
 https://vavoo.to/vavoo-iptv/play/3521839803471d0c98c5ce
 #EXTINF:-1 group-title="Spain",A&E
 https://vavoo.to/vavoo-iptv/play/3126618519f102cab27f99
-#EXTINF:-1 group-title="Spain",A3 SERIES HD
-https://vavoo.to/vavoo-iptv/play/33408929373ca1e3011ab7
 #EXTINF:-1 group-title="Spain",ACTIVA TV
 https://vavoo.to/vavoo-iptv/play/38928678336f1f46aad32e
 #EXTINF:-1 group-title="Spain",AFV ESPANOL
@@ -14714,6 +14847,8 @@ https://vavoo.to/vavoo-iptv/play/643888368d13c4b0e0168
 https://vavoo.to/vavoo-iptv/play/2411568928d1e64ae51039
 #EXTINF:-1 group-title="Spain",ESPERANZA TV
 https://vavoo.to/vavoo-iptv/play/13839812917750c6ad1286
+#EXTINF:-1 group-title="Spain",ESPN
+https://vavoo.to/vavoo-iptv/play/2939432470f9c0dfb6dd2e
 #EXTINF:-1 group-title="Spain",ESPN 2
 https://vavoo.to/vavoo-iptv/play/3498233896efe13721ec3
 #EXTINF:-1 group-title="Spain",ETB 1
@@ -14734,6 +14869,8 @@ https://vavoo.to/vavoo-iptv/play/36204944534de72eaba372
 https://vavoo.to/vavoo-iptv/play/2670144662ab93240c576b
 #EXTINF:-1 group-title="Spain",EUROSPORT 2 (BACKUP)
 https://vavoo.to/vavoo-iptv/play/34746923364fda5c6d183d
+#EXTINF:-1 group-title="Spain",EUROSPORT 3
+https://vavoo.to/vavoo-iptv/play/27225633662edaae9cc410
 #EXTINF:-1 group-title="Spain",EUROSPORT 4
 https://vavoo.to/vavoo-iptv/play/2752412701e74afdf9b33
 #EXTINF:-1 group-title="Spain",EUROSPORT 5
@@ -14746,6 +14883,8 @@ https://vavoo.to/vavoo-iptv/play/26225858313dc1c12ffe85
 https://vavoo.to/vavoo-iptv/play/3362806456d3d7dff421d4
 #EXTINF:-1 group-title="Spain",FOX HD
 https://vavoo.to/vavoo-iptv/play/2656093401067d606e6608
+#EXTINF:-1 group-title="Spain",FOX LIFE HD
+https://vavoo.to/vavoo-iptv/play/2765569410803d64e598b6
 #EXTINF:-1 group-title="Spain",FOX SPORTS 2
 https://vavoo.to/vavoo-iptv/play/402200170466937f0904e5
 #EXTINF:-1 group-title="Spain",FOX SPORTS 3
@@ -14762,8 +14901,6 @@ https://vavoo.to/vavoo-iptv/play/441554993480a547ec912
 https://vavoo.to/vavoo-iptv/play/4674414951a2a93a9b641
 #EXTINF:-1 group-title="Spain",GOL TV
 https://vavoo.to/vavoo-iptv/play/144730041936fc8399828e
-#EXTINF:-1 group-title="Spain",GOL TV HD
-https://vavoo.to/vavoo-iptv/play/4165524123220ab279d403
 #EXTINF:-1 group-title="Spain",GRAN HERMANO
 https://vavoo.to/vavoo-iptv/play/8979422162d5b6732949c
 #EXTINF:-1 group-title="Spain",HBO
@@ -14864,6 +15001,8 @@ https://vavoo.to/vavoo-iptv/play/1498547821a030b97a17f4
 https://vavoo.to/vavoo-iptv/play/369799243877c07b241614
 #EXTINF:-1 group-title="Spain",MOVISTAR COMEDIA HD
 https://vavoo.to/vavoo-iptv/play/128504332060a4fe38a8e9
+#EXTINF:-1 group-title="Spain",MOVISTAR DEPORTE 1 HD
+https://vavoo.to/vavoo-iptv/play/16240905772a1bd64a3b10
 #EXTINF:-1 group-title="Spain",MOVISTAR DEPORTES
 https://vavoo.to/vavoo-iptv/play/11881663439d233a8dd226
 #EXTINF:-1 group-title="Spain",MOVISTAR DRAMA HD
@@ -14900,6 +15039,8 @@ https://vavoo.to/vavoo-iptv/play/11388739713b9c23fd9584
 https://vavoo.to/vavoo-iptv/play/13440738315213b34666cd
 #EXTINF:-1 group-title="Spain",MOVISTAR+
 https://vavoo.to/vavoo-iptv/play/28816684640315c1e26095
+#EXTINF:-1 group-title="Spain",MTV ESPANA
+https://vavoo.to/vavoo-iptv/play/2061606272b17390f38840
 #EXTINF:-1 group-title="Spain",MTV ESPANA
 https://vavoo.to/vavoo-iptv/play/406861984339e0e463fb39
 #EXTINF:-1 group-title="Spain",MULTIDEPORTE
@@ -15014,6 +15155,8 @@ https://vavoo.to/vavoo-iptv/play/53159852814b98ea8c2fc
 https://vavoo.to/vavoo-iptv/play/212393001489c25c01efd5
 #EXTINF:-1 group-title="Spain",TELENOVELAS
 https://vavoo.to/vavoo-iptv/play/1456200012b9145a56c73b
+#EXTINF:-1 group-title="Spain",TELEONUBA
+https://vavoo.to/vavoo-iptv/play/32259903508402f33d2b7d
 #EXTINF:-1 group-title="Spain",TELEVIGO
 https://vavoo.to/vavoo-iptv/play/96780778738d27dd840a1
 #EXTINF:-1 group-title="Spain",TELEVISIÓN MELILLA
@@ -15034,6 +15177,8 @@ https://vavoo.to/vavoo-iptv/play/46981335898e66a40a61f
 https://vavoo.to/vavoo-iptv/play/1213515147e8f773d35b54
 #EXTINF:-1 group-title="Spain",TRECE TV
 https://vavoo.to/vavoo-iptv/play/90214658748d677e663ea
+#EXTINF:-1 group-title="Spain",TUYA LA JANDA TV
+https://vavoo.to/vavoo-iptv/play/1762459844e0385f023b8c
 #EXTINF:-1 group-title="Spain",TV CASTILLA LA MANCHA / CMM TV
 https://vavoo.to/vavoo-iptv/play/34329940007d9f909711c6
 #EXTINF:-1 group-title="Spain",TV FERROL
@@ -15120,6 +15265,8 @@ https://vavoo.to/vavoo-iptv/play/2702376790ed1b5502281a
 https://vavoo.to/vavoo-iptv/play/805689873341639546753
 #EXTINF:-1 group-title="Turkey",4K TR: BLOOMBERG HT HD
 https://vavoo.to/vavoo-iptv/play/315207916849418564f7e9
+#EXTINF:-1 group-title="Turkey",4K TR: BOOMERANG
+https://vavoo.to/vavoo-iptv/play/3510107618b4bd2dc6657d
 #EXTINF:-1 group-title="Turkey",4K TR: CARTOON NETWORK
 https://vavoo.to/vavoo-iptv/play/327818589842dbaee1327c
 #EXTINF:-1 group-title="Turkey",4K TR: CNN T RK HD
@@ -15134,6 +15281,8 @@ https://vavoo.to/vavoo-iptv/play/6492287228e9a72f932b5
 https://vavoo.to/vavoo-iptv/play/869937351ec185ded43b6
 #EXTINF:-1 group-title="Turkey",4K TR: DREAM T RK
 https://vavoo.to/vavoo-iptv/play/42666830256873dd1e7fac
+#EXTINF:-1 group-title="Turkey",4K TR: DUCK TV HD
+https://vavoo.to/vavoo-iptv/play/1709129189f694bdd416ac
 #EXTINF:-1 group-title="Turkey",4K TR: EKOL TV
 https://vavoo.to/vavoo-iptv/play/2706210049a80b69a6323c
 #EXTINF:-1 group-title="Turkey",4K TR: ENGLISH CLUB TV
@@ -15180,6 +15329,8 @@ https://vavoo.to/vavoo-iptv/play/10783553250ea885deefe4
 https://vavoo.to/vavoo-iptv/play/1324166169d75d5197aa7
 #EXTINF:-1 group-title="Turkey",4K TR: NBA TV HD
 https://vavoo.to/vavoo-iptv/play/5455481338d50b246e682
+#EXTINF:-1 group-title="Turkey",4K TR: NICKTOONS
+https://vavoo.to/vavoo-iptv/play/988691374172058ef3d50
 #EXTINF:-1 group-title="Turkey",4K TR: NOW HD
 https://vavoo.to/vavoo-iptv/play/2578197593a87a0ba68631
 #EXTINF:-1 group-title="Turkey",4K TR: NR1 DAMAR HD
@@ -15196,6 +15347,8 @@ https://vavoo.to/vavoo-iptv/play/42444473843632d84d102d
 https://vavoo.to/vavoo-iptv/play/130796566204d6973e458e
 #EXTINF:-1 group-title="Turkey",4K TR: S NEMA 1002 HD
 https://vavoo.to/vavoo-iptv/play/1076643856c5c88735393f
+#EXTINF:-1 group-title="Turkey",4K TR: S NEMA A LE 2 HD
+https://vavoo.to/vavoo-iptv/play/30005947634e6b4664fb0b
 #EXTINF:-1 group-title="Turkey",4K TR: S NEMA A LE HD
 https://vavoo.to/vavoo-iptv/play/698495811d90e484ca252
 #EXTINF:-1 group-title="Turkey",4K TR: S NEMA AKS YON 2 HD
@@ -15208,6 +15361,8 @@ https://vavoo.to/vavoo-iptv/play/27613851667b0cf470c1d7
 https://vavoo.to/vavoo-iptv/play/295060524599a0e2494fd
 #EXTINF:-1 group-title="Turkey",4K TR: S NEMA TV AKS YON HD
 https://vavoo.to/vavoo-iptv/play/2246993811df5da1c0152b
+#EXTINF:-1 group-title="Turkey",4K TR: S NEMA TV HD
+https://vavoo.to/vavoo-iptv/play/2780830033f62b9d4a4669
 #EXTINF:-1 group-title="Turkey",4K TR: S NEMA TV HD
 https://vavoo.to/vavoo-iptv/play/2780830033f62b9d4a4669
 #EXTINF:-1 group-title="Turkey",4K TR: S NEMA YERL 2 HD
@@ -15270,8 +15425,6 @@ https://vavoo.to/vavoo-iptv/play/2693299013444c726b1ee4
 https://vavoo.to/vavoo-iptv/play/18867436247890d4c5bd71
 #EXTINF:-1 group-title="Turkey",4K TR: TVNET HD
 https://vavoo.to/vavoo-iptv/play/1738739277a6ed7f08cfb3
-#EXTINF:-1 group-title="Turkey",4K TR: VIASAT EXPLORE
-https://vavoo.to/vavoo-iptv/play/1451950581e94c106d97f3
 #EXTINF:-1 group-title="Turkey",4K TR: VIASAT HISTORY HD
 https://vavoo.to/vavoo-iptv/play/1335130209de4b92f31496
 #EXTINF:-1 group-title="Turkey",64 KARE ULKESI
@@ -15480,6 +15633,8 @@ https://vavoo.to/vavoo-iptv/play/152264090d704f6769888
 https://vavoo.to/vavoo-iptv/play/35641061340ab1a36ee3bd
 #EXTINF:-1 group-title="Turkey",BEIN BOX OFFICE 3
 https://vavoo.to/vavoo-iptv/play/8799816103c5f180837cf
+#EXTINF:-1 group-title="Turkey",BEIN BOX OFFICE TURK
+https://vavoo.to/vavoo-iptv/play/25674866053418b6e79f08
 #EXTINF:-1 group-title="Turkey",BEIN GURME
 https://vavoo.to/vavoo-iptv/play/361703541447c2d8cea904
 #EXTINF:-1 group-title="Turkey",BEIN GURME
@@ -15672,6 +15827,8 @@ https://vavoo.to/vavoo-iptv/play/37723339252eec59344208
 https://vavoo.to/vavoo-iptv/play/13586163859ba90852bd44
 #EXTINF:-1 group-title="Turkey",BEST TURK
 https://vavoo.to/vavoo-iptv/play/11961982805779396d2f21
+#EXTINF:-1 group-title="Turkey",BEST WESTERN
+https://vavoo.to/vavoo-iptv/play/1324126222234c1f7f8a74
 #EXTINF:-1 group-title="Turkey",BEST YESILCAM
 https://vavoo.to/vavoo-iptv/play/36523472636e2b2a3ca9ec
 #EXTINF:-1 group-title="Turkey",BEYAZ HD+ SD
@@ -16062,6 +16219,8 @@ https://vavoo.to/vavoo-iptv/play/38337533385e11d005954b
 https://vavoo.to/vavoo-iptv/play/22336872173761a2f4bc0f
 #EXTINF:-1 group-title="Turkey",ENO VIZYON 1
 https://vavoo.to/vavoo-iptv/play/1949742603d0b9dbc5b085
+#EXTINF:-1 group-title="Turkey",ENO VIZYON 10
+https://vavoo.to/vavoo-iptv/play/16353843521c8bc85d3257
 #EXTINF:-1 group-title="Turkey",ENO VIZYON 11
 https://vavoo.to/vavoo-iptv/play/15451969449f4d1501d4d6
 #EXTINF:-1 group-title="Turkey",ENO VIZYON 12
@@ -16192,6 +16351,8 @@ https://vavoo.to/vavoo-iptv/play/407612267f0a9074e199a
 https://vavoo.to/vavoo-iptv/play/1545833149c5b45d20168
 #EXTINF:-1 group-title="Turkey",FILBOX SPOR 3 MACZAMANI
 https://vavoo.to/vavoo-iptv/play/2966231802972fc1b9caad
+#EXTINF:-1 group-title="Turkey",FILMBOX AKSIYON
+https://vavoo.to/vavoo-iptv/play/113035273098bcceb3f35a
 #EXTINF:-1 group-title="Turkey",FILMBOX COMEDY
 https://vavoo.to/vavoo-iptv/play/2089556265d959858b1ebc
 #EXTINF:-1 group-title="Turkey",FILMBOX FANTASTIC
@@ -16438,6 +16599,26 @@ https://vavoo.to/vavoo-iptv/play/3287444167958b45552ba7
 https://vavoo.to/vavoo-iptv/play/2093143206eceaba595c07
 #EXTINF:-1 group-title="Turkey",KANAL 58
 https://vavoo.to/vavoo-iptv/play/28027024539d984983ade4
+#EXTINF:-1 group-title="Turkey",KANAL 68
+https://vavoo.to/vavoo-iptv/play/41999826003f52c6044acd
+#EXTINF:-1 group-title="Turkey",KANAL 68
+https://vavoo.to/vavoo-iptv/play/56371887593c852f21e1a
+#EXTINF:-1 group-title="Turkey",KANAL 7
+https://vavoo.to/vavoo-iptv/play/284204601910a1d31e579f
+#EXTINF:-1 group-title="Turkey",KANAL 7
+https://vavoo.to/vavoo-iptv/play/3015649982c331c4fb85f8
+#EXTINF:-1 group-title="Turkey",KANAL 7 AVRUPA
+https://vavoo.to/vavoo-iptv/play/916532487174bf814970d
+#EXTINF:-1 group-title="Turkey",KANAL 7 AVRUPA
+https://vavoo.to/vavoo-iptv/play/4986459771133ab4a2f33
+#EXTINF:-1 group-title="Turkey",KANAL 7 EUROPA
+https://vavoo.to/vavoo-iptv/play/326498336471980dd56f67
+#EXTINF:-1 group-title="Turkey",KANAL 7 FHD
+https://vavoo.to/vavoo-iptv/play/2736723250cbdbc6581c7c
+#EXTINF:-1 group-title="Turkey",KANAL 7 HD
+https://vavoo.to/vavoo-iptv/play/16398895980886efa9037e
+#EXTINF:-1 group-title="Turkey",KANAL 7 HEVC
+https://vavoo.to/vavoo-iptv/play/3897412802d4338ee87b0a
 #EXTINF:-1 group-title="Turkey",KANAL 7 RAW
 https://vavoo.to/vavoo-iptv/play/817959285c682bf3e522b
 #EXTINF:-1 group-title="Turkey",KANAL AVRUPA
@@ -16626,6 +16807,8 @@ https://vavoo.to/vavoo-iptv/play/385468935030b3686d0215
 https://vavoo.to/vavoo-iptv/play/33750184684232d1aede57
 #EXTINF:-1 group-title="Turkey",MAVI KARADENIZ TV
 https://vavoo.to/vavoo-iptv/play/35988771778ded729aa251
+#EXTINF:-1 group-title="Turkey",MAX 007
+https://vavoo.to/vavoo-iptv/play/2857813786727202097e05
 #EXTINF:-1 group-title="Turkey",MAX ANIMASYON 1
 https://vavoo.to/vavoo-iptv/play/3343751751a8a8c7e5eb70
 #EXTINF:-1 group-title="Turkey",MAX ANIMASYON 2
@@ -16918,6 +17101,8 @@ https://vavoo.to/vavoo-iptv/play/1234604880d226de6d47be
 https://vavoo.to/vavoo-iptv/play/3269372326de5ff1a4d9d7
 #EXTINF:-1 group-title="Turkey",S SPORT+4 MAC SAATI
 https://vavoo.to/vavoo-iptv/play/1507829436cb5aa4fb5b34
+#EXTINF:-1 group-title="Turkey",S SPORT+5 MAC SAATI
+https://vavoo.to/vavoo-iptv/play/376048776421ffc14b9074
 #EXTINF:-1 group-title="Turkey",S ZC SZC TV
 https://vavoo.to/vavoo-iptv/play/24669057008c1d07812ce0
 #EXTINF:-1 group-title="Turkey",S-SPORT 1 UHD
@@ -17270,8 +17455,6 @@ https://vavoo.to/vavoo-iptv/play/25026063331fd9c2bab71e
 https://vavoo.to/vavoo-iptv/play/1465680660b8cd069bfa4c
 #EXTINF:-1 group-title="Turkey",TIVIBUSPOR 3 FHD
 https://vavoo.to/vavoo-iptv/play/21863899508f19a672f26d
-#EXTINF:-1 group-title="Turkey",TIVIBUSPOR 3 HD
-https://vavoo.to/vavoo-iptv/play/261662401043fc1ad1ed6f
 #EXTINF:-1 group-title="Turkey",TIVIBUSPOR SPOR HD
 https://vavoo.to/vavoo-iptv/play/36535158588fee46401238
 #EXTINF:-1 group-title="Turkey",TJK TV
@@ -17622,28 +17805,12 @@ https://vavoo.to/vavoo-iptv/play/1377055653aae1eccd061c
 https://vavoo.to/vavoo-iptv/play/10711660543c82502a97f7
 #EXTINF:-1 group-title="Turkey",YOL TV SD
 https://vavoo.to/vavoo-iptv/play/607077155292bdb1bc79a
-#EXTINF:-1 group-title="Turkey",ZONGULDAK KANAL Z
-https://vavoo.to/vavoo-iptv/play/1467834090ec77c1def93a
-#EXTINF:-1 group-title="Turkey",YOL TV SD
-https://vavoo.to/vavoo-iptv/play/607077155292bdb1bc79a
+#EXTINF:-1 group-title="Turkey",ZAROK TV
+https://vavoo.to/vavoo-iptv/play/4047557387764519afcc60
 #EXTINF:-1 group-title="Turkey",ZONGULDAK KANAL Z
 https://vavoo.to/vavoo-iptv/play/1467834090ec77c1def93a
 
 # UNITED KINGDOM
-#EXTINF:-1 group-title="United Kingdom",4MUSIC
-https://vavoo.to/vavoo-iptv/play/736546194d79b6489f310
-#EXTINF:-1 group-title="United Kingdom",4SEVEN
-https://vavoo.to/vavoo-iptv/play/3269335957cfa9d8cb1aa6
-#EXTINF:-1 group-title="United Kingdom",4SEVEN
-https://vavoo.to/vavoo-iptv/play/399647083976b62b1f19d6
-#EXTINF:-1 group-title="United Kingdom",5 USA
-https://vavoo.to/vavoo-iptv/play/288984575261da47020085
-#EXTINF:-1 group-title="United Kingdom",5SELECT
-https://vavoo.to/vavoo-iptv/play/36316286826ea80c5a5527
-#EXTINF:-1 group-title="United Kingdom",5SELECT
-https://vavoo.to/vavoo-iptv/play/299196087964a920b40aa7
-#EXTINF:-1 group-title="United Kingdom",5STAR
-https://vavoo.to/vavoo-iptv/play/110371455700c1d6954f5b
 #EXTINF:-1 group-title="United Kingdom",4MUSIC
 https://vavoo.to/vavoo-iptv/play/736546194d79b6489f310
 #EXTINF:-1 group-title="United Kingdom",4SEVEN
@@ -17670,8 +17837,6 @@ https://vavoo.to/vavoo-iptv/play/2657840577e2397a34c3d
 https://vavoo.to/vavoo-iptv/play/24662433362d90e00309b2
 #EXTINF:-1 group-title="United Kingdom",ABP NEWS
 https://vavoo.to/vavoo-iptv/play/149206071edd5adffceb4
-#EXTINF:-1 group-title="United Kingdom",ABSOLUTE
-https://vavoo.to/vavoo-iptv/play/363694639925507a872139
 #EXTINF:-1 group-title="United Kingdom",AHLEBAIT TV
 https://vavoo.to/vavoo-iptv/play/33312680479e651e4b95d3
 #EXTINF:-1 group-title="United Kingdom",AHLULBAYT TV
@@ -17686,6 +17851,8 @@ https://vavoo.to/vavoo-iptv/play/139689462111d50893bd12
 https://vavoo.to/vavoo-iptv/play/3156684376f46f961117e8
 #EXTINF:-1 group-title="United Kingdom",AMC
 https://vavoo.to/vavoo-iptv/play/38083036347baf91d01759
+#EXTINF:-1 group-title="United Kingdom",ANIMAL PLANET
+https://vavoo.to/vavoo-iptv/play/4014675700d8700b948984
 #EXTINF:-1 group-title="United Kingdom",ANIMAL PLANET
 https://vavoo.to/vavoo-iptv/play/4087117235f21c527d3c84
 #EXTINF:-1 group-title="United Kingdom",ARIRANG TV HD
@@ -18240,6 +18407,26 @@ https://vavoo.to/vavoo-iptv/play/63782916473366b0d53c1
 https://vavoo.to/vavoo-iptv/play/3819038124227bf4f65d5c
 #EXTINF:-1 group-title="United Kingdom",NAT GEO WILD
 https://vavoo.to/vavoo-iptv/play/253455748562c14e6f8b1b
+#EXTINF:-1 group-title="United Kingdom",NAT GEO WILD
+https://vavoo.to/vavoo-iptv/play/246896251191e693d4609d
+#EXTINF:-1 group-title="United Kingdom",NATIONAL GEOGRAPHIC
+https://vavoo.to/vavoo-iptv/play/347287580520c8c124386c
+#EXTINF:-1 group-title="United Kingdom",NDTV 24X7
+https://vavoo.to/vavoo-iptv/play/18595404443b237767936b
+#EXTINF:-1 group-title="United Kingdom",NEW VISION TV
+https://vavoo.to/vavoo-iptv/play/22464850170fe128fcc323
+#EXTINF:-1 group-title="United Kingdom",NHK WORLD HD
+https://vavoo.to/vavoo-iptv/play/545089696a5997218fba8
+#EXTINF:-1 group-title="United Kingdom",NICK JR
+https://vavoo.to/vavoo-iptv/play/1472512000af7a09b9c489
+#EXTINF:-1 group-title="United Kingdom",NICK JR TOO
+https://vavoo.to/vavoo-iptv/play/72721134880f12e20b755
+#EXTINF:-1 group-title="United Kingdom",NICK JR TOO
+https://vavoo.to/vavoo-iptv/play/19524916174dcbcadf18d5
+#EXTINF:-1 group-title="United Kingdom",NICK JUNIOR
+https://vavoo.to/vavoo-iptv/play/337718313a14120c52d4c
+#EXTINF:-1 group-title="United Kingdom",NICKELODEON
+https://vavoo.to/vavoo-iptv/play/406235616455f438a9bb72
 #EXTINF:-1 group-title="United Kingdom",NICKELODEON
 https://vavoo.to/vavoo-iptv/play/2904184817215153f410a2
 #EXTINF:-1 group-title="United Kingdom",NICKTOONS
@@ -18403,6 +18590,8 @@ https://vavoo.to/vavoo-iptv/play/199891985871f9d5627665
 #EXTINF:-1 group-title="United Kingdom",SKY CINEMA DRAMA
 https://vavoo.to/vavoo-iptv/play/23748727984286beaa00e1
 #EXTINF:-1 group-title="United Kingdom",SKY CINEMA FAMILY
+https://vavoo.to/vavoo-iptv/play/2616501925a4183a7776a3
+#EXTINF:-1 group-title="United Kingdom",SKY CINEMA FAMILY
 https://vavoo.to/vavoo-iptv/play/23801344844e7a75599b0d
 #EXTINF:-1 group-title="United Kingdom",SKY CINEMA GREATS
 https://vavoo.to/vavoo-iptv/play/2755952298e1f1bf421df0
@@ -18434,8 +18623,6 @@ https://vavoo.to/vavoo-iptv/play/2394496737aa81a6dd5abb
 https://vavoo.to/vavoo-iptv/play/15835255206109caea204
 #EXTINF:-1 group-title="United Kingdom",SKY NEWS
 https://vavoo.to/vavoo-iptv/play/261085535435dd768e8ff9
-#EXTINF:-1 group-title="United Kingdom",SKY NEWS
-https://vavoo.to/vavoo-iptv/play/1872744987a405ded802d1
 #EXTINF:-1 group-title="United Kingdom",SKY NEWS (BACKUP)
 https://vavoo.to/vavoo-iptv/play/119539989712fb87bf8b4c
 #EXTINF:-1 group-title="United Kingdom",SKY SCI-FI & HORROR
@@ -18602,6 +18789,8 @@ https://vavoo.to/vavoo-iptv/play/1464425109c4405479e847
 https://vavoo.to/vavoo-iptv/play/1991915821d687a283d0f4
 #EXTINF:-1 group-title="United Kingdom",TINY POP
 https://vavoo.to/vavoo-iptv/play/219333185220ddd11ce4e8
+#EXTINF:-1 group-title="United Kingdom",TINY POP+1
+https://vavoo.to/vavoo-iptv/play/1414100609c6fe3b945198
 #EXTINF:-1 group-title="United Kingdom",TJC
 https://vavoo.to/vavoo-iptv/play/304521276555e5bd98c30c
 #EXTINF:-1 group-title="United Kingdom",TLC
@@ -18636,6 +18825,8 @@ https://vavoo.to/vavoo-iptv/play/1133360902f48355164d91
 https://vavoo.to/vavoo-iptv/play/21837380967067926cb77c
 #EXTINF:-1 group-title="United Kingdom",UTV
 https://vavoo.to/vavoo-iptv/play/4256622958509d77437bc9
+#EXTINF:-1 group-title="United Kingdom",UTV HD
+https://vavoo.to/vavoo-iptv/play/322486708d72e4cdc2734
 #EXTINF:-1 group-title="United Kingdom",UTV IRELAND
 https://vavoo.to/vavoo-iptv/play/3728758003796ef8256de
 #EXTINF:-1 group-title="United Kingdom",VH1
