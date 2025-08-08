@@ -1,0 +1,145 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="africannationschampionshipguineavsuganda" tvg-name="Soccer | African Nations Championship : Guinea vs Uganda (19:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Guinea_vs_Uganda.png" group-title="Eventi Live",Soccer | African Nations Championship : Guinea vs Uganda (19:00)
+https://thedaddy.dad/stream/stream-425.php
+
+#EXTINF:-1 tvg-id="clubfriendlychelseavsbayerleverkusen" tvg-name="Soccer | Club Friendly : Chelsea vs Bayer Leverkusen (20:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Chelsea_vs_Bayer Leverkusen.png" group-title="Eventi Live",Soccer | Club Friendly : Chelsea vs Bayer Leverkusen (20:00)
+https://thedaddy.dad/stream/stream-355.php
+
+#EXTINF:-1 tvg-id="clubfriendlychelseavsbayerleverkusen" tvg-name="Soccer | Club Friendly : Chelsea vs Bayer Leverkusen (20:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Chelsea_vs_Bayer Leverkusen.png" group-title="Eventi Live",Soccer | Club Friendly : Chelsea vs Bayer Leverkusen (20:00)
+https://thedaddy.dad/stream/stream-910.php
+
+#EXTINF:-1 tvg-id="clubfriendlymonacovsinternazionale" tvg-name="Soccer | Club Friendly : Monaco vs Internazionale (20:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Monaco_vs_Internazionale.png" group-title="Eventi Live",Soccer | Club Friendly : Monaco vs Internazionale (20:00)
+https://thedaddy.dad/stream/stream-877.php
+
+#EXTINF:-1 tvg-id="superliggaziantepfkvsgalatasaray" tvg-name="Soccer | Super Lig : Gaziantep FK vs Galatasaray (20:30)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Gaziantep FK_vs_Galatasaray.png" group-title="Eventi Live",Soccer | Super Lig : Gaziantep FK vs Galatasaray (20:30)
+https://thedaddy.dad/stream/stream-425.php
+
+#EXTINF:-1 tvg-id="englandchampionshipbirminghamcityvsipswichtown" tvg-name="Soccer | England - Championship : Birmingham City vs Ipswich Town (21:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Birmingham City_vs_Ipswich Town.png" group-title="Eventi Live",Soccer | England - Championship : Birmingham City vs Ipswich Town (21:00)
+https://thedaddy.dad/stream/stream-35.php
+
+#EXTINF:-1 tvg-id="englandchampionshipbirminghamcityvsipswichtown" tvg-name="Soccer | England - Championship : Birmingham City vs Ipswich Town (21:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Birmingham City_vs_Ipswich Town.png" group-title="Eventi Live",Soccer | England - Championship : Birmingham City vs Ipswich Town (21:00)
+https://thedaddy.dad/stream/stream-308.php
+
+#EXTINF:-1 tvg-id="chileprimeradivisionpalestinovsdeportesiquique" tvg-name="Soccer | Chile - Primera Division : Palestino vs Deportes Iquique (21:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Palestino_vs_Deportes Iquique.png" group-title="Eventi Live",Soccer | Chile - Primera Division : Palestino vs Deportes Iquique (21:00)
+https://thedaddy.dad/stream/stream-642.php
+
+#EXTINF:-1 tvg-id="portugalprimeiraligacasapiavssportingcp" tvg-name="Soccer | Portugal - Primeira Liga : Casa Pia vs Sporting CP (21:15)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Casa Pia_vs_Sporting CP.png" group-title="Eventi Live",Soccer | Portugal - Primeira Liga : Casa Pia vs Sporting CP (21:15)
+https://thedaddy.dad/stream/stream-597.php
+
+#EXTINF:-1 tvg-id="uruguayprimeradivisiontorquevsbostonriver" tvg-name="Soccer | Uruguay - Primera Division : Torque vs Boston River (00:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Torque_vs_Boston River.png" group-title="Eventi Live",Soccer | Uruguay - Primera Division : Torque vs Boston River (00:00)
+https://thedaddy.dad/stream/stream-597.php
+
+#EXTINF:-1 tvg-id="argentinaprimeradivisióntigrevshuracán" tvg-name="Soccer | Argentina - Primera División : Tigre vs Huracán (00:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Tigre_vs_Huracán.png" group-title="Eventi Live",Soccer | Argentina - Primera División : Tigre vs Huracán (00:00)
+https://thedaddy.dad/stream/stream-388.php
+
+#EXTINF:-1 tvg-id="uruguayprimeradivisiondefensorsportingvsriverplate" tvg-name="Soccer | Uruguay - Primera Division : Defensor Sporting vs River Plate (01:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Defensor Sporting_vs_River Plate.png" group-title="Eventi Live",Soccer | Uruguay - Primera Division : Defensor Sporting vs River Plate (01:00)
+https://thedaddy.dad/stream/stream-597.php
+
+#EXTINF:-1 tvg-id="thehundredbirminghamphoenixvstrentrockets" tvg-name="Cricket | The Hundred : Birmingham Phoenix vs Trent Rockets (19:30)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Birmingham Phoenix_vs_Trent Rockets.png" group-title="Eventi Live",Cricket | The Hundred : Birmingham Phoenix vs Trent Rockets (19:30)
+https://thedaddy.dad/stream/stream-65.php
+
+#EXTINF:-1 tvg-id="1stodiwestindiesvspakistan" tvg-name="Cricket | 1st ODI : West Indies vs Pakistan (20:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/West Indies_vs_Pakistan.png" group-title="Eventi Live",Cricket | 1st ODI : West Indies vs Pakistan (20:00)
+https://thedaddy.dad/stream/stream-31.php
+
+#EXTINF:-1 tvg-id="atpmasters100020252025cincinnatiopentennisatpwta" tvg-name="Tennis | ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA (17:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Tennis | ATP Masters 1000 2025 | 2025 Cincinnati Open Tennis ATP/WTA (17:00)
+https://thedaddy.dad/stream/stream-46.php
+
+#EXTINF:-1 tvg-id="nascarcraftsmantruckseriesnctsraceatwatkinsglenqualifying" tvg-name="Motorsport | NASCAR Craftsman Truck Series NCTS Race at Watkins Glen, Qualifying (17:30)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/08/NASCAR-Craftsman-Truck-Series-Logo.png" group-title="Eventi Live",Motorsport | NASCAR Craftsman Truck Series NCTS Race at Watkins Glen, Qualifying (17:30)
+https://thedaddy.dad/stream/stream-758.php
+
+#EXTINF:-1 tvg-id="arcamenardsseriesgeneraltire100attheglen" tvg-name="Motorsport | ARCA Menards Series General Tire 100 at The Glen (20:00)" tvg-logo="https://www.arcaracing.com/wp-content/uploads/sites/36/2022/03/19/GTDelivers_100_AtWatkinsGlen_Logo_FN-990x1024.png" group-title="Eventi Live",Motorsport | ARCA Menards Series General Tire 100 at The Glen (20:00)
+https://thedaddy.dad/stream/stream-758.php
+
+#EXTINF:-1 tvg-id="indynxtseriesgrandprixofportlandpractice" tvg-name="Motorsport | Indy NXT Series Grand Prix of Portland, Practice (22:00)" tvg-logo="https://www.hmdmotorsports.com/wp-content/uploads/2024/12/Indy-NXT-Logo-white.png" group-title="Eventi Live",Motorsport | Indy NXT Series Grand Prix of Portland, Practice (22:00)
+https://thedaddy.dad/stream/stream-39.php
+
+#EXTINF:-1 tvg-id="nascarcraftsmantruckseriesnctsraceatwatkinsglen" tvg-name="Motorsport | NASCAR Craftsman Truck Series NCTS Race at Watkins Glen (23:00)" tvg-logo="https://www.northwilkesborospeedway.com/images/ncts_300x300.png" group-title="Eventi Live",Motorsport | NASCAR Craftsman Truck Series NCTS Race at Watkins Glen (23:00)
+https://thedaddy.dad/stream/stream-39.php
+
+#EXTINF:-1 tvg-id="indycarracingbitnilecomgrandprixofportlandpractice1" tvg-name="Motorsport | IndyCar Racing Bitnile.com Grand Prix of Portland, Practice 1 (23:30)" tvg-logo="https://media-s3-us-east-1.ceros.com/indycar/images/2023/02/27/c64e2953404d7b8b82a6e5f803b214fe/artboard-6-at-4x.png" group-title="Eventi Live",Motorsport | IndyCar Racing Bitnile.com Grand Prix of Portland, Practice 1 (23:30)
+https://thedaddy.dad/stream/stream-758.php
+
+#EXTINF:-1 tvg-id="pgatourfedexplayoffsstjudechampionship" tvg-name="Golf | PGA Tour Fedex Playoffs - St Jude Championship (19:00)" tvg-logo="https://static.flashscore.com/res/image/data/GnEm06BO-Gt3w5YBc.png" group-title="Eventi Live",Golf | PGA Tour Fedex Playoffs - St Jude Championship (19:00)
+https://thedaddy.dad/stream/stream-70.php
+
+#EXTINF:-1 tvg-id="pgatourfedexplayoffsstjudechampionship" tvg-name="Golf | PGA Tour Fedex Playoffs - St Jude Championship (19:00)" tvg-logo="https://static.flashscore.com/res/image/data/GnEm06BO-Gt3w5YBc.png" group-title="Eventi Live",Golf | PGA Tour Fedex Playoffs - St Jude Championship (19:00)
+https://thedaddy.dad/stream/stream-343.php
+
+#EXTINF:-1 tvg-id="pgatourfedexplayoffsstjudechampionship" tvg-name="Golf | PGA Tour Fedex Playoffs - St Jude Championship (19:00)" tvg-logo="https://static.flashscore.com/res/image/data/GnEm06BO-Gt3w5YBc.png" group-title="Eventi Live",Golf | PGA Tour Fedex Playoffs - St Jude Championship (19:00)
+https://thedaddy.dad/stream/stream-318.php
+
+#EXTINF:-1 tvg-id="livgolfleaguechicagoroundone" tvg-name="Golf | LIV Golf League Chicago, Round One (22:30)" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/LIV-Golf_Tour-Logo-Size.png" group-title="Eventi Live",Golf | LIV Golf League Chicago, Round One (22:30)
+https://thedaddy.dad/stream/stream-39.php
+
+#EXTINF:-1 tvg-id="livgolfleaguechicagoroundone" tvg-name="Golf | LIV Golf League Chicago, Round One (00:30)" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/LIV-Golf_Tour-Logo-Size.png" group-title="Eventi Live",Golf | LIV Golf League Chicago, Round One (00:30)
+https://thedaddy.dad/stream/stream-54.php
+
+#EXTINF:-1 tvg-id="livgolfleaguechicagoroundone" tvg-name="Golf | LIV Golf League Chicago, Round One (00:30)" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/09/LIV-Golf_Tour-Logo-Size.png" group-title="Eventi Live",Golf | LIV Golf League Chicago, Round One (00:30)
+https://thedaddy.dad/stream/stream-768.php
+
+#EXTINF:-1 tvg-id="saudiarabiamasterschangbingyuvsmarcofu" tvg-name="Snooker | Saudi Arabia Masters : Chang Bingyu vs Marco Fu (19:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Chang Bingyu_vs_Marco Fu.png" group-title="Eventi Live",Snooker | Saudi Arabia Masters : Chang Bingyu vs Marco Fu (19:00)
+https://thedaddy.dad/stream/stream-33.php
+
+#EXTINF:-1 tvg-id="saudiarabiamasterschangbingyuvsmarcofu" tvg-name="Snooker | Saudi Arabia Masters : Chang Bingyu vs Marco Fu (19:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Chang Bingyu_vs_Marco Fu.png" group-title="Eventi Live",Snooker | Saudi Arabia Masters : Chang Bingyu vs Marco Fu (19:00)
+https://thedaddy.dad/stream/stream-879.php
+
+#EXTINF:-1 tvg-id="saudiarabiamastersiulianboikovsliuwenwei" tvg-name="Snooker | Saudi Arabia Masters : Iulian Boiko vs Liu Wenwei (19:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Iulian Boiko_vs_Liu Wenwei.png" group-title="Eventi Live",Snooker | Saudi Arabia Masters : Iulian Boiko vs Liu Wenwei (19:00)
+https://thedaddy.dad/stream/stream-33.php
+
+#EXTINF:-1 tvg-id="saudiarabiamastersiulianboikovsliuwenwei" tvg-name="Snooker | Saudi Arabia Masters : Iulian Boiko vs Liu Wenwei (19:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Iulian Boiko_vs_Liu Wenwei.png" group-title="Eventi Live",Snooker | Saudi Arabia Masters : Iulian Boiko vs Liu Wenwei (19:00)
+https://thedaddy.dad/stream/stream-879.php
+
+#EXTINF:-1 tvg-id="saudiarabiamastersoliverbrownvspatrickwhelan" tvg-name="Snooker | Saudi Arabia Masters : Oliver Brown vs Patrick Whelan (21:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Oliver Brown_vs_Patrick Whelan.png" group-title="Eventi Live",Snooker | Saudi Arabia Masters : Oliver Brown vs Patrick Whelan (21:00)
+https://thedaddy.dad/stream/stream-33.php
+
+#EXTINF:-1 tvg-id="saudiarabiamastersoliverbrownvspatrickwhelan" tvg-name="Snooker | Saudi Arabia Masters : Oliver Brown vs Patrick Whelan (21:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Oliver Brown_vs_Patrick Whelan.png" group-title="Eventi Live",Snooker | Saudi Arabia Masters : Oliver Brown vs Patrick Whelan (21:00)
+https://thedaddy.dad/stream/stream-879.php
+
+#EXTINF:-1 tvg-id="saudiarabiamastersyaopengchengvsalexanderursenbacher" tvg-name="Snooker | Saudi Arabia Masters : Yao Pengcheng vs Alexander Ursenbacher (21:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Yao Pengcheng_vs_Alexander Ursenbacher.png" group-title="Eventi Live",Snooker | Saudi Arabia Masters : Yao Pengcheng vs Alexander Ursenbacher (21:00)
+https://thedaddy.dad/stream/stream-33.php
+
+#EXTINF:-1 tvg-id="saudiarabiamastersyaopengchengvsalexanderursenbacher" tvg-name="Snooker | Saudi Arabia Masters : Yao Pengcheng vs Alexander Ursenbacher (21:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Yao Pengcheng_vs_Alexander Ursenbacher.png" group-title="Eventi Live",Snooker | Saudi Arabia Masters : Yao Pengcheng vs Alexander Ursenbacher (21:00)
+https://thedaddy.dad/stream/stream-879.php
+
+#EXTINF:-1 tvg-id="nflcarolinapanthersvsclevelandbrowns" tvg-name="Am. Football | NFL : Carolina Panthers vs Cleveland Browns (01:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Carolina Panthers_vs_Cleveland Browns.png" group-title="Eventi Live",Am. Football | NFL : Carolina Panthers vs Cleveland Browns (01:00)
+https://thedaddy.dad/stream/stream-405.php
+
+#EXTINF:-1 tvg-id="littleleaguebaseballmidwestregionalnorthdakotavstba" tvg-name="Baseball | Little League Baseball Midwest Regional: North Dakota vs TBA (19:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/North Dakota_vs_TBA.png" group-title="Eventi Live",Baseball | Little League Baseball Midwest Regional: North Dakota vs TBA (19:00)
+https://thedaddy.dad/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="littleleaguebaseballmidatlanticregionalpennsylvaniavstba" tvg-name="Baseball | Little League Baseball Mid-Atlantic Regional: Pennsylvania vs TBA (21:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Pennsylvania_vs_TBA.png" group-title="Eventi Live",Baseball | Little League Baseball Mid-Atlantic Regional: Pennsylvania vs TBA (21:00)
+https://thedaddy.dad/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="2025littleleaguesoftballworldseriesgame17tbavsflorida" tvg-name="Baseball | 2025 Little League Softball World Series Game 17: TBA vs Florida (22:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/TBA_vs_Florida.png" group-title="Eventi Live",Baseball | 2025 Little League Softball World Series Game 17: TBA vs Florida (22:00)
+https://thedaddy.dad/stream/stream-45.php
+
+#EXTINF:-1 tvg-id="littleleaguebaseballmountainregionalnevadavstba" tvg-name="Baseball | Little League Baseball Mountain Regional: Nevada vs TBA (23:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Nevada_vs_TBA.png" group-title="Eventi Live",Baseball | Little League Baseball Mountain Regional: Nevada vs TBA (23:00)
+https://thedaddy.dad/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="2025littleleaguesoftballworldseriesgame18tbavsindiana" tvg-name="Baseball | 2025 Little League Softball World Series Game 18: TBA vs Indiana (01:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/TBA_vs_Indiana.png" group-title="Eventi Live",Baseball | 2025 Little League Softball World Series Game 18: TBA vs Indiana (01:00)
+https://thedaddy.dad/stream/stream-45.php
+
+#EXTINF:-1 tvg-id="littleleaguebaseballmetroregionalnewyorkvsconnecticut" tvg-name="Baseball | Little League Baseball Metro Regional: New York vs Connecticut (01:00)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/New York_vs_Connecticut.png" group-title="Eventi Live",Baseball | Little League Baseball Metro Regional: New York vs Connecticut (01:00)
+https://thedaddy.dad/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="mlbbaltimoreoriolesvsoaklandathletics" tvg-name="Baseball | MLB : Baltimore Orioles vs Oakland Athletics (01:05)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Baltimore Orioles_vs_Oakland Athletics.png" group-title="Eventi Live",Baseball | MLB : Baltimore Orioles vs Oakland Athletics (01:05)
+https://thedaddy.dad/stream/stream-829.php
+
+#EXTINF:-1 tvg-id="mlbbaltimoreoriolesvsoaklandathletics" tvg-name="Baseball | MLB : Baltimore Orioles vs Oakland Athletics (01:05)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Baltimore Orioles_vs_Oakland Athletics.png" group-title="Eventi Live",Baseball | MLB : Baltimore Orioles vs Oakland Athletics (01:05)
+https://thedaddy.dad/stream/stream-755.php
+
+#EXTINF:-1 tvg-id="mlbdetroittigersvslosangelesangels" tvg-name="Baseball | MLB : Detroit Tigers vs Los Angeles Angels (01:10)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/Detroit Tigers_vs_Los Angeles Angels.png" group-title="Eventi Live",Baseball | MLB : Detroit Tigers vs Los Angeles Angels (01:10)
+https://thedaddy.dad/stream/stream-32.php
+
+#EXTINF:-1 tvg-id="wnbanewyorklibertyvsdallaswings" tvg-name="Basketball | WNBA : New York Liberty vs Dallas Wings (01:30)" tvg-logo="https://raw.githubusercontent.com/jimmyoffa/TV/main/logos/New York Liberty_vs_Dallas Wings.png" group-title="Eventi Live",Basketball | WNBA : New York Liberty vs Dallas Wings (01:30)
+https://thedaddy.dad/stream/stream-325.php
+
+#EXTINF:-1 tvg-id="horseracingsaratogalive" tvg-name="Horse Racing | Horse Racing Saratoga Live (22:00)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/saratoga-logo.png" group-title="Eventi Live",Horse Racing | Horse Racing Saratoga Live (22:00)
+https://thedaddy.dad/stream/stream-758.php
+
+#EXTINF:-1 tvg-id="superleaguerugbywarringtonwolvesvswiganwarriors" tvg-name="Rugby League | Super League Rugby : Warrington Wolves vs Wigan Warriors (21:00)" tvg-logo="https://i.pinimg.com/originals/28/c0/db/28c0db26434f949ab593a55e6e625681.png" group-title="Eventi Live",Rugby League | Super League Rugby : Warrington Wolves vs Wigan Warriors (21:00)
+https://thedaddy.dad/stream/stream-37.php
+
