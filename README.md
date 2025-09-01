@@ -53,12 +53,12 @@ Per utilizzare questa lista IPTV su Stremio, dovrai usare l'addon **OMG Premium 
 1. **Usa questo fork specifico**: [https://github.com/nzo66/OMG-Premium-TV](https://github.com/nzo66/OMG-Premium-TV)  
 2. **Deploy su Docker** tramite Hugging Face o VPS seguendo la guida nel repository  
 3. **Configura l'addon** inserendo:
-   - **URL M3U**: Il link della lista M3U sopra indicato (se utilizzi tvproxy metti la lista gia proxata)
+   - **URL M3U**: Il link della lista M3U sopra indicato (se utilizzi EasyProxy metti la lista gia proxata)
    - **URL EPG**: Il link dell'EPG XML sopra indicato  
    - **Abilita EPG**: Metti la spunta su Abilita EPG
-   - **Proxy URL**: indirizzo del tuo MFP (lascia vuoto se utilizzi tvproxy)
-   - **Proxy Password**: api_password del tuo MFP (lascia vuoto se utilizzi tvproxy)
-   - **Forza Proxy**: SI (NO se utilizzi tvproxy)
+   - **Proxy URL**: indirizzo del tuo MFP (lascia vuoto se utilizzi EasyProxy)
+   - **Proxy Password**: api_password del tuo MFP (lascia vuoto se utilizzi EasyProxy)
+   - **Forza Proxy**: SI (NO se utilizzi EasyProxy)
    - **Intervallo Aggiornamento Playlist**: Metti 02:00
 4. **Installa su Stremio** cliccando sul pulsante "INSTALLA SU STREMIO"
 
@@ -76,8 +76,8 @@ Con OMG Premium TV potrai sfruttare:
 
 ### ✅ Crea il tuo proxy personalizzato
 
-- **TvProxy**:  
-  [TvProxy](https://github.com/nzo66/tvproxy)
+- **EasyProxy**:  
+  [EasyProxy](https://github.com/nzo66/EasyProxy)
 
 - **Mediaflow Proxy**:  
   [mediaflow-proxy](https://github.com/nzo66/mediaflow-proxy)
@@ -98,7 +98,7 @@ Avvia creando un fork della repository proxy.
 
 ---
 
-### 🔁 Come proxare le liste con TvProxy?
+### 🔁 Come proxare le liste con EasyProxy?
 
 Utilizza il Playlist Builder: https://<mfp-ip>/builder
 
