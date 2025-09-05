@@ -56,6 +56,9 @@ def merger_playlist2():
     
     # Scarica/leggi le playlist
     playlist1 = download_playlist(url1) # channels_italy.m3u8
+    playlist3 = download_playlist(url3)
+    playlist4 = download_playlist(url4)
+    playlist5 = download_playlist(url5)
     
     canali_daddy_flag = os.getenv("CANALI_DADDY", "no").strip().lower()
     if canali_daddy_flag == "si":
@@ -128,6 +131,9 @@ def merger_playlistworld2():
     
     # Scarica/leggi le playlist
     playlist1 = download_playlist(url1) # channels_italy.m3u8
+    playlist3 = download_playlist(url3)
+    playlist4 = download_playlist(url4)
+    playlist5 = download_playlist(url5)
     
     canali_daddy_flag = os.getenv("CANALI_DADDY", "no").strip().lower()
     if canali_daddy_flag == "si":
