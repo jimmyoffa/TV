@@ -25,7 +25,7 @@ jobs:
 
       - name: Run Script
         run: |
-          python lista.py
+          python lista.py --create-m3u tvtap.m3u
       
       - name: Configura Git
         run: |
