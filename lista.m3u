@@ -545,8 +545,6 @@ https://daddylive.sx/stream/stream-876.php
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (2)
 https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (2)
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://daddylive.sx/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (1)
@@ -581,8 +579,6 @@ https://daddylive.sx/stream/stream-575.php
 https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (2)
 https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A
-https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (1)
 https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (2)
@@ -601,6 +597,8 @@ https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 https://daddylive.sx/stream/stream-574.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS
 https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
+#EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
+https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (BACKUP)
 https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
@@ -767,9 +765,7 @@ https://daddylive.sx/stream/stream-864.php
 https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE (2)
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (1)
-https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (2)
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
 https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (D)
 https://daddylive.sx/stream/stream-860.php
@@ -797,7 +793,9 @@ https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582
 https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 18
 https://vavoo.to/vavoo-iptv/play/347075802871b4b6547803
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 2 (1)
+https://vavoo.to/vavoo-iptv/play/8772007144e30fd3ca161
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 2 (2)
 https://vavoo.to/vavoo-iptv/play/525374356eb78c097e6a2
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 3 (1)
 https://vavoo.to/vavoo-iptv/play/15369343494e510eea4a0
@@ -879,9 +877,7 @@ https://vavoo.to/vavoo-iptv/play/2049087681c31592c6b362
 https://vavoo.to/vavoo-iptv/play/3249873828c4ad4d2c1d15
 #EXTINF:-1 tvg-id="rai5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Rai",RAI 5 (2)
 https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
-#EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP (1)
-https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
-#EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP (2)
+#EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
@@ -935,7 +931,7 @@ https://daddylive.sx/stream/stream-850.php
 #EXTINF:-1 tvg-id="worldcupqualifyingukrainevsfrance" tvg-name="Soccer | World Cup Qualifying : Ukraine vs France (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ukraine_vs_France.png" group-title="Eventi Live",Soccer | World Cup Qualifying : Ukraine vs France (20:45)
 https://daddylive.sx/stream/stream-460.php
 
-#EXTINF:-1 tvg-id="usopenround1day13" tvg-name="Tennis | US Open Round 1 | Day 13 (16:00)" tvg-logo="https://latestlogo.com/wp-content/uploads/2024/01/weau-13-2023.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 13 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day13" tvg-name="Tennis | US Open Round 1 | Day 13 (16:00)" tvg-logo="https://umbraco.com/media/vkkndsib/umbraco-13-1.png?quality=80" group-title="Eventi Live",Tennis | US Open Round 1 | Day 13 (16:00)
 https://daddylive.sx/stream/stream-576.php
 
 #EXTINF:-1 tvg-id="usopenround1day13" tvg-name="Tennis | US Open Round 1 | Day 13 (16:00)" tvg-logo="https://umbraco.com/media/vkkndsib/umbraco-13-1.png?quality=80" group-title="Eventi Live",Tennis | US Open Round 1 | Day 13 (16:00)
@@ -944,10 +940,10 @@ https://daddylive.sx/stream/stream-462.php
 #EXTINF:-1 tvg-id="usopenround1day13" tvg-name="Tennis | US Open Round 1 | Day 13 (16:00)" tvg-logo="https://umbraco.com/media/vkkndsib/umbraco-13-1.png?quality=80" group-title="Eventi Live",Tennis | US Open Round 1 | Day 13 (16:00)
 https://daddylive.sx/stream/stream-461.php
 
-#EXTINF:-1 tvg-id="usopenround1day13" tvg-name="Tennis | US Open Round 1 | Day 13 (16:00)" tvg-logo="https://latestlogo.com/wp-content/uploads/2024/01/weau-13-2023.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 13 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day13" tvg-name="Tennis | US Open Round 1 | Day 13 (16:00)" tvg-logo="https://umbraco.com/media/vkkndsib/umbraco-13-1.png?quality=80" group-title="Eventi Live",Tennis | US Open Round 1 | Day 13 (16:00)
 https://daddylive.sx/stream/stream-460.php
 
-#EXTINF:-1 tvg-id="usopenround1day13" tvg-name="Tennis | US Open Round 1 | Day 13 (16:00)" tvg-logo="https://umbraco.com/media/vkkndsib/umbraco-13-1.png?quality=80" group-title="Eventi Live",Tennis | US Open Round 1 | Day 13 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day13" tvg-name="Tennis | US Open Round 1 | Day 13 (16:00)" tvg-logo="https://latestlogo.com/wp-content/uploads/2024/01/weau-13-2023.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 13 (16:00)
 https://daddylive.sx/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="usopenround1day13" tvg-name="Tennis | US Open Round 1 | Day 13 (16:00)" tvg-logo="https://umbraco.com/media/vkkndsib/umbraco-13-1.png?quality=80" group-title="Eventi Live",Tennis | US Open Round 1 | Day 13 (16:00)
@@ -959,10 +955,10 @@ https://daddylive.sx/stream/stream-575.php
 #EXTINF:-1 tvg-id="motogpgrandprixofcataloniafreepractice1" tvg-name="Motorsports | MotoGP : Grand Prix of Catalonia Free Practice 1 (09:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsports | MotoGP : Grand Prix of Catalonia Free Practice 1 (09:00)
 https://daddylive.sx/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="formula3pirelliitaliangrandprixpractice" tvg-name="Motorsports | Formula 3 : Pirelli Italian Grand Prix - Practice (09:35)" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Eventi Live",Motorsports | Formula 3 : Pirelli Italian Grand Prix - Practice (09:35)
+#EXTINF:-1 tvg-id="formula3pirelliitaliangrandprixpractice" tvg-name="Motorsports | Formula 3 : Pirelli Italian Grand Prix - Practice (09:35)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/fia-formula-3-championship-logo-png_seeklogo-524064.png" group-title="Eventi Live",Motorsports | Formula 3 : Pirelli Italian Grand Prix - Practice (09:35)
 https://daddylive.sx/stream/stream-577.php
 
-#EXTINF:-1 tvg-id="moto2grandprixofcataloniafreepractice1" tvg-name="Motorsports | Moto2 : Grand Prix of Catalonia Free Practice 1 (09:45)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/yqvtrq1432309315.png" group-title="Eventi Live",Motorsports | Moto2 : Grand Prix of Catalonia Free Practice 1 (09:45)
+#EXTINF:-1 tvg-id="moto2grandprixofcataloniafreepractice1" tvg-name="Motorsports | Moto2 : Grand Prix of Catalonia Free Practice 1 (09:45)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Motorsports | Moto2 : Grand Prix of Catalonia Free Practice 1 (09:45)
 https://daddylive.sx/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="formula2pirelliitaliangrandprixpractice" tvg-name="Motorsports | Formula 2 : Pirelli Italian Grand Prix - Practice (11:00)" tvg-logo="https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png" group-title="Eventi Live",Motorsports | Formula 2 : Pirelli Italian Grand Prix - Practice (11:00)
@@ -980,7 +976,7 @@ https://daddylive.sx/stream/stream-577.php
 #EXTINF:-1 tvg-id="moto2grandprixofcataloniapractice" tvg-name="Motorsports | Moto2 : Grand Prix of Catalonia Practice (14:00)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Motorsports | Moto2 : Grand Prix of Catalonia Practice (14:00)
 https://daddylive.sx/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="formula3pirelliitaliangrandprixqualifying" tvg-name="Motorsports | Formula 3 : Pirelli Italian Grand Prix - Qualifying (15:00)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/fia-formula-3-championship-logo-png_seeklogo-524064.png" group-title="Eventi Live",Motorsports | Formula 3 : Pirelli Italian Grand Prix - Qualifying (15:00)
+#EXTINF:-1 tvg-id="formula3pirelliitaliangrandprixqualifying" tvg-name="Motorsports | Formula 3 : Pirelli Italian Grand Prix - Qualifying (15:00)" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Eventi Live",Motorsports | Formula 3 : Pirelli Italian Grand Prix - Qualifying (15:00)
 https://daddylive.sx/stream/stream-577.php
 
 #EXTINF:-1 tvg-id="formula2pirelliitaliangrandprixqualifying" tvg-name="Motorsports | Formula 2 : Pirelli Italian Grand Prix - Qualifying (16:00)" tvg-logo="https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png" group-title="Eventi Live",Motorsports | Formula 2 : Pirelli Italian Grand Prix - Qualifying (16:00)
@@ -989,7 +985,7 @@ https://daddylive.sx/stream/stream-577.php
 #EXTINF:-1 tvg-id="formula1pirelliitaliangrandprixpractice2" tvg-name="Motorsports | Formula 1 : Pirelli Italian Grand Prix - Practice 2 (17:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsports | Formula 1 : Pirelli Italian Grand Prix - Practice 2 (17:00)
 https://daddylive.sx/stream/stream-577.php
 
-#EXTINF:-1 tvg-id="vueltaaespanastage13202cabezóndelasallanglirumountain202km4000m" tvg-name="Cycling | Vuelta a Espana Stage 13 - 202 Cabezón de la Sal - LAngliru Mountain | 202 km | 4000 m (14:30)" tvg-logo="https://sis.streckenflug.at/flights/2019/5542c860c03e19b5976246ef089114c0_map_trace.png" group-title="Eventi Live",Cycling | Vuelta a Espana Stage 13 - 202 Cabezón de la Sal - LAngliru Mountain | 202 km | 4000 m (14:30)
+#EXTINF:-1 tvg-id="vueltaaespanastage13202cabezóndelasallanglirumountain202km4000m" tvg-name="Cycling | Vuelta a Espana Stage 13 - 202 Cabezón de la Sal - LAngliru Mountain | 202 km | 4000 m (14:30)" tvg-logo="https://www.routeverte.com/content/uploads/2020/05/RV_Escapades_Artria.png" group-title="Eventi Live",Cycling | Vuelta a Espana Stage 13 - 202 Cabezón de la Sal - LAngliru Mountain | 202 km | 4000 m (14:30)
 https://daddylive.sx/stream/stream-878.php
 
 
