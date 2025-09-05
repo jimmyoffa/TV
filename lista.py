@@ -3871,14 +3871,14 @@ def ac():
             stream_url = div.get("data-channel-url")
             img = div.find("img", class_="channel-image")
             logo = img["src"] if img else ""
-            if name and stream_url:
+            # Aggiungi questo controllo per ignorare i link .html
+            if name and stream_url and ".html" not in stream_url:
                 channels.append({
                     "name": name.strip(),
                     "url": stream_url.strip(),
                     "logo": logo.strip()
                 })
         return channels
-    
     
     def write_m3u(channels, output_file, tvg_id_map):
         with open(output_file, "w", encoding="utf-8") as f:
