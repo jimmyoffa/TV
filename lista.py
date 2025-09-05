@@ -67,15 +67,15 @@ def merger_playlist2():
     playlist6 = download_playlist(url6)
     
     # Unisci le playlist
-    lista-omgtv = playlist1 + "\n" + playlist2 + "\n" + playlist3 + "\n" + playlist4 + "\n" + playlist5 + "\n" + playlist6
+    lista_omgtv = playlist1 + "\n" + playlist2 + "\n" + playlist3 + "\n" + playlist4 + "\n" + playlist5 + "\n" + playlist6
     
     # Aggiungi intestazione EPG
-    lista-omgtv = f'#EXTM3U url-tvg="https://raw.githubusercontent.com/{NOMEGITHUB}/{NOMEREPO}/refs/heads/main/epg.xml"\n' + lista-omgtv
+    lista_omgtv = f'#EXTM3U url-tvg="https://raw.githubusercontent.com/{NOMEGITHUB}/{NOMEREPO}/refs/heads/main/epg.xml"\n' + lista_omgtv
     
     # Salva la playlist
-    output_filename = os.path.join(script_directory, "lista-omgtv.m3u")
+    output_filename = os.path.join(script_directory, "lista_omgtv.m3u")
     with open(output_filename, 'w', encoding='utf-8') as file:
-        file.write(lista-omgtv)
+        file.write(lista_omgtv)
     
     print(f"Playlist combinata salvata in: {output_filename}")
     
@@ -139,15 +139,15 @@ def merger_playlistworld2():
     playlist5 = download_playlist(url5)
     playlist6 = download_playlist(url6, exclude_group_title="Italy")
     # Unisci le playlist
-    lista-omgtv = playlist1 + "\n" + playlist2 + "\n" + playlist3 + "\n" + playlist4 + "\n" + playlist5 + "\n" + playlist6 + "\n" + playlist7
+    lista_omgtv = playlist1 + "\n" + playlist2 + "\n" + playlist3 + "\n" + playlist4 + "\n" + playlist5 + "\n" + playlist6 + "\n" + playlist7
     
     # Aggiungi intestazione EPG
-    lista-omgtv = f'#EXTM3U url-tvg="https://raw.githubusercontent.com/{NOMEGITHUB}/{NOMEREPO}/refs/heads/main/epg.xml"\n' + lista-omgtv
+    lista_omgtv = f'#EXTM3U url-tvg="https://raw.githubusercontent.com/{NOMEGITHUB}/{NOMEREPO}/refs/heads/main/epg.xml"\n' + lista_omgtv
     
     # Salva la playlist
-    output_filename = os.path.join(script_directory, "lista-omgtv.m3u")
+    output_filename = os.path.join(script_directory, "lista_omgtv.m3u")
     with open(output_filename, 'w', encoding='utf-8') as file:
-        file.write(lista-omgtv)
+        file.write(lista_omgtv)
     
     print(f"Playlist combinata salvata in: {output_filename}")
 
