@@ -732,29 +732,6 @@
     <desc lang="it">2025 US Open Tennis Women´s Final : Sabalenka A. vs Anisimova A.</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Formula3PirelliItalianGrandPrixSprintRace">
-    <display-name>Formula 3 : Pirelli Italian Grand Prix - Sprint Race</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906081500 +0200" channel="Formula3PirelliItalianGrandPrixSprintRace">
-    <title lang="it">Inizia alle 08:15.</title>
-    <desc lang="it">Formula 3 : Pirelli Italian Grand Prix - Sprint Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906081500 +0200" stop="20250906101500 +0200" channel="Formula3PirelliItalianGrandPrixSprintRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : Pirelli Italian Grand Prix - Sprint Race</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
-  <programme start="20250906000000 +0200" stop="20250906081500 +0200" channel="Formula3PirelliItalianGrandPrixSprintRace">
-    <title lang="it">Inizia alle 08:15.</title>
-    <desc lang="it">Formula 3 : Pirelli Italian Grand Prix - Sprint Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906081500 +0200" stop="20250906101500 +0200" channel="Formula3PirelliItalianGrandPrixSprintRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : Pirelli Italian Grand Prix - Sprint Race</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
   <channel id="Moto3GrandPrixofCataloniaFreePractice2">
     <display-name>Moto 3 : Grand Prix of Catalonia Free Practice 2</display-name>
   </channel>
@@ -1681,32 +1658,6 @@
     <desc lang="it">NCAA FBS : Louisiana-Monroe at Alabama</desc>
     <category lang="it">Am. Football</category>
   </programme>
-  <channel id="AFLWomenCarltonBluesWvsWesternBulldogsW">
-    <display-name>AFL Women : Carlton Blues W vs Western Bulldogs W</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906070000 +0200" channel="AFLWomenCarltonBluesWvsWesternBulldogsW">
-    <title lang="it">Inizia alle 07:00.</title>
-    <desc lang="it">AFL Women : Carlton Blues W vs Western Bulldogs W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906070000 +0200" stop="20250906090000 +0200" channel="AFLWomenCarltonBluesWvsWesternBulldogsW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">AFL Women : Carlton Blues W vs Western Bulldogs W</desc>
-    <category lang="it">Aussie rules</category>
-  </programme>
-  <channel id="AFLGreaterWesternSydneyvsHawthornHawks">
-    <display-name>AFL : Greater Western Sydney vs Hawthorn Hawks</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906071500 +0200" channel="AFLGreaterWesternSydneyvsHawthornHawks">
-    <title lang="it">Inizia alle 07:15.</title>
-    <desc lang="it">AFL : Greater Western Sydney vs Hawthorn Hawks.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906071500 +0200" stop="20250906091500 +0200" channel="AFLGreaterWesternSydneyvsHawthornHawks">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">AFL : Greater Western Sydney vs Hawthorn Hawks</desc>
-    <category lang="it">Aussie rules</category>
-  </programme>
   <channel id="AFLWomenHawthornHawksWvsStKildaW">
     <display-name>AFL Women : Hawthorn Hawks W vs St Kilda W</display-name>
   </channel>
@@ -2013,19 +1964,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">National Rugby League Women : Canterbury-Bankstown Bulldogs W vs Cronulla Sharks W</desc>
     <category lang="it">Rugby League</category>
-  </programme>
-  <channel id="RugbyChampionshipAustraliavsArgentina">
-    <display-name>Rugby Championship : Australia vs Argentina</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906063000 +0200" channel="RugbyChampionshipAustraliavsArgentina">
-    <title lang="it">Inizia alle 06:30.</title>
-    <desc lang="it">Rugby Championship : Australia vs Argentina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906063000 +0200" stop="20250906083000 +0200" channel="RugbyChampionshipAustraliavsArgentina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Rugby Championship : Australia vs Argentina</desc>
-    <category lang="it">Rugby Union</category>
   </programme>
   <channel id="WorldCupWomenCanadaWvsScotlandW">
     <display-name>World Cup Women : Canada W vs Scotland W</display-name>
