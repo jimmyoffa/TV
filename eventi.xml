@@ -732,88 +732,6 @@
     <desc lang="it">2025 US Open Tennis Women´s Final : Sabalenka A. vs Anisimova A.</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Moto3GrandPrixofCataloniaFreePractice2">
-    <display-name>Moto 3 : Grand Prix of Catalonia Free Practice 2</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906083000 +0200" channel="Moto3GrandPrixofCataloniaFreePractice2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Moto 3 : Grand Prix of Catalonia Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906083000 +0200" stop="20250906103000 +0200" channel="Moto3GrandPrixofCataloniaFreePractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 3 : Grand Prix of Catalonia Free Practice 2</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
-  <programme start="20250906000000 +0200" stop="20250906083000 +0200" channel="Moto3GrandPrixofCataloniaFreePractice2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Moto 3 : Grand Prix of Catalonia Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906083000 +0200" stop="20250906103000 +0200" channel="Moto3GrandPrixofCataloniaFreePractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 3 : Grand Prix of Catalonia Free Practice 2</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
-  <channel id="WorldSBKRound9FranceFreePractice3">
-    <display-name>WorldSBK | Round 9 | France Free Practice 3</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906090000 +0200" channel="WorldSBKRound9FranceFreePractice3">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">WorldSBK | Round 9 | France Free Practice 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906090000 +0200" stop="20250906110000 +0200" channel="WorldSBKRound9FranceFreePractice3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WorldSBK | Round 9 | France Free Practice 3</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
-  <channel id="Moto2GrandPrixofCataloniaFreePractice2">
-    <display-name>Moto 2 : Grand Prix of Catalonia Free Practice 2</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906092000 +0200" channel="Moto2GrandPrixofCataloniaFreePractice2">
-    <title lang="it">Inizia alle 09:20.</title>
-    <desc lang="it">Moto 2 : Grand Prix of Catalonia Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906092000 +0200" stop="20250906112000 +0200" channel="Moto2GrandPrixofCataloniaFreePractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 2 : Grand Prix of Catalonia Free Practice 2</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
-  <programme start="20250906000000 +0200" stop="20250906092000 +0200" channel="Moto2GrandPrixofCataloniaFreePractice2">
-    <title lang="it">Inizia alle 09:20.</title>
-    <desc lang="it">Moto 2 : Grand Prix of Catalonia Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906092000 +0200" stop="20250906112000 +0200" channel="Moto2GrandPrixofCataloniaFreePractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 2 : Grand Prix of Catalonia Free Practice 2</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
-  <channel id="MotoGPGrandPrixofCataloniaQualifying">
-    <display-name>MotoGP : Grand Prix of Catalonia Qualifying</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906100000 +0200" channel="MotoGPGrandPrixofCataloniaQualifying">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">MotoGP : Grand Prix of Catalonia Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906100000 +0200" stop="20250906120000 +0200" channel="MotoGPGrandPrixofCataloniaQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Grand Prix of Catalonia Qualifying</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
-  <programme start="20250906000000 +0200" stop="20250906100000 +0200" channel="MotoGPGrandPrixofCataloniaQualifying">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">MotoGP : Grand Prix of Catalonia Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906100000 +0200" stop="20250906120000 +0200" channel="MotoGPGrandPrixofCataloniaQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Grand Prix of Catalonia Qualifying</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
   <channel id="WorldSBKRound9FranceSuperpole">
     <display-name>WorldSBK | Round 9 | France Superpole</display-name>
   </channel>
@@ -1951,19 +1869,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Live racing from around the UK</desc>
     <category lang="it">Horse Racing</category>
-  </programme>
-  <channel id="NationalRugbyLeagueWomenCanterburyBankstownBulldogsWvsCronullaSharksW">
-    <display-name>National Rugby League Women : Canterbury-Bankstown Bulldogs W vs Cronulla Sharks W</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906091500 +0200" channel="NationalRugbyLeagueWomenCanterburyBankstownBulldogsWvsCronullaSharksW">
-    <title lang="it">Inizia alle 09:15.</title>
-    <desc lang="it">National Rugby League Women : Canterbury-Bankstown Bulldogs W vs Cronulla Sharks W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906091500 +0200" stop="20250906111500 +0200" channel="NationalRugbyLeagueWomenCanterburyBankstownBulldogsWvsCronullaSharksW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">National Rugby League Women : Canterbury-Bankstown Bulldogs W vs Cronulla Sharks W</desc>
-    <category lang="it">Rugby League</category>
   </programme>
   <channel id="WorldCupWomenCanadaWvsScotlandW">
     <display-name>World Cup Women : Canada W vs Scotland W</display-name>
