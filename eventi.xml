@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="TheFineArtAuctionLiveEpisode5Live">
-    <display-name>The Fine Art Auction - Live! Episode 5 • Live</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906140000 +0200" channel="TheFineArtAuctionLiveEpisode5Live">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">The Fine Art Auction - Live! Episode 5 • Live.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906140000 +0200" stop="20250906160000 +0200" channel="TheFineArtAuctionLiveEpisode5Live">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">The Fine Art Auction - Live! Episode 5 • Live</desc>
-    <category lang="it">TV Shows</category>
-  </programme>
   <channel id="ImpracticalJokersSeason12Episode9">
     <display-name>Impractical Jokers Season 12, Episode 9</display-name>
   </channel>
@@ -38,39 +25,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">The MeatEater Podcast Ep. 740: The Gunslingers</desc>
     <category lang="it">TV Shows</category>
-  </programme>
-  <channel id="EnglandLeagueTwoNewportCountyvsBristolRovers">
-    <display-name>England - League Two : Newport County vs Bristol Rovers</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906133000 +0200" channel="EnglandLeagueTwoNewportCountyvsBristolRovers">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - League Two : Newport County vs Bristol Rovers.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906133000 +0200" stop="20250906153000 +0200" channel="EnglandLeagueTwoNewportCountyvsBristolRovers">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - League Two : Newport County vs Bristol Rovers</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250906000000 +0200" stop="20250906133000 +0200" channel="EnglandLeagueTwoNewportCountyvsBristolRovers">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - League Two : Newport County vs Bristol Rovers.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906133000 +0200" stop="20250906153000 +0200" channel="EnglandLeagueTwoNewportCountyvsBristolRovers">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - League Two : Newport County vs Bristol Rovers</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250906000000 +0200" stop="20250906133000 +0200" channel="EnglandLeagueTwoNewportCountyvsBristolRovers">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - League Two : Newport County vs Bristol Rovers.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906133000 +0200" stop="20250906153000 +0200" channel="EnglandLeagueTwoNewportCountyvsBristolRovers">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - League Two : Newport County vs Bristol Rovers</desc>
-    <category lang="it">Soccer</category>
   </programme>
   <channel id="EnglandWomensSuperLeagueArsenalvsLondonCityLionesses">
     <display-name>England - Women's Super League : Arsenal vs London City Lionesses</display-name>
@@ -732,101 +686,6 @@
     <desc lang="it">2025 US Open Tennis Women´s Final : Sabalenka A. vs Anisimova A.</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Moto3GrandPrixofCataloniaQualifying">
-    <display-name>Moto 3 : Grand Prix of Catalonia Qualifying</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906124500 +0200" channel="Moto3GrandPrixofCataloniaQualifying">
-    <title lang="it">Inizia alle 12:45.</title>
-    <desc lang="it">Moto 3 : Grand Prix of Catalonia Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906124500 +0200" stop="20250906144500 +0200" channel="Moto3GrandPrixofCataloniaQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 3 : Grand Prix of Catalonia Qualifying</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
-  <programme start="20250906000000 +0200" stop="20250906124500 +0200" channel="Moto3GrandPrixofCataloniaQualifying">
-    <title lang="it">Inizia alle 12:45.</title>
-    <desc lang="it">Moto 3 : Grand Prix of Catalonia Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906124500 +0200" stop="20250906144500 +0200" channel="Moto3GrandPrixofCataloniaQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 3 : Grand Prix of Catalonia Qualifying</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
-  <channel id="WorldChampionshipTrkiyeMXGPRace1">
-    <display-name>World Championship T?rkiye | MXGP | Race 1</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906130000 +0200" channel="WorldChampionshipTrkiyeMXGPRace1">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">World Championship T?rkiye | MXGP | Race 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906130000 +0200" stop="20250906150000 +0200" channel="WorldChampionshipTrkiyeMXGPRace1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship T?rkiye | MXGP | Race 1</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
-  <channel id="GTWorldChallengeEuropeWorldWCRRound5FranceSuperpole">
-    <display-name>GT World Challenge Europe WorldWCR | Round 5 | France Superpole</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906133000 +0200" channel="GTWorldChallengeEuropeWorldWCRRound5FranceSuperpole">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">GT World Challenge Europe WorldWCR | Round 5 | France Superpole.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906133000 +0200" stop="20250906153000 +0200" channel="GTWorldChallengeEuropeWorldWCRRound5FranceSuperpole">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">GT World Challenge Europe WorldWCR | Round 5 | France Superpole</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
-  <channel id="Moto2GrandPrixofCataloniaQualifying">
-    <display-name>Moto 2 : Grand Prix of Catalonia Qualifying</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906134000 +0200" channel="Moto2GrandPrixofCataloniaQualifying">
-    <title lang="it">Inizia alle 13:40.</title>
-    <desc lang="it">Moto 2 : Grand Prix of Catalonia Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906134000 +0200" stop="20250906154000 +0200" channel="Moto2GrandPrixofCataloniaQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 2 : Grand Prix of Catalonia Qualifying</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
-  <programme start="20250906000000 +0200" stop="20250906134000 +0200" channel="Moto2GrandPrixofCataloniaQualifying">
-    <title lang="it">Inizia alle 13:40.</title>
-    <desc lang="it">Moto 2 : Grand Prix of Catalonia Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906134000 +0200" stop="20250906154000 +0200" channel="Moto2GrandPrixofCataloniaQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 2 : Grand Prix of Catalonia Qualifying</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
-  <channel id="Formula2PirelliItalianGrandPrixSprintRace">
-    <display-name>Formula 2 : Pirelli Italian Grand Prix - Sprint Race</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906141500 +0200" channel="Formula2PirelliItalianGrandPrixSprintRace">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">Formula 2 : Pirelli Italian Grand Prix - Sprint Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906141500 +0200" stop="20250906161500 +0200" channel="Formula2PirelliItalianGrandPrixSprintRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 2 : Pirelli Italian Grand Prix - Sprint Race</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
-  <programme start="20250906000000 +0200" stop="20250906141500 +0200" channel="Formula2PirelliItalianGrandPrixSprintRace">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">Formula 2 : Pirelli Italian Grand Prix - Sprint Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906141500 +0200" stop="20250906161500 +0200" channel="Formula2PirelliItalianGrandPrixSprintRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 2 : Pirelli Italian Grand Prix - Sprint Race</desc>
-    <category lang="it">Motorsports</category>
-  </programme>
   <channel id="MotoGPGrandPrixofCataloniaSprintRace">
     <display-name>MotoGP : Grand Prix of Catalonia Sprint Race</display-name>
   </channel>
@@ -1027,29 +886,6 @@
     <desc lang="it">UFC Fight Night 269 Main Card : Nassourdine Imavov vs Caio Borralho</desc>
     <category lang="it">MMA</category>
   </programme>
-  <channel id="DPWorldTourAmgenIrishOpen">
-    <display-name>DP World Tour Amgen Irish Open</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906133000 +0200" channel="DPWorldTourAmgenIrishOpen">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">DP World Tour Amgen Irish Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906133000 +0200" stop="20250906153000 +0200" channel="DPWorldTourAmgenIrishOpen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">DP World Tour Amgen Irish Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20250906000000 +0200" stop="20250906133000 +0200" channel="DPWorldTourAmgenIrishOpen">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">DP World Tour Amgen Irish Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906133000 +0200" stop="20250906153000 +0200" channel="DPWorldTourAmgenIrishOpen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">DP World Tour Amgen Irish Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
   <channel id="WalkerCup">
     <display-name>Walker Cup</display-name>
   </channel>
@@ -1168,6 +1004,16 @@
     <desc lang="it">NCAA FBS : Iowa at Iowa State</desc>
     <category lang="it">Am. Football</category>
   </programme>
+  <programme start="20250906000000 +0200" stop="20250906180000 +0200" channel="NCAAFBSIowaatIowaState">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">NCAA FBS : Iowa at Iowa State.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906180000 +0200" stop="20250906200000 +0200" channel="NCAAFBSIowaatIowaState">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Iowa at Iowa State</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
   <channel id="NCAAFBSIllinoisatDuke">
     <display-name>NCAA FBS : Illinois at Duke</display-name>
   </channel>
@@ -1233,6 +1079,58 @@
     <desc lang="it">NCAA FBS : Central Michigan at Pittsburgh</desc>
     <category lang="it">Am. Football</category>
   </programme>
+  <channel id="NCAAFBSUConnatSyracuse">
+    <display-name>NCAA FBS : UConn at Syracuse</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906180000 +0200" channel="NCAAFBSUConnatSyracuse">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">NCAA FBS : UConn at Syracuse.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906180000 +0200" stop="20250906200000 +0200" channel="NCAAFBSUConnatSyracuse">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : UConn at Syracuse</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSSacredHeartatLehigh">
+    <display-name>NCAA FBS : Sacred Heart at Lehigh</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906180000 +0200" channel="NCAAFBSSacredHeartatLehigh">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">NCAA FBS : Sacred Heart at Lehigh.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906180000 +0200" stop="20250906200000 +0200" channel="NCAAFBSSacredHeartatLehigh">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Sacred Heart at Lehigh</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSThomasMoreatDayton">
+    <display-name>NCAA FBS : Thomas More at Dayton</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906180000 +0200" channel="NCAAFBSThomasMoreatDayton">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">NCAA FBS : Thomas More at Dayton.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906180000 +0200" stop="20250906200000 +0200" channel="NCAAFBSThomasMoreatDayton">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Thomas More at Dayton</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSLincolnPAatDuquesne">
+    <display-name>NCAA FBS : Lincoln (PA) at Duquesne</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906180000 +0200" channel="NCAAFBSLincolnPAatDuquesne">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">NCAA FBS : Lincoln (PA) at Duquesne.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906180000 +0200" stop="20250906200000 +0200" channel="NCAAFBSLincolnPAatDuquesne">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Lincoln (PA) at Duquesne</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
   <channel id="NCAAFBSUtahStateatTexasAandM">
     <display-name>NCAA FBS : Utah State at Texas AandM</display-name>
   </channel>
@@ -1244,6 +1142,185 @@
   <programme start="20250906184500 +0200" stop="20250906204500 +0200" channel="NCAAFBSUtahStateatTexasAandM">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">NCAA FBS : Utah State at Texas AandM</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSWagneratGeorgetown">
+    <display-name>NCAA FBS : Wagner at Georgetown</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906190000 +0200" channel="NCAAFBSWagneratGeorgetown">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">NCAA FBS : Wagner at Georgetown.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906190000 +0200" stop="20250906210000 +0200" channel="NCAAFBSWagneratGeorgetown">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Wagner at Georgetown</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSLafayetteatStonehill">
+    <display-name>NCAA FBS : Lafayette at Stonehill</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906190000 +0200" channel="NCAAFBSLafayetteatStonehill">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">NCAA FBS : Lafayette at Stonehill.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906190000 +0200" stop="20250906210000 +0200" channel="NCAAFBSLafayetteatStonehill">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Lafayette at Stonehill</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSTrumanStateatButler">
+    <display-name>NCAA FBS : Truman State at Butler</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906190000 +0200" channel="NCAAFBSTrumanStateatButler">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">NCAA FBS : Truman State at Butler.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906190000 +0200" stop="20250906210000 +0200" channel="NCAAFBSTrumanStateatButler">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Truman State at Butler</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSEasternIllinoisatIndianaState">
+    <display-name>NCAA FBS : Eastern Illinois at Indiana State</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906190000 +0200" channel="NCAAFBSEasternIllinoisatIndianaState">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">NCAA FBS : Eastern Illinois at Indiana State.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906190000 +0200" stop="20250906210000 +0200" channel="NCAAFBSEasternIllinoisatIndianaState">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Eastern Illinois at Indiana State</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSBucknellatMarist">
+    <display-name>NCAA FBS : Bucknell at Marist</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906190000 +0200" channel="NCAAFBSBucknellatMarist">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">NCAA FBS : Bucknell at Marist.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906190000 +0200" stop="20250906210000 +0200" channel="NCAAFBSBucknellatMarist">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Bucknell at Marist</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSUAlbanyatDelawareState">
+    <display-name>NCAA FBS : UAlbany at Delaware State</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906190000 +0200" channel="NCAAFBSUAlbanyatDelawareState">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">NCAA FBS : UAlbany at Delaware State.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906190000 +0200" stop="20250906210000 +0200" channel="NCAAFBSUAlbanyatDelawareState">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : UAlbany at Delaware State</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSFerrumCollegeatVMI">
+    <display-name>NCAA FBS : Ferrum College at VMI</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906193000 +0200" channel="NCAAFBSFerrumCollegeatVMI">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">NCAA FBS : Ferrum College at VMI.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906193000 +0200" stop="20250906213000 +0200" channel="NCAAFBSFerrumCollegeatVMI">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Ferrum College at VMI</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSWesternCarolinaatWakeForest">
+    <display-name>NCAA FBS : Western Carolina at Wake Forest</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906200000 +0200" channel="NCAAFBSWesternCarolinaatWakeForest">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">NCAA FBS : Western Carolina at Wake Forest.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906200000 +0200" stop="20250906220000 +0200" channel="NCAAFBSWesternCarolinaatWakeForest">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Western Carolina at Wake Forest</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSHowardatTemple">
+    <display-name>NCAA FBS : Howard at Temple</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906200000 +0200" channel="NCAAFBSHowardatTemple">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">NCAA FBS : Howard at Temple.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906200000 +0200" stop="20250906220000 +0200" channel="NCAAFBSHowardatTemple">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Howard at Temple</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSPresbyterianatFurman">
+    <display-name>NCAA FBS : Presbyterian at Furman</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906200000 +0200" channel="NCAAFBSPresbyterianatFurman">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">NCAA FBS : Presbyterian at Furman.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906200000 +0200" stop="20250906220000 +0200" channel="NCAAFBSPresbyterianatFurman">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Presbyterian at Furman</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSRobertMorrisatYoungstownState">
+    <display-name>NCAA FBS : Robert Morris at Youngstown State</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906200000 +0200" channel="NCAAFBSRobertMorrisatYoungstownState">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">NCAA FBS : Robert Morris at Youngstown State.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906200000 +0200" stop="20250906220000 +0200" channel="NCAAFBSRobertMorrisatYoungstownState">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Robert Morris at Youngstown State</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSChattanoogaatTennesseeTech">
+    <display-name>NCAA FBS : Chattanooga at Tennessee Tech</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906203000 +0200" channel="NCAAFBSChattanoogaatTennesseeTech">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">NCAA FBS : Chattanooga at Tennessee Tech.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906203000 +0200" stop="20250906223000 +0200" channel="NCAAFBSChattanoogaatTennesseeTech">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Chattanooga at Tennessee Tech</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <programme start="20250906000000 +0200" stop="20250906203000 +0200" channel="NCAAFBSUAlbanyatDelawareState">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">NCAA FBS : UAlbany at Delaware State.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906203000 +0200" stop="20250906223000 +0200" channel="NCAAFBSUAlbanyatDelawareState">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : UAlbany at Delaware State</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSNorthDakotaStateatTennesseeState">
+    <display-name>NCAA FBS : North Dakota State at Tennessee State</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906203000 +0200" channel="NCAAFBSNorthDakotaStateatTennesseeState">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">NCAA FBS : North Dakota State at Tennessee State.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906203000 +0200" stop="20250906223000 +0200" channel="NCAAFBSNorthDakotaStateatTennesseeState">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : North Dakota State at Tennessee State</desc>
     <category lang="it">Am. Football</category>
   </programme>
   <channel id="NCAAFBSTroyatClemson">
@@ -1280,6 +1357,19 @@
   <programme start="20250906213000 +0200" stop="20250906233000 +0200" channel="NCAAFBSOleMissatKentucky">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">NCAA FBS : Ole Miss at Kentucky</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSSaintFrancisPAatBuffalo">
+    <display-name>NCAA FBS : Saint Francis (PA) at Buffalo</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906213000 +0200" channel="NCAAFBSSaintFrancisPAatBuffalo">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">NCAA FBS : Saint Francis (PA) at Buffalo.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906213000 +0200" stop="20250906233000 +0200" channel="NCAAFBSSaintFrancisPAatBuffalo">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Saint Francis (PA) at Buffalo</desc>
     <category lang="it">Am. Football</category>
   </programme>
   <channel id="NCAAFBSOklahomaStateatOregon">
@@ -1331,6 +1421,71 @@
     <desc lang="it">NCAA FBS : Fresno State at Oregon State</desc>
     <category lang="it">Am. Football</category>
   </programme>
+  <channel id="NCAAFBSAustinPeayatGeorgia">
+    <display-name>NCAA FBS : Austin Peay at Georgia</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906213000 +0200" channel="NCAAFBSAustinPeayatGeorgia">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">NCAA FBS : Austin Peay at Georgia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906213000 +0200" stop="20250906233000 +0200" channel="NCAAFBSAustinPeayatGeorgia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Austin Peay at Georgia</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSBryantatUMass">
+    <display-name>NCAA FBS : Bryant at UMass</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906213000 +0200" channel="NCAAFBSBryantatUMass">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">NCAA FBS : Bryant at UMass.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906213000 +0200" stop="20250906233000 +0200" channel="NCAAFBSBryantatUMass">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Bryant at UMass</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSLindenwoodatAppalachianState">
+    <display-name>NCAA FBS : Lindenwood at Appalachian State</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906213000 +0200" channel="NCAAFBSLindenwoodatAppalachianState">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">NCAA FBS : Lindenwood at Appalachian State.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906213000 +0200" stop="20250906233000 +0200" channel="NCAAFBSLindenwoodatAppalachianState">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Lindenwood at Appalachian State</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSBowlingGreenatCincinnati">
+    <display-name>NCAA FBS : Bowling Green at Cincinnati</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906213000 +0200" channel="NCAAFBSBowlingGreenatCincinnati">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">NCAA FBS : Bowling Green at Cincinnati.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906213000 +0200" stop="20250906233000 +0200" channel="NCAAFBSBowlingGreenatCincinnati">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Bowling Green at Cincinnati</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSMiamiOHatRutgers">
+    <display-name>NCAA FBS : Miami (OH) at Rutgers</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906213000 +0200" channel="NCAAFBSMiamiOHatRutgers">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">NCAA FBS : Miami (OH) at Rutgers.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906213000 +0200" stop="20250906233000 +0200" channel="NCAAFBSMiamiOHatRutgers">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Miami (OH) at Rutgers</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
   <channel id="NCAAFBSDelawareatColorado">
     <display-name>NCAA FBS : Delaware at Colorado</display-name>
   </channel>
@@ -1352,6 +1507,71 @@
   <programme start="20250906213000 +0200" stop="20250906233000 +0200" channel="NCAAFBSDelawareatColorado">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">NCAA FBS : Delaware at Colorado</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSNorthTexasatWesternMichigan">
+    <display-name>NCAA FBS : North Texas at Western Michigan</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906213000 +0200" channel="NCAAFBSNorthTexasatWesternMichigan">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">NCAA FBS : North Texas at Western Michigan.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906213000 +0200" stop="20250906233000 +0200" channel="NCAAFBSNorthTexasatWesternMichigan">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : North Texas at Western Michigan</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSEastTennesseeStateatTennessee">
+    <display-name>NCAA FBS : East Tennessee State at Tennessee</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906213000 +0200" channel="NCAAFBSEastTennesseeStateatTennessee">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">NCAA FBS : East Tennessee State at Tennessee.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906213000 +0200" stop="20250906233000 +0200" channel="NCAAFBSEastTennesseeStateatTennessee">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : East Tennessee State at Tennessee</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSGardnerWebbatGeorgiaTech">
+    <display-name>NCAA FBS : Gardner-Webb at Georgia Tech</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906213000 +0200" channel="NCAAFBSGardnerWebbatGeorgiaTech">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">NCAA FBS : Gardner-Webb at Georgia Tech.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906213000 +0200" stop="20250906233000 +0200" channel="NCAAFBSGardnerWebbatGeorgiaTech">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Gardner-Webb at Georgia Tech</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSTexasStateatUTSA">
+    <display-name>NCAA FBS : Texas State at UTSA</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906213000 +0200" channel="NCAAFBSTexasStateatUTSA">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">NCAA FBS : Texas State at UTSA.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906213000 +0200" stop="20250906233000 +0200" channel="NCAAFBSTexasStateatUTSA">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Texas State at UTSA</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSTheCitadelatSamford">
+    <display-name>NCAA FBS : The Citadel at Samford</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906213000 +0200" channel="NCAAFBSTheCitadelatSamford">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">NCAA FBS : The Citadel at Samford.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906213000 +0200" stop="20250906233000 +0200" channel="NCAAFBSTheCitadelatSamford">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : The Citadel at Samford</desc>
     <category lang="it">Am. Football</category>
   </programme>
   <channel id="NCAAFBSWestVirginiaatOhio">
@@ -1380,6 +1600,267 @@
     <desc lang="it">NCAA FBS : Middle Tennessee State at Wisconsin</desc>
     <category lang="it">Am. Football</category>
   </programme>
+  <channel id="NCAAFBSSacramentoStateatNevada">
+    <display-name>NCAA FBS : Sacramento State at Nevada</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906230000 +0200" channel="NCAAFBSSacramentoStateatNevada">
+    <title lang="it">Inizia alle 23:00.</title>
+    <desc lang="it">NCAA FBS : Sacramento State at Nevada.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906230000 +0200" stop="20250907010000 +0200" channel="NCAAFBSSacramentoStateatNevada">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Sacramento State at Nevada</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSJacksonStateatSouthernMiss">
+    <display-name>NCAA FBS : Jackson State at Southern Miss</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906230000 +0200" channel="NCAAFBSJacksonStateatSouthernMiss">
+    <title lang="it">Inizia alle 23:00.</title>
+    <desc lang="it">NCAA FBS : Jackson State at Southern Miss.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906230000 +0200" stop="20250907010000 +0200" channel="NCAAFBSJacksonStateatSouthernMiss">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Jackson State at Southern Miss</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSUtahTechatNorthernArizona">
+    <display-name>NCAA FBS : Utah Tech at Northern Arizona</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906230000 +0200" channel="NCAAFBSUtahTechatNorthernArizona">
+    <title lang="it">Inizia alle 23:00.</title>
+    <desc lang="it">NCAA FBS : Utah Tech at Northern Arizona.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906230000 +0200" stop="20250907010000 +0200" channel="NCAAFBSUtahTechatNorthernArizona">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Utah Tech at Northern Arizona</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSArkansasStateatArkansas">
+    <display-name>NCAA FBS : Arkansas State at Arkansas</display-name>
+  </channel>
+  <programme start="20250906000000 +0200" stop="20250906230000 +0200" channel="NCAAFBSArkansasStateatArkansas">
+    <title lang="it">Inizia alle 23:00.</title>
+    <desc lang="it">NCAA FBS : Arkansas State at Arkansas.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250906230000 +0200" stop="20250907010000 +0200" channel="NCAAFBSArkansasStateatArkansas">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Arkansas State at Arkansas</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSNorthCarolinaCentralatOldDominion">
+    <display-name>NCAA FBS : North Carolina Central at Old Dominion</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907020000 +0200" channel="NCAAFBSNorthCarolinaCentralatOldDominion">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : North Carolina Central at Old Dominion</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSCampbellatEastCarolina">
+    <display-name>NCAA FBS : Campbell at East Carolina</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907020000 +0200" channel="NCAAFBSCampbellatEastCarolina">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Campbell at East Carolina</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSCalPolyatUtah">
+    <display-name>NCAA FBS : Cal Poly at Utah</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907020000 +0200" channel="NCAAFBSCalPolyatUtah">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Cal Poly at Utah</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSMissouriStateatMarshall">
+    <display-name>NCAA FBS : Missouri State at Marshall</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907020000 +0200" channel="NCAAFBSMissouriStateatMarshall">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Missouri State at Marshall</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSTexasSouthernatCalifornia">
+    <display-name>NCAA FBS : Texas Southern at California</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907020000 +0200" channel="NCAAFBSTexasSouthernatCalifornia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Texas Southern at California</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSFloridaAandMatFAU">
+    <display-name>NCAA FBS : Florida AandM at FAU</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907020000 +0200" channel="NCAAFBSFloridaAandMatFAU">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Florida AandM at FAU</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSAICatCentralConnecticutState">
+    <display-name>NCAA FBS : AIC at Central Connecticut State</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907020000 +0200" channel="NCAAFBSAICatCentralConnecticutState">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : AIC at Central Connecticut State</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSWarneratStetson">
+    <display-name>NCAA FBS : Warner at Stetson</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907020000 +0200" channel="NCAAFBSWarneratStetson">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Warner at Stetson</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSDavidsonatElon">
+    <display-name>NCAA FBS : Davidson at Elon</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907020000 +0200" channel="NCAAFBSDavidsonatElon">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Davidson at Elon</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSRhodeIslandatStonyBrook">
+    <display-name>NCAA FBS : Rhode Island at Stony Brook</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907020000 +0200" channel="NCAAFBSRhodeIslandatStonyBrook">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Rhode Island at Stony Brook</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSHolyCrossatNewHampshire">
+    <display-name>NCAA FBS : Holy Cross at New Hampshire</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907020000 +0200" channel="NCAAFBSHolyCrossatNewHampshire">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Holy Cross at New Hampshire</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSMonmouthatFordham">
+    <display-name>NCAA FBS : Monmouth at Fordham</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907020000 +0200" channel="NCAAFBSMonmouthatFordham">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Monmouth at Fordham</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSRichmondatWofford">
+    <display-name>NCAA FBS : Richmond at Wofford</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907020000 +0200" channel="NCAAFBSRichmondatWofford">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Richmond at Wofford</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSHoustonChristianatEasternKentucky">
+    <display-name>NCAA FBS : Houston Christian at Eastern Kentucky</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907020000 +0200" channel="NCAAFBSHoustonChristianatEasternKentucky">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Houston Christian at Eastern Kentucky</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSColgateatVillanova">
+    <display-name>NCAA FBS : Colgate at Villanova</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907020000 +0200" channel="NCAAFBSColgateatVillanova">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Colgate at Villanova</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSMaineatWilliamandMary">
+    <display-name>NCAA FBS : Maine at William and Mary</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907020000 +0200" channel="NCAAFBSMaineatWilliamandMary">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Maine at William and Mary</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSSaintAnselmatMerrimack">
+    <display-name>NCAA FBS : Saint Anselm at Merrimack</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907020000 +0200" channel="NCAAFBSSaintAnselmatMerrimack">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Saint Anselm at Merrimack</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSVirginiaStateatNorfolkState">
+    <display-name>NCAA FBS : Virginia State at Norfolk State</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907020000 +0200" channel="NCAAFBSVirginiaStateatNorfolkState">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Virginia State at Norfolk State</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSTulaneatSouthAlabama">
+    <display-name>NCAA FBS : Tulane at South Alabama</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907010000 +0200" channel="NCAAFBSTulaneatSouthAlabama">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NCAA FBS : Tulane at South Alabama.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907010000 +0200" stop="20250907030000 +0200" channel="NCAAFBSTulaneatSouthAlabama">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Tulane at South Alabama</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSBethuneCookmanatMiamiFL">
+    <display-name>NCAA FBS : Bethune-Cookman at Miami (FL)</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907010000 +0200" channel="NCAAFBSBethuneCookmanatMiamiFL">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NCAA FBS : Bethune-Cookman at Miami (FL).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907010000 +0200" stop="20250907030000 +0200" channel="NCAAFBSBethuneCookmanatMiamiFL">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Bethune-Cookman at Miami (FL)</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSWesternKentuckyatToledo">
+    <display-name>NCAA FBS : Western Kentucky at Toledo</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907010000 +0200" channel="NCAAFBSWesternKentuckyatToledo">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NCAA FBS : Western Kentucky at Toledo.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907010000 +0200" stop="20250907030000 +0200" channel="NCAAFBSWesternKentuckyatToledo">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Western Kentucky at Toledo</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSNorthCarolinaatCharlotte">
+    <display-name>NCAA FBS : North Carolina at Charlotte</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907010000 +0200" channel="NCAAFBSNorthCarolinaatCharlotte">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NCAA FBS : North Carolina at Charlotte.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907010000 +0200" stop="20250907030000 +0200" channel="NCAAFBSNorthCarolinaatCharlotte">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : North Carolina at Charlotte</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSMemphisatGeorgiaState">
+    <display-name>NCAA FBS : Memphis at Georgia State</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907010000 +0200" channel="NCAAFBSMemphisatGeorgiaState">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NCAA FBS : Memphis at Georgia State.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907010000 +0200" stop="20250907030000 +0200" channel="NCAAFBSMemphisatGeorgiaState">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Memphis at Georgia State</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
   <channel id="NCAAFBSArmyatKansasState">
     <display-name>NCAA FBS : Army at Kansas State</display-name>
   </channel>
@@ -1391,6 +1872,227 @@
   <programme start="20250907010000 +0200" stop="20250907030000 +0200" channel="NCAAFBSArmyatKansasState">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">NCAA FBS : Army at Kansas State</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSHoustonatRice">
+    <display-name>NCAA FBS : Houston at Rice</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907010000 +0200" channel="NCAAFBSHoustonatRice">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NCAA FBS : Houston at Rice.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907010000 +0200" stop="20250907030000 +0200" channel="NCAAFBSHoustonatRice">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Houston at Rice</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSSouthCarolinaStateatSouthCarolina">
+    <display-name>NCAA FBS : South Carolina State at South Carolina</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907010000 +0200" channel="NCAAFBSSouthCarolinaStateatSouthCarolina">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NCAA FBS : South Carolina State at South Carolina.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907010000 +0200" stop="20250907030000 +0200" channel="NCAAFBSSouthCarolinaStateatSouthCarolina">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : South Carolina State at South Carolina</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSNorthCarolinaAandTatUCF">
+    <display-name>NCAA FBS : North Carolina AandT at UCF</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907010000 +0200" channel="NCAAFBSNorthCarolinaAandTatUCF">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NCAA FBS : North Carolina AandT at UCF.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907010000 +0200" stop="20250907030000 +0200" channel="NCAAFBSNorthCarolinaAandTatUCF">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : North Carolina AandT at UCF</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSLIUatEasternMichigan">
+    <display-name>NCAA FBS : LIU at Eastern Michigan</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907010000 +0200" channel="NCAAFBSLIUatEasternMichigan">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NCAA FBS : LIU at Eastern Michigan.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907010000 +0200" stop="20250907030000 +0200" channel="NCAAFBSLIUatEasternMichigan">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : LIU at Eastern Michigan</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSWestGeorgiaatNicholls">
+    <display-name>NCAA FBS : West Georgia at Nicholls</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907010000 +0200" channel="NCAAFBSWestGeorgiaatNicholls">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NCAA FBS : West Georgia at Nicholls.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907010000 +0200" stop="20250907030000 +0200" channel="NCAAFBSWestGeorgiaatNicholls">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : West Georgia at Nicholls</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSAdrianCollegeatValparaiso">
+    <display-name>NCAA FBS : Adrian College at Valparaiso</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907010000 +0200" channel="NCAAFBSAdrianCollegeatValparaiso">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NCAA FBS : Adrian College at Valparaiso.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907010000 +0200" stop="20250907030000 +0200" channel="NCAAFBSAdrianCollegeatValparaiso">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Adrian College at Valparaiso</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSPortlandStateatNorthDakota">
+    <display-name>NCAA FBS : Portland State at North Dakota</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907010000 +0200" channel="NCAAFBSPortlandStateatNorthDakota">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NCAA FBS : Portland State at North Dakota.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907010000 +0200" stop="20250907030000 +0200" channel="NCAAFBSPortlandStateatNorthDakota">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Portland State at North Dakota</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSAlcornStateatAlabamaAandM">
+    <display-name>NCAA FBS : Alcorn State at Alabama AandM</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907010000 +0200" channel="NCAAFBSAlcornStateatAlabamaAandM">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NCAA FBS : Alcorn State at Alabama AandM.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907010000 +0200" stop="20250907030000 +0200" channel="NCAAFBSAlcornStateatAlabamaAandM">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Alcorn State at Alabama AandM</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSMississippiValleyStateatTarletonState">
+    <display-name>NCAA FBS : Mississippi Valley State at Tarleton State</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907010000 +0200" channel="NCAAFBSMississippiValleyStateatTarletonState">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NCAA FBS : Mississippi Valley State at Tarleton State.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907010000 +0200" stop="20250907030000 +0200" channel="NCAAFBSMississippiValleyStateatTarletonState">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Mississippi Valley State at Tarleton State</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSMoreheadStateatIllinoisState">
+    <display-name>NCAA FBS : Morehead State at Illinois State</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907010000 +0200" channel="NCAAFBSMoreheadStateatIllinoisState">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NCAA FBS : Morehead State at Illinois State.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907010000 +0200" stop="20250907030000 +0200" channel="NCAAFBSMoreheadStateatIllinoisState">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Morehead State at Illinois State</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSNorthAlabamaatSoutheastMissouriState">
+    <display-name>NCAA FBS : North Alabama at Southeast Missouri State</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907010000 +0200" channel="NCAAFBSNorthAlabamaatSoutheastMissouriState">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NCAA FBS : North Alabama at Southeast Missouri State.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907010000 +0200" stop="20250907030000 +0200" channel="NCAAFBSNorthAlabamaatSoutheastMissouriState">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : North Alabama at Southeast Missouri State</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSArkansasPineBluffatCentralArkansas">
+    <display-name>NCAA FBS : Arkansas-Pine Bluff at Central Arkansas</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907010000 +0200" channel="NCAAFBSArkansasPineBluffatCentralArkansas">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NCAA FBS : Arkansas-Pine Bluff at Central Arkansas.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907010000 +0200" stop="20250907030000 +0200" channel="NCAAFBSArkansasPineBluffatCentralArkansas">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Arkansas-Pine Bluff at Central Arkansas</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSSouthDakotaatLamar">
+    <display-name>NCAA FBS : South Dakota at Lamar</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907010000 +0200" channel="NCAAFBSSouthDakotaatLamar">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NCAA FBS : South Dakota at Lamar.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907010000 +0200" stop="20250907030000 +0200" channel="NCAAFBSSouthDakotaatLamar">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : South Dakota at Lamar</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSAlabamaStateatSouthern">
+    <display-name>NCAA FBS : Alabama State at Southern</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907010000 +0200" channel="NCAAFBSAlabamaStateatSouthern">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NCAA FBS : Alabama State at Southern.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907010000 +0200" stop="20250907030000 +0200" channel="NCAAFBSAlabamaStateatSouthern">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Alabama State at Southern</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSSoutheasternLouisianaatMurrayState">
+    <display-name>NCAA FBS : Southeastern Louisiana at Murray State</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907010000 +0200" channel="NCAAFBSSoutheasternLouisianaatMurrayState">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NCAA FBS : Southeastern Louisiana at Murray State.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907010000 +0200" stop="20250907030000 +0200" channel="NCAAFBSSoutheasternLouisianaatMurrayState">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Southeastern Louisiana at Murray State</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSTowsonatMorganState">
+    <display-name>NCAA FBS : Towson at Morgan State</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907010000 +0200" channel="NCAAFBSTowsonatMorganState">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NCAA FBS : Towson at Morgan State.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907010000 +0200" stop="20250907030000 +0200" channel="NCAAFBSTowsonatMorganState">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Towson at Morgan State</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSUTRGVatPrairieViewAandM">
+    <display-name>NCAA FBS : UTRGV at Prairie View AandM</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907010000 +0200" channel="NCAAFBSUTRGVatPrairieViewAandM">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">NCAA FBS : UTRGV at Prairie View AandM.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907010000 +0200" stop="20250907030000 +0200" channel="NCAAFBSUTRGVatPrairieViewAandM">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : UTRGV at Prairie View AandM</desc>
     <category lang="it">Am. Football</category>
   </programme>
   <channel id="NCAAFBSArizonaStateatMississippiState">
@@ -1427,6 +2129,19 @@
   <programme start="20250907013000 +0200" stop="20250907033000 +0200" channel="NCAAFBSMichiganatOklahoma">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">NCAA FBS : Michigan at Oklahoma</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSCharlestonSouthernatCoastalCarolina">
+    <display-name>NCAA FBS : Charleston Southern at Coastal Carolina</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907013000 +0200" channel="NCAAFBSCharlestonSouthernatCoastalCarolina">
+    <title lang="it">Inizia alle 01:30.</title>
+    <desc lang="it">NCAA FBS : Charleston Southern at Coastal Carolina.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907013000 +0200" stop="20250907033000 +0200" channel="NCAAFBSCharlestonSouthernatCoastalCarolina">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Charleston Southern at Coastal Carolina</desc>
     <category lang="it">Am. Football</category>
   </programme>
   <channel id="NCAAFBSBallStateatAuburn">
@@ -1476,6 +2191,19 @@
   <programme start="20250907013000 +0200" stop="20250907033000 +0200" channel="NCAAFBSGeorgiaSouthernatSouthernCalifornia">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">NCAA FBS : Georgia Southern at Southern California</desc>
+    <category lang="it">Am. Football</category>
+  </programme>
+  <channel id="NCAAFBSLouisianaTechatLSU">
+    <display-name>NCAA FBS : Louisiana Tech at LSU</display-name>
+  </channel>
+  <programme start="20250907000000 +0200" stop="20250907013000 +0200" channel="NCAAFBSLouisianaTechatLSU">
+    <title lang="it">Inizia alle 01:30.</title>
+    <desc lang="it">NCAA FBS : Louisiana Tech at LSU.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250907013000 +0200" stop="20250907033000 +0200" channel="NCAAFBSLouisianaTechatLSU">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NCAA FBS : Louisiana Tech at LSU</desc>
     <category lang="it">Am. Football</category>
   </programme>
   <channel id="NCAAFBSLouisianaMonroeatAlabama">
@@ -1664,65 +2392,6 @@
     <desc lang="it">World Cup | Copper Men's and Women's Lead | Final</desc>
     <category lang="it">Climbing</category>
   </programme>
-  <channel id="LaVueltaaEspaaStage14Mountain135km3800m">
-    <display-name>La Vuelta a España: Stage 14 Mountain | 135 km | 3800 m</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906131500 +0200" channel="LaVueltaaEspaaStage14Mountain135km3800m">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">La Vuelta a España: Stage 14 Mountain | 135 km | 3800 m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906131500 +0200" stop="20250906151500 +0200" channel="LaVueltaaEspaaStage14Mountain135km3800m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">La Vuelta a España: Stage 14 Mountain | 135 km | 3800 m</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20250906000000 +0200" stop="20250906131500 +0200" channel="LaVueltaaEspaaStage14Mountain135km3800m">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">La Vuelta a España: Stage 14 Mountain | 135 km | 3800 m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906131500 +0200" stop="20250906151500 +0200" channel="LaVueltaaEspaaStage14Mountain135km3800m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">La Vuelta a España: Stage 14 Mountain | 135 km | 3800 m</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20250906000000 +0200" stop="20250906131500 +0200" channel="LaVueltaaEspaaStage14Mountain135km3800m">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">La Vuelta a España: Stage 14 Mountain | 135 km | 3800 m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906131500 +0200" stop="20250906151500 +0200" channel="LaVueltaaEspaaStage14Mountain135km3800m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">La Vuelta a España: Stage 14 Mountain | 135 km | 3800 m</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <channel id="LiveracingfromHaydockParkAscotandKemptonPark">
-    <display-name>Live racing from Haydock Park, Ascot and Kempton Park</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906140000 +0200" channel="LiveracingfromHaydockParkAscotandKemptonPark">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Live racing from Haydock Park, Ascot and Kempton Park.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906140000 +0200" stop="20250906160000 +0200" channel="LiveracingfromHaydockParkAscotandKemptonPark">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from Haydock Park, Ascot and Kempton Park</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
-  <channel id="LiveracingfromHaydockKemptonThirskStratfordandNavan">
-    <display-name>Live racing from Haydock, Kempton, Thirsk, Stratford and Navan</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906140000 +0200" channel="LiveracingfromHaydockKemptonThirskStratfordandNavan">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Live racing from Haydock, Kempton, Thirsk, Stratford and Navan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906140000 +0200" stop="20250906160000 +0200" channel="LiveracingfromHaydockKemptonThirskStratfordandNavan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from Haydock, Kempton, Thirsk, Stratford and Navan</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
   <channel id="LiveracingfromaroundtheUK">
     <display-name>Live racing from around the UK</display-name>
   </channel>
@@ -1735,19 +2404,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Live racing from around the UK</desc>
     <category lang="it">Horse Racing</category>
-  </programme>
-  <channel id="WorldCupWomenCanadaWvsScotlandW">
-    <display-name>World Cup Women : Canada W vs Scotland W</display-name>
-  </channel>
-  <programme start="20250906000000 +0200" stop="20250906130000 +0200" channel="WorldCupWomenCanadaWvsScotlandW">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">World Cup Women : Canada W vs Scotland W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250906130000 +0200" stop="20250906150000 +0200" channel="WorldCupWomenCanadaWvsScotlandW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Women : Canada W vs Scotland W</desc>
-    <category lang="it">Rugby Union</category>
   </programme>
   <channel id="WorldCupWomenWalesWvsFijiW">
     <display-name>World Cup Women : Wales W vs Fiji W</display-name>
